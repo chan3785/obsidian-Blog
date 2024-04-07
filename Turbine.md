@@ -35,4 +35,7 @@ http://wiki.hash.kr/index.php/%EC%86%94%EB%9D%BC%EB%82%98#.ED.83.80.EC.9B.8C_BFT
 그럼 이레이저 코드는 또 뭐야잇
 
 정확히 말하자면
-##### 리드-솔로몬 이레이저 코드 (Reed-Solomon Erasure Code)
+##### 리드-솔로몬 이레이저 코드 (Reed-Solomon Erasure Code)란?
+오류 정정 코드 중 하나라고 한다. 오류정정코드까지 설명하는 건 뇌절인 거 알잖아
+
+RS 이레이저 코드는 원본 데이터 패킷에 
