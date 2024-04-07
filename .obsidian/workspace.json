@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "041591f00671c365",
+            "id": "b78a07345fbc0e8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "b78a07345fbc0e8b",
+            "id": "f92adf7b24746652",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "인공지능 응용 04.05.md",
+                "file": "Turbine.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "인공지능 응용 04.05.md",
+                "file": "Turbine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "인공지능 응용 04.05.md",
+                "file": "Turbine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "인공지능 응용 04.05.md"
+                "file": "Turbine.md"
               }
             }
           }
@@ -158,9 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b78a07345fbc0e8b",
+  "active": "f92adf7b24746652",
   "lastOpenFiles": [
     "Tower BFT.md",
+    "Turbine.md",
     "인공지능 응용 04.05.md",
     "Welcome.md"
   ]
