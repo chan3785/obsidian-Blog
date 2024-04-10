@@ -74,9 +74,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c414693b7fcb6510",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "검증가능 지연 함수 VDF (Verifiable Delay Function).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proof of History.md",
+                "file": "검증가능 지연 함수 VDF (Verifiable Delay Function).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proof of History.md",
+                "file": "검증가능 지연 함수 VDF (Verifiable Delay Function).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proof of History.md"
+                "file": "검증가능 지연 함수 VDF (Verifiable Delay Function).md"
               }
             }
           }
@@ -204,13 +216,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a669353fcee72639",
+  "active": "c414693b7fcb6510",
   "lastOpenFiles": [
+    "Proof of History.md",
+    "검증가능 지연 함수 VDF (Verifiable Delay Function).md",
     "Pasted image 20240411000545.png",
     "Tower BFT.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Proof of History.md",
     "Untitled 1.md",
     "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md",
     "Excalidraw",
