@@ -52,7 +52,8 @@ PoH 역사 증명은
 
 '고빈도' 검증 가능 지연 함수 (High frequency Verifiable Delay Function) 이다.
 
-검증가능 지연함수는 
+검증가능 지연함수는 암호학 분야의 문제들을 활용해서 계산시간이 굉장히 오래 걸리는 함수이다. 
+그러나 특징이 있는데 입력
 ### 출처(참고문헌)
 -  https://medium.com/solanakorea/%EC%97%AD%EC%82%AC-%EC%A6%9D%EB%AA%85-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%9C%EA%B3%84-50bec6ec3b4e
 
