@@ -1,3 +1,11 @@
 {
-  "workspace:new-tab": []
+  "workspace:new-tab": [],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
 }
