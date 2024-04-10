@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git Library.md",
+                "file": "Template/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Library.md",
+                "file": "Template/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git Library.md",
+                "file": "Template/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git Library.md"
+                "file": "Template/Untitled.md"
               }
             }
           }
@@ -172,8 +172,10 @@
   },
   "active": "2fc959ca53898b93",
   "lastOpenFiles": [
-    "Tower BFT.md",
     "Git Library.md",
+    "Template/Untitled.md",
+    "Template",
+    "Tower BFT.md",
     "Turbine.md",
     "인공지능 응용 04.05.md",
     "Welcome.md"
