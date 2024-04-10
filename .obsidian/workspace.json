@@ -67,9 +67,11 @@
             "id": "a669353fcee72639",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md"
+                "file": "Tower BFT.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -140,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md",
+                "file": "Tower BFT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md",
+                "file": "Tower BFT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -180,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md"
+                "file": "Tower BFT.md"
               }
             }
           }
@@ -202,10 +204,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e64f69df4d478d02",
+  "active": "a669353fcee72639",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md",
+    "Untitled 1.md",
     "Excalidraw",
     "Tower BFT.md",
     "Untitled.md",
