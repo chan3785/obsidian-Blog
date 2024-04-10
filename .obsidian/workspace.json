@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Proof of History.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#POH",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,8 +122,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Proof of History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Proof of History.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Proof of History.md"
               }
             }
           }
@@ -205,11 +204,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3a59c9454e6419d0",
+  "active": "a669353fcee72639",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Untitled.md",
     "Tower BFT.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Proof of History.md",
+    "Untitled 1.md",
     "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md",
     "Excalidraw",
     "Template/Untitled.md",
