@@ -50,7 +50,9 @@ PoH 역사 증명은
 역사 증명은 함수라고 할 수 있다.
 함수이다.
 
-특징은 '고빈도' 검증 가능 지연 함수 (High frequency Verifiable Delay Function) 
+'고빈도' 검증 가능 지연 함수 (High frequency Verifiable Delay Function) 이다.
+
+검증가능 지연함수는 
 ### 출처(참고문헌)
 -  https://medium.com/solanakorea/%EC%97%AD%EC%82%AC-%EC%A6%9D%EB%AA%85-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%9C%EA%B3%84-50bec6ec3b4e
 
