@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "검증가능 지연 함수 VDF (Verifiable Delay Function).md",
+                "file": "VDF (Verifiable Delay Function).md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "검증가능 지연 함수 VDF (Verifiable Delay Function).md",
+                "file": "VDF (Verifiable Delay Function).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "검증가능 지연 함수 VDF (Verifiable Delay Function).md",
+                "file": "VDF (Verifiable Delay Function).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "검증가능 지연 함수 VDF (Verifiable Delay Function).md"
+                "file": "VDF (Verifiable Delay Function).md"
               }
             }
           }
@@ -219,7 +219,7 @@
   "active": "c414693b7fcb6510",
   "lastOpenFiles": [
     "Proof of History.md",
-    "검증가능 지연 함수 VDF (Verifiable Delay Function).md",
+    "VDF (Verifiable Delay Function).md",
     "Pasted image 20240411000545.png",
     "Tower BFT.md",
     "Untitled 1.canvas",
