@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘 설계 2024 - 1학기/Untitled.md",
+                "file": "알고리즘 설계 2024 - 1학기/알고리즘 성능 분석.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 설계 2024 - 1학기/Untitled.md",
+                "file": "알고리즘 설계 2024 - 1학기/알고리즘 성능 분석.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 설계 2024 - 1학기/Untitled.md",
+                "file": "알고리즘 설계 2024 - 1학기/알고리즘 성능 분석.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,12 +170,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 설계 2024 - 1학기/Untitled.md"
+                "file": "알고리즘 설계 2024 - 1학기/알고리즘 성능 분석.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,8 +193,9 @@
   },
   "active": "a669353fcee72639",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-04-12 21.08.50.excalidraw.md",
+    "알고리즘 설계 2024 - 1학기/알고리즘 성능 분석.md",
     "Git Library.md",
-    "알고리즘 설계 2024 - 1학기/Untitled.md",
     "Proof of History.md",
     "Pasted image 20240411000545.png",
     "Tower BFT.md",
