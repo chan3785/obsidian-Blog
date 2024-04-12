@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VDF (Verifiable Delay Function).md",
+                "file": "Template/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VDF (Verifiable Delay Function).md",
+                "file": "Template/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VDF (Verifiable Delay Function).md",
+                "file": "Template/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VDF (Verifiable Delay Function).md"
+                "file": "Template/Untitled.md"
               }
             }
           }
@@ -216,10 +216,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c414693b7fcb6510",
+  "active": "e8c75a5340b6ce88",
   "lastOpenFiles": [
-    "Proof of History.md",
+    "알고리즘 설계 2024 - 1학기",
     "VDF (Verifiable Delay Function).md",
+    "Proof of History.md",
     "Pasted image 20240411000545.png",
     "Tower BFT.md",
     "Untitled 1.canvas",
