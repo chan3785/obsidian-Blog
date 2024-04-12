@@ -52,43 +52,19 @@
             }
           },
           {
-            "id": "2539aa985ee17f3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a669353fcee72639",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proof of History.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c414693b7fcb6510",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template/Untitled.md",
+                "file": "알고리즘 설계 2024 - 1학기/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -154,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Template/Untitled.md",
+                "file": "알고리즘 설계 2024 - 1학기/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Template/Untitled.md",
+                "file": "알고리즘 설계 2024 - 1학기/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -194,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Template/Untitled.md"
+                "file": "알고리즘 설계 2024 - 1학기/Untitled.md"
               }
             }
           }
@@ -216,23 +192,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8c75a5340b6ce88",
+  "active": "a669353fcee72639",
   "lastOpenFiles": [
-    "알고리즘 설계 2024 - 1학기",
-    "VDF (Verifiable Delay Function).md",
+    "Git Library.md",
+    "알고리즘 설계 2024 - 1학기/Untitled.md",
     "Proof of History.md",
     "Pasted image 20240411000545.png",
     "Tower BFT.md",
+    "VDF (Verifiable Delay Function).md",
+    "Welcome.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 1.md",
+    "Untitled.md",
+    "Template/Untitled.md",
+    "알고리즘 설계 2024 - 1학기",
     "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md",
     "Excalidraw",
-    "Template/Untitled.md",
     "인공지능 응용 04.05.md",
-    "Git Library.md",
     "Template",
-    "Turbine.md",
-    "Welcome.md"
+    "Turbine.md"
   ]
 }
