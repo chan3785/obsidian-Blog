@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b78a07345fbc0e8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tower BFT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f92adf7b24746652",
             "type": "leaf",
             "state": {
@@ -63,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 설계 2024 - 1학기/알고리즘 성능 분석.md",
+                "file": "Tower BFT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 설계 2024 - 1학기/알고리즘 성능 분석.md",
+                "file": "Tower BFT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 설계 2024 - 1학기/알고리즘 성능 분석.md"
+                "file": "Tower BFT.md"
               }
             }
           }
@@ -191,10 +178,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a669353fcee72639",
+  "active": "f92adf7b24746652",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-04-12 21.08.50.excalidraw.md",
     "알고리즘 설계 2024 - 1학기/알고리즘 성능 분석.md",
+    "Excalidraw/Drawing 2024-04-12 21.08.50.excalidraw.md",
     "Git Library.md",
     "Proof of History.md",
     "Pasted image 20240411000545.png",
