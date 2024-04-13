@@ -18,7 +18,7 @@
 
 
 ### 출처(참고문헌)
--
+- https://medium.com/decipher-media/brief-overview-of-verifiable-delay-function-b9fe0e46ca43
 
 ### 연결문서
 -

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Virtual Liquidity.md",
+                "file": "VDF (Verifiable Delay Function).md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Virtual Liquidity.md",
+                "file": "VDF (Verifiable Delay Function).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Virtual Liquidity.md",
+                "file": "VDF (Verifiable Delay Function).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Virtual Liquidity.md"
+                "file": "VDF (Verifiable Delay Function).md"
               }
             }
           }
@@ -193,8 +193,8 @@
   },
   "active": "78556d07fc428ea0",
   "lastOpenFiles": [
-    "VDF (Verifiable Delay Function).md",
     "Virtual Liquidity.md",
+    "VDF (Verifiable Delay Function).md",
     "Proof of History.md",
     "Tower BFT.md",
     "알고리즘 설계 2024 - 1학기/알고리즘 성능 분석.md",
