@@ -6,10 +6,10 @@
 
 ---
 ### 메모: 
-##### 실제 적립금과 가상 적립금
+##### 실제 준비금과 가상 준비금
 
 ### 출처(참고문헌)
--
+- https://veridelisi.medium.com/virtual-and-real-reserves-in-uniswap-v3-b7f4afae1118
 
 ### 연결문서
 -
