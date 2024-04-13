@@ -14,8 +14,8 @@
 
 
 
-#### VDF가 만족해야 하는 특징
-
+#### VDF가 만족해야 하는 성질
+1. 계산하는데 시간이 매우 오래 걸린다 (물리적인 시간): 입력값이 주어지고, 
 
 ### 출처(참고문헌)
 - https://medium.com/decipher-media/brief-overview-of-verifiable-delay-function-b9fe0e46ca43
