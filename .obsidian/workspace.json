@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tower BFT.md",
+                "file": "Proof of History.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tower BFT.md",
+                "file": "Proof of History.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tower BFT.md",
+                "file": "Proof of History.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tower BFT.md"
+                "file": "Proof of History.md"
               }
             }
           }
@@ -180,12 +180,12 @@
   },
   "active": "f92adf7b24746652",
   "lastOpenFiles": [
+    "Tower BFT.md",
     "알고리즘 설계 2024 - 1학기/알고리즘 성능 분석.md",
     "Excalidraw/Drawing 2024-04-12 21.08.50.excalidraw.md",
     "Git Library.md",
     "Proof of History.md",
     "Pasted image 20240411000545.png",
-    "Tower BFT.md",
     "VDF (Verifiable Delay Function).md",
     "Welcome.md",
     "Untitled 1.canvas",
