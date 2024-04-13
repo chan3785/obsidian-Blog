@@ -10,6 +10,8 @@
 
 ### 출처(참고문헌)
 - https://veridelisi.medium.com/virtual-and-real-reserves-in-uniswap-v3-b7f4afae1118
+- https://blog.uniswap.org/uniswap-v3-math-primer-2#working-with-virtual-liquidity
+- https://yourbourse.com/virtual-liquidity-pools-to-groups-mapping-by-your-bourse-customized-trading-conditions-and-risk-management-made-easy
 
 ### 연결문서
 -
