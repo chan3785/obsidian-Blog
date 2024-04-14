@@ -31,7 +31,8 @@
    
    입력값 $x$, 그리고 출력값 $y$
    $y = f(x)$ 관계라고 할 때 
-   $x$로부터 직접 $f(x)$
+   $x$로 직접 $f(x)$를 계산하여 $y$를 찾는데는 많은 계산이 요구되지만,
+	   역함수를 사용해서 $f^-1(y)$를 계산해 $x = f^-1(y)$임을 확인하는 건 매우 쉬운 경우를 말한다.
 
 ### 출처(참고문헌)
 - https://medium.com/decipher-media/brief-overview-of-verifiable-delay-function-b9fe0e46ca43
