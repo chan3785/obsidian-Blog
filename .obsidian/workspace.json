@@ -114,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "467b628ed7694621",
@@ -178,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,7 +193,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "78556d07fc428ea0",
+  "active": "9bb35f6348b9fe55",
   "lastOpenFiles": [
     "VDF (Verifiable Delay Function).md",
     "Virtual Liquidity.md",
