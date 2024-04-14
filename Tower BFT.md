@@ -91,6 +91,7 @@ pBFT 방식은 $\frac{2}{3}$ 이상의 노드가 합의하면 검증이 되기 �
 - https://kr.beincrypto.com/learn-kr/%EC%95%8C%EA%B8%B0-%EC%89%BD%EA%B2%8C-10%EA%B0%80%EC%A7%80%EB%A1%9C-%EC%A0%95%EB%A6%AC%ED%95%9C-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%ED%95%A9%EC%9D%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/
 - https://blog.naver.com/bcexkorea/221438799103
 - https://medium.com/solanakorea/%ED%83%80%EC%9B%8C-bft-%EC%86%94%EB%9D%BC%EB%82%98%EC%9D%98-%EA%B3%A0%EC%84%B1%EB%8A%A5-pbft-18faa4d46ab9
+- https://docs.solanalabs.com/implemented-proposals/tower-bft
 
 ### 연결문서
 -
