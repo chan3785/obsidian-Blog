@@ -92,6 +92,7 @@ pBFT 방식은 $\frac{2}{3}$ 이상의 노드가 합의하면 검증이 되기 �
 - https://blog.naver.com/bcexkorea/221438799103
 - https://medium.com/solanakorea/%ED%83%80%EC%9B%8C-bft-%EC%86%94%EB%9D%BC%EB%82%98%EC%9D%98-%EA%B3%A0%EC%84%B1%EB%8A%A5-pbft-18faa4d46ab9
 - https://docs.solanalabs.com/implemented-proposals/tower-bft
+- https://4pillars.io/ko/articles/solana-mega-report-like-apple-but-unlike-apple/public
 
 ### 연결문서
 -
