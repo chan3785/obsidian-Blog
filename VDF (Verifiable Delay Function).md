@@ -29,6 +29,8 @@
 2. **짧은 시간 안에 확인이 가능해야 한다**: 
    주어진 입력값으로부터 계산된 출력값이 제대로 계산된 값인지 확인하는 방식이 매우 효율적으로 확인되어야 한다는 것을 의미한다.
    
+   입력값 x, 그리고 출력값 y
+   y = f(x) 관계
 
 ### 출처(참고문헌)
 - https://medium.com/decipher-media/brief-overview-of-verifiable-delay-function-b9fe0e46ca43
