@@ -78,7 +78,7 @@ PBFT는 수학적으로 증명이 된 알고리즘인데
 누군가 메시지를 변조시키지 않았음을 확인 했을 거기 때문에
 노드 자체가 오류가 발생했고, 그래서 잘못된 내용을 보냈다고 할 수 있다.
 
-pBFT 방식은 $\frac{2}{3}$ 
+pBFT 방식은 $\frac{2}{3}$ 이상의 노드가 합의하면 검증이 되기 때문에 속도가 
 ### Tower BFT
 타워 BFT는 PBFT의 파생형이다.
 일반적인 PBFT와는 다른 점이 바로 PoH를 글로벌 시간으로 이용한다는 점이다.
@@ -88,7 +88,8 @@ pBFT 방식은 $\frac{2}{3}$
 
 ### 출처(참고문헌)
 - http://wiki.hash.kr/index.php/%ED%94%84%EB%9E%99%ED%8B%B0%EC%BB%AC_%EB%B9%84%EC%9E%94%ED%8B%B4_%EC%9E%A5%EC%95%A0_%ED%97%88%EC%9A%A9
-- 
+- https://kr.beincrypto.com/learn-kr/%EC%95%8C%EA%B8%B0-%EC%89%BD%EA%B2%8C-10%EA%B0%80%EC%A7%80%EB%A1%9C-%EC%A0%95%EB%A6%AC%ED%95%9C-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%ED%95%A9%EC%9D%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/
+- https://blog.naver.com/bcexkorea/221438799103
 
 ### 연결문서
 -
