@@ -13,51 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VDF (Verifiable Delay Function).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "78556d07fc428ea0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘 설계 2024 - 1학기/알고리즘 성능 분석.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fc959ca53898b93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "인공지능 응용 04.05.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b784c7139efa6acf",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a669353fcee72639",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘 설계 2024 - 1학기/알고리즘 성능 분석.md",
+                "file": "Tower BFT.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "VDF (Verifiable Delay Function).md",
+                "file": "Tower BFT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VDF (Verifiable Delay Function).md",
+                "file": "Tower BFT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "VDF (Verifiable Delay Function).md"
+                "file": "Tower BFT.md"
               }
             }
           }
@@ -194,8 +150,8 @@
   },
   "active": "f92adf7b24746652",
   "lastOpenFiles": [
-    "알고리즘 설계 2024 - 1학기/알고리즘 성능 분석.md",
     "VDF (Verifiable Delay Function).md",
+    "알고리즘 설계 2024 - 1학기/알고리즘 성능 분석.md",
     "Virtual Liquidity.md",
     "Proof of History.md",
     "Tower BFT.md",
