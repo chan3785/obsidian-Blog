@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Turbine.md",
+                "file": "Tower BFT.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "467b628ed7694621",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Turbine.md",
+                "file": "Tower BFT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Turbine.md",
+                "file": "Tower BFT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Turbine.md"
+                "file": "Tower BFT.md"
               }
             }
           }
@@ -150,11 +149,12 @@
   },
   "active": "f92adf7b24746652",
   "lastOpenFiles": [
+    "Proof of History.md",
+    "Turbine.md",
     "Tower BFT.md",
     "VDF (Verifiable Delay Function).md",
     "알고리즘 설계 2024 - 1학기/알고리즘 성능 분석.md",
     "Virtual Liquidity.md",
-    "Proof of History.md",
     "Excalidraw/Drawing 2024-04-12 21.08.50.excalidraw.md",
     "Git Library.md",
     "Pasted image 20240411000545.png",
@@ -167,7 +167,6 @@
     "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md",
     "Excalidraw",
     "인공지능 응용 04.05.md",
-    "Template",
-    "Turbine.md"
+    "Template"
   ]
 }
