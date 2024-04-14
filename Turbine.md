@@ -1,7 +1,7 @@
 
 ### 날짜 : 2024-04-14 22:36
 
-### 주제: #Turbine #erasurecode #터빈 #
+### 주제: #Turbine #erasurecode #터빈 #이레이저코드
 
 ---
 ### 메모: 
