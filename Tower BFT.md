@@ -84,7 +84,10 @@ pBFT 방식은 $\frac{2}{3}$ 이상의 노드가 합의하면 검증이 되기 �
 일반적인 PBFT와는 다른 점이 바로 PoH를 글로벌 시간으로 이용한다는 점이다.
 
 타워 BFT는 이름에서 그 핵심을 나타낸다.
-노드들은 어느 한 해시
+노드들은 어느 한 해시, 그러니까 특정 시점이 옳고 그른지 투표를 할 수 있다.
+투표를 하면 타임 아웃이라는 게 생기는데, 이게 무엇이냐 하면
+time-out이란? 시간이 초과가 되면 뿌왕이란 느낌
+여기 타워 bft에서 time-out은 
 ### 출처(참고문헌)
 - http://wiki.hash.kr/index.php/%ED%94%84%EB%9E%99%ED%8B%B0%EC%BB%AC_%EB%B9%84%EC%9E%94%ED%8B%B4_%EC%9E%A5%EC%95%A0_%ED%97%88%EC%9A%A9
 - https://kr.beincrypto.com/learn-kr/%EC%95%8C%EA%B8%B0-%EC%89%BD%EA%B2%8C-10%EA%B0%80%EC%A7%80%EB%A1%9C-%EC%A0%95%EB%A6%AC%ED%95%9C-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%ED%95%A9%EC%9D%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/
