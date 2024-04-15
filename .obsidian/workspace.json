@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "전자기학 1.md",
+                "file": "Tower BFT.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "전자기학 1.md",
+                "file": "Tower BFT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "전자기학 1.md",
+                "file": "Tower BFT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "전자기학 1.md"
+                "file": "Tower BFT.md"
               }
             }
           }
@@ -162,10 +162,10 @@
   },
   "active": "e25284f81b1d1810",
   "lastOpenFiles": [
-    "Virtual Liquidity.md",
-    "전자기학 1.md",
     "Proof of History.md",
     "Tower BFT.md",
+    "전자기학 1.md",
+    "Virtual Liquidity.md",
     "Pasted image 20240411000545.png",
     "Git Library.md",
     "VDF (Verifiable Delay Function).md",
