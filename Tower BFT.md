@@ -102,7 +102,8 @@ $k$ 번째 투표의 타임아웃은 $2^{k}\cdot k \cdot 400ms (slots)$ 가 된�
 투표
 밸리데이터들은 어떤 포크가 가장 무겁다고 생각하는지 투표를 통해 의사를 전달한다.
 각 투표 $v$는 그걸 생성한 밸리데이터에 의해 서명이 된다. 그리고 투표의 형식은 $(i, B)$ 이다.
-$i$는 이 투표를 생성한 밸리데이터의 퍼블릭 키, $B$는 
+$i$는 이 투표를 생성한 밸리데이터의 퍼블릭 키, $B$는 투표대상 블록을 특정하는 해시이다.
+
 ### 출처(참고문헌)
 - http://wiki.hash.kr/index.php/%ED%94%84%EB%9E%99%ED%8B%B0%EC%BB%AC_%EB%B9%84%EC%9E%94%ED%8B%B4_%EC%9E%A5%EC%95%A0_%ED%97%88%EC%9A%A9
 - https://kr.beincrypto.com/learn-kr/%EC%95%8C%EA%B8%B0-%EC%89%BD%EA%B2%8C-10%EA%B0%80%EC%A7%80%EB%A1%9C-%EC%A0%95%EB%A6%AC%ED%95%9C-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%ED%95%A9%EC%9D%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/
