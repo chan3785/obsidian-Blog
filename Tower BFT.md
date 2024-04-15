@@ -95,7 +95,8 @@ time-out이란? 시간이 초과가 되면 뿌왕이란 느낌
 예를 들어 k번 동안 투표를 빼놓지 않고 했다면 
 $k$ 번째 투표의 타임아웃은 $2^{k}\cdot k \cdot 400ms (slots)$ 가 된다. 
 그러니까 이 구조는 최신 투표일 수록 정정할 시간이 넉넉하게 주어진다는 말이다. 
-
+이렇게 타임아웃을 든든하게 쌓아가는 걸 Tower Vote라고 한다. 
+타임아웃이 오래된 것
 ### 출처(참고문헌)
 - http://wiki.hash.kr/index.php/%ED%94%84%EB%9E%99%ED%8B%B0%EC%BB%AC_%EB%B9%84%EC%9E%94%ED%8B%B4_%EC%9E%A5%EC%95%A0_%ED%97%88%EC%9A%A9
 - https://kr.beincrypto.com/learn-kr/%EC%95%8C%EA%B8%B0-%EC%89%BD%EA%B2%8C-10%EA%B0%80%EC%A7%80%EB%A1%9C-%EC%A0%95%EB%A6%AC%ED%95%9C-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%ED%95%A9%EC%9D%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/
