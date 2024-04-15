@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proof of History.md",
+                "file": "Virtual Liquidity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proof of History.md",
+                "file": "Virtual Liquidity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proof of History.md",
+                "file": "Virtual Liquidity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proof of History.md"
+                "file": "Virtual Liquidity.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "f92adf7b24746652",
   "lastOpenFiles": [
-    "Tower BFT.md",
     "Proof of History.md",
+    "Tower BFT.md",
     "Pasted image 20240411000545.png",
     "Git Library.md",
     "Virtual Liquidity.md",
