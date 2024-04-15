@@ -92,7 +92,8 @@ time-out이란? 시간이 초과가 되면 뿌왕이란 느낌
 실제로 2초라는 얘기는 아니다. 실제론 1 슬롯 (블록이 만들어지는 단위. 400m초에 한번씩) 당 2배씩 타임아웃이 늘어난다. 
 그리고 타임아웃은 연속적으로 슬롯 마다 투표를 해야 점점 커진다. 
 예를 들어 k번 동안 투표를 빼놓지 않고 했다면 
-타임아웃은 $2^{k}\cdot$ 
+타임아웃은 $2^{k}\cdot 400ms$ 가 된다. 
+
 ### 출처(참고문헌)
 - http://wiki.hash.kr/index.php/%ED%94%84%EB%9E%99%ED%8B%B0%EC%BB%AC_%EB%B9%84%EC%9E%94%ED%8B%B4_%EC%9E%A5%EC%95%A0_%ED%97%88%EC%9A%A9
 - https://kr.beincrypto.com/learn-kr/%EC%95%8C%EA%B8%B0-%EC%89%BD%EA%B2%8C-10%EA%B0%80%EC%A7%80%EB%A1%9C-%EC%A0%95%EB%A6%AC%ED%95%9C-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%ED%95%A9%EC%9D%98-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98/
