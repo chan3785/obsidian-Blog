@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e25284f81b1d1810",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "전자기학 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Virtual Liquidity.md",
+                "file": "전자기학 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Virtual Liquidity.md",
+                "file": "전자기학 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Virtual Liquidity.md"
+                "file": "전자기학 1.md"
               }
             }
           }
@@ -147,13 +160,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f92adf7b24746652",
+  "active": "e25284f81b1d1810",
   "lastOpenFiles": [
+    "Virtual Liquidity.md",
+    "전자기학 1.md",
     "Proof of History.md",
     "Tower BFT.md",
     "Pasted image 20240411000545.png",
     "Git Library.md",
-    "Virtual Liquidity.md",
     "VDF (Verifiable Delay Function).md",
     "Turbine.md",
     "알고리즘 설계 2024 - 1학기/알고리즘 성능 분석.md",
