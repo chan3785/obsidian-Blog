@@ -8,7 +8,10 @@
 $F_{z}(\frac{x-3}{2})$ 로 표현된다.
 ### $P_{x}(X<=x) = F_{X}(x) = F_{z}(\frac{x-m_{x}}{\sigma_{x}})$ 
 
-Ex) 
+Ex) Radar Detection Problem 
+consider simple radar detection scheme
+
+
 ### 출처(참고문헌)
 -
 
