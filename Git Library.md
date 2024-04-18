@@ -19,3 +19,4 @@ obsidian에서 git push 오류가 났었다.
 이런 오류를 띄우며 push가 되지 않았다.
 
 #### 원인:
+원인은 git plugin에서 
