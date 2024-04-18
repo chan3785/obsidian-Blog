@@ -19,4 +19,8 @@ obsidian에서 git push 오류가 났었다.
 이런 오류를 띄우며 push가 되지 않았다.
 
 #### 원인:
-원인은 git plugin에서 
+원인은 git plugin에서 모든 정보를 commit하고 push를 하는가보다.
+
+Excalidraw에서 ai를 사용하려고 내 open ai api key를 받아와서 넣었다.
+근데 그것도 커밋을 하고 푸시를 해서 
+sect
