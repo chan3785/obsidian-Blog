@@ -25,5 +25,6 @@ Excalidraw에서 ai를 사용하려고 내 open ai api key를 받아와서 넣�
 근데 그것도 커밋을 하고 푸시를 해서 
 secret 내용은 푸시를 할 수 없다고 경고가 떴다.
 
-그래서 다시 excalidraw 설정에서 api key를 지우고
-`git reset --hard [commit id]` 
+그래서 다시 excalidraw 설정에서 api key를 지우고 
+==`git log`== 
+==`git reset --hard [commit id]`== 
