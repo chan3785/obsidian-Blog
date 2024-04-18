@@ -35,9 +35,11 @@
             "id": "12cd94018c67429f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -172,6 +174,7 @@
   },
   "active": "12cd94018c67429f",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md",
     "Untitled.md",
     "Tower BFT.md",
     "Proof of History.md",
@@ -189,7 +192,6 @@
     "Untitled.canvas",
     "Untitled 1.md",
     "알고리즘 설계 2024 - 1학기",
-    "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md",
     "Excalidraw",
     "인공지능 응용 04.05.md",
     "Template"
