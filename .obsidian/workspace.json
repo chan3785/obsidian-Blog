@@ -35,11 +35,9 @@
             "id": "12cd94018c67429f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md"
               }
             }
           }
@@ -174,11 +172,11 @@
   },
   "active": "12cd94018c67429f",
   "lastOpenFiles": [
+    "Untitled.md",
     "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md",
     "Virtual Liquidity.md",
     "Git Library.md",
     "Pasted image 20240418183204.png",
-    "Untitled.md",
     "전자기학 1.md",
     "Tower BFT.md",
     "Proof of History.md",
