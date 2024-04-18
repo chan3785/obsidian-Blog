@@ -23,4 +23,6 @@ obsidian에서 git push 오류가 났었다.
 
 Excalidraw에서 ai를 사용하려고 내 open ai api key를 받아와서 넣었다.
 근데 그것도 커밋을 하고 푸시를 해서 
-sect
+secret 내용은 푸시를 할 수 없다고 경고가 떴다.
+
+그래서 다시 excalidraw 
