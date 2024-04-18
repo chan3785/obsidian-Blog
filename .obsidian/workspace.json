@@ -35,11 +35,9 @@
             "id": "12cd94018c67429f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Git Library.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git Library.md",
+                "file": "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git Library.md",
+                "file": "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git Library.md"
+                "file": "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md"
               }
             }
           }
@@ -174,16 +172,16 @@
   },
   "active": "12cd94018c67429f",
   "lastOpenFiles": [
+    "Virtual Liquidity.md",
+    "Git Library.md",
     "Pasted image 20240418183204.png",
     "Untitled.md",
     "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md",
     "전자기학 1.md",
     "Tower BFT.md",
     "Proof of History.md",
-    "Git Library.md",
     "알고리즘 설계 2024 - 1학기/알고리즘 성능 분석.md",
     "Template/Untitled.md",
-    "Virtual Liquidity.md",
     "VDF (Verifiable Delay Function).md",
     "Turbine.md",
     "Pasted image 20240411000545.png",
