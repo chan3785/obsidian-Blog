@@ -35,9 +35,11 @@
             "id": "12cd94018c67429f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "467b628ed7694621",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -171,10 +172,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8c75a5340b6ce88",
+  "active": "12cd94018c67429f",
   "lastOpenFiles": [
-    "Untitled.md",
     "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md",
+    "전자기학 1.md",
+    "Untitled.md",
     "Tower BFT.md",
     "Proof of History.md",
     "Git Library.md",
@@ -183,7 +185,6 @@
     "Virtual Liquidity.md",
     "VDF (Verifiable Delay Function).md",
     "Turbine.md",
-    "전자기학 1.md",
     "Pasted image 20240411000545.png",
     "Excalidraw/Drawing 2024-04-12 21.08.50.excalidraw.md",
     "Welcome.md",
