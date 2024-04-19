@@ -41,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Virtual Liquidity.md",
+                "file": "Tower BFT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Virtual Liquidity.md",
+                "file": "Tower BFT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Virtual Liquidity.md"
+                "file": "Tower BFT.md"
               }
             }
           }
@@ -170,11 +171,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f92adf7b24746652",
+  "active": "e25284f81b1d1810",
   "lastOpenFiles": [
+    "Virtual Liquidity.md",
     "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md",
     "Untitled.md",
-    "Virtual Liquidity.md",
     "Git Library.md",
     "Pasted image 20240418183204.png",
     "전자기학 1.md",
