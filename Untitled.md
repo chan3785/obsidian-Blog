@@ -34,30 +34,30 @@ bf:::\mathbf{}; $\mathbf{P}$
 te:::\text{}; $\text{N}$
 inf:::\infty; $\infty$
 cd:::\cdot; $\cdot$
-qu:::\quad; $\quad$
-ti:::\times; 
-al:::\alpha;
-be:::\beta;
-ga:::\gamma;
-Ga:::\Gamma;
-de:::\delta;
-De:::\Delta;
-ep:::\epsilon;
-ze:::\zeta;
-et:::\eta;
-th:::\theta;
-Th:::\Theta;
-io:::\iota;
-ka:::\kappa;
-la:::\lambda;
-La:::\Lambda;
-mu:::\mu;
-nu:::\nu;
-xi:::\xi;
-Xi:::\Xi;
-pi:::\pi;
-Pi:::\Pi;
-rh:::\rho;
+qu:::\quad; $\quad$ 
+ti:::\times; $\times$
+al:::\alpha; $\alpha$
+be:::\beta; $\beta$
+ga:::\gamma; $\gamma$
+Ga:::\Gamma; $\Gamma$
+de:::\delta; $\delta$
+De:::\Delta; $\Delta$
+ep:::\epsilon; $\epsilon$
+ze:::\zeta; $\zeta$
+et:::\eta; $\eta$
+th:::\theta; $\theta$
+Th:::\Theta; $\Theta$
+io:::\iota; $\iota$
+ka:::\kappa; $\kappa$
+la:::\lambda; $\lambda$
+La:::\Lambda; $\Lambda$
+mu:::\mu; $\mu$
+nu:::\nu; $\nu$
+xi:::\xi; $\xi$
+Xi:::\Xi; $\Xi$
+pi:::\pi; $\pi$
+Pi:::\Pi; $\Pi$
+rh:::\rho; $\rho$
 si:::\sigma;
 Si:::\Sigma;
 ta:::\tau;
