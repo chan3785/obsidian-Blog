@@ -20,7 +20,12 @@ consider simple radar detection scheme
 ## $z = r \cos{\theta}$ 
 $\sin$ 
 $\cos$ 
-$$
+$\tan$
+$\theta$ 
+$\phi$ 
+$\sigma$
+$\sum\limits$
+
 $\nabla$ 
 
 ### 출처(참고문헌)
