@@ -25,9 +25,51 @@ $\theta$
 $\phi$ 
 $\sigma$
 $\sum\limits$
-
+  
 $\nabla$ 
-
+bi:::\binom{#cursor}{#tab};  $\binom{2}{4}$
+sq:::\sqrt{};       $\sqrt{5}$
+bb:::\mathbb{}; $$
+bf:::\mathbf{};
+te:::\text{};
+inf:::\infty;
+cd:::\cdot;
+qu:::\quad;
+ti:::\times;
+al:::\alpha;
+be:::\beta;
+ga:::\gamma;
+Ga:::\Gamma;
+de:::\delta;
+De:::\Delta;
+ep:::\epsilon;
+ze:::\zeta;
+et:::\eta;
+th:::\theta;
+Th:::\Theta;
+io:::\iota;
+ka:::\kappa;
+la:::\lambda;
+La:::\Lambda;
+mu:::\mu;
+nu:::\nu;
+xi:::\xi;
+Xi:::\Xi;
+pi:::\pi;
+Pi:::\Pi;
+rh:::\rho;
+si:::\sigma;
+Si:::\Sigma;
+ta:::\tau;
+up:::\upsilon;
+Up:::\Upsilon;
+ph:::\phi;
+Ph:::\Phi;
+ch:::\chi;
+ps:::\psi;
+Ps:::\Psi;
+om:::\omega;
+Om:::\Omega
 ### 출처(참고문헌)
 -
 
