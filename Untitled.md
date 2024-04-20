@@ -29,13 +29,13 @@ $\sum\limits$
 $\nabla$ 
 bi:::\binom{#cursor}{#tab};  $\binom{2}{4}$
 sq:::\sqrt{};       $\sqrt{5}$
-bb:::\mathbb{}; $$
-bf:::\mathbf{};
-te:::\text{};
-inf:::\infty;
-cd:::\cdot;
-qu:::\quad;
-ti:::\times;
+bb:::\mathbb{}; $\mathbb{P}$ 
+bf:::\mathbf{}; $\mathbf{P}$
+te:::\text{}; $\text{N}$
+inf:::\infty; $\infty$
+cd:::\cdot; $\cdot$
+qu:::\quad; $\quad$
+ti:::\times; 
 al:::\alpha;
 be:::\beta;
 ga:::\gamma;
