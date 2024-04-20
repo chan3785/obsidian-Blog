@@ -18,6 +18,8 @@ consider simple radar detection scheme
 ## $x = r \sin{\theta} \cos{\phi}$ 
 ## $y = r \sin{\theta} \sin{\phi}$ 
 ## $z = r \cos{\theta}$ 
+$\frac{3}{4}$ 
+$\partial$ 
 $\sin$ 
 $\cos$ 
 $\tan$
