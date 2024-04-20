@@ -21,11 +21,6 @@ consider simple radar detection scheme
 $\sin$ 
 $\cos$ 
 $\tan$
-$\theta$ 
-$\phi$ 
-$\sigma$
-$\sum\limits$
-  
 $\nabla$ 
 bi:::\binom{#cursor}{#tab};  $\binom{2}{4}$
 sq:::\sqrt{};       $\sqrt{5}$
@@ -58,18 +53,18 @@ Xi:::\Xi; $\Xi$
 pi:::\pi; $\pi$
 Pi:::\Pi; $\Pi$
 rh:::\rho; $\rho$
-si:::\sigma;
-Si:::\Sigma;
-ta:::\tau;
-up:::\upsilon;
-Up:::\Upsilon;
-ph:::\phi;
-Ph:::\Phi;
-ch:::\chi;
-ps:::\psi;
-Ps:::\Psi;
-om:::\omega;
-Om:::\Omega
+si:::\sigma; $\sigma$
+Si:::\Sigma; $\Sigma$
+ta:::\tau; $\tau$
+up:::\upsilon; $\upsilon$
+Up:::\Upsilon; $\Upsilon$
+ph:::\phi; $\phi$
+Ph:::\Phi; $\Phi$
+ch:::\chi; $\chi$
+ps:::\psi; $\psi$
+Ps:::\Psi; $\Psi$
+om:::\omega; $\omega$
+Om:::Omega; $\Omega$  
 ### 출처(참고문헌)
 -
 
