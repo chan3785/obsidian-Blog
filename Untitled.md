@@ -7,7 +7,8 @@
 ### 메모: 
 $F_{z}(\frac{x-3}{2})$ 로 표현된다.
 ### $P_{x}(X<=x) = F_{X}(x) = F_{z}(\frac{x-m_{x}}{\sigma_{x}})$ 
-
+$\cup$ 
+$\cap$ 
 Ex) Radar Detection Problem 
 consider simple radar detection scheme
 ## $E = \frac{k \cdot Q}{r^2}$  $8.987 \times 10^9 , \text{N} \cdot \text{m}^2/\text{C}^2$  $k = \frac{1}{4\pi\epsilon_0}$ 
