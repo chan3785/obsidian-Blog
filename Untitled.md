@@ -70,6 +70,8 @@ om:::\omega; $\omega$
 Om:::Omega; $\Omega$  
 ### 출처(참고문헌)
 -
+$\bar{A}$ 
+$\vec{A}$
 
 ### 연결문서
 -
