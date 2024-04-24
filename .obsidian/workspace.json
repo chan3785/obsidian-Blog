@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "전자기학 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e0198ad047a89c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘 설계.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "알고리즘 설계.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "알고리즘 설계.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "알고리즘 설계.md"
               }
             }
           }
@@ -160,29 +172,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e25284f81b1d1810",
+  "active": "5e0198ad047a89c7",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Tower BFT.md",
+    "전자기학 1.md",
+    "알고리즘 설계.md",
+    "인공지능 응용 04.05.md",
+    "Welcome.md",
     "Virtual Liquidity.md",
+    "VDF (Verifiable Delay Function).md",
+    "Untitled.md",
+    "Turbine.md",
+    "Tower BFT.md",
     "Excalidraw/Drawing 2024-04-10 21.30.29.excalidraw.md",
     "Git Library.md",
     "Pasted image 20240418183204.png",
-    "전자기학 1.md",
     "Proof of History.md",
     "알고리즘 설계 2024 - 1학기/알고리즘 성능 분석.md",
     "Template/Untitled.md",
-    "VDF (Verifiable Delay Function).md",
-    "Turbine.md",
     "Pasted image 20240411000545.png",
     "Excalidraw/Drawing 2024-04-12 21.08.50.excalidraw.md",
-    "Welcome.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Untitled 1.md",
     "알고리즘 설계 2024 - 1학기",
     "Excalidraw",
-    "인공지능 응용 04.05.md",
     "Template"
   ]
 }
