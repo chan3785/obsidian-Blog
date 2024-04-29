@@ -56,6 +56,16 @@
             }
           },
           {
+            "id": "7772d4ef7150d6fa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-29 16.38.31.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "96eafc3b01f5f3a9",
             "type": "leaf",
             "state": {
@@ -66,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "전자기학 5장.md",
+                "file": "Excalidraw/Drawing 2024-04-29 16.38.31.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "전자기학 5장.md",
+                "file": "Excalidraw/Drawing 2024-04-29 16.38.31.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -172,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "전자기학 5장.md"
+                "file": "Excalidraw/Drawing 2024-04-29 16.38.31.excalidraw.md"
               }
             }
           }
@@ -194,10 +204,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a9d80d03a4e119ba",
+  "active": "7772d4ef7150d6fa",
   "lastOpenFiles": [
-    "알고리즘 설계 예상 시험문제.md",
     "전자기학 5장.md",
+    "Excalidraw/Drawing 2024-04-29 16.38.31.excalidraw.md",
+    "알고리즘 설계 예상 시험문제.md",
     "2장 정렬.md",
     "Pasted image 20240427095615.png",
     "마스터 정리.md",
