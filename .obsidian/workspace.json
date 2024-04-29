@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1장 알고리즘과 문제해결.md",
+                "file": "마스터 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1장 알고리즘과 문제해결.md",
+                "file": "마스터 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1장 알고리즘과 문제해결.md",
+                "file": "마스터 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1장 알고리즘과 문제해결.md"
+                "file": "마스터 정리.md"
               }
             }
           }
@@ -208,6 +208,7 @@
   },
   "active": "7772d4ef7150d6fa",
   "lastOpenFiles": [
+    "1장 알고리즘과 문제해결.md",
     "2장 정렬.md",
     "알고리즘 설계 예상 시험문제.md",
     "Excalidraw/Drawing 2024-04-29 16.38.31.excalidraw.md",
@@ -216,7 +217,6 @@
     "Pasted image 20240427095615.png",
     "마스터 정리.md",
     "Turbine.md",
-    "1장 알고리즘과 문제해결.md",
     "첨부된 이미지/Pasted image 20240426220730.png",
     "첨부된 이미지/Pasted image 20240411000545.png",
     "첨부된 이미지",
