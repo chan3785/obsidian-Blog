@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "마스터 정리.md",
+                "file": "알고리즘 설계 예상 시험문제.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -206,7 +206,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "01e01d9b44901077",
+  "active": "7772d4ef7150d6fa",
   "lastOpenFiles": [
     "마스터 정리.md",
     "알고리즘 설계 예상 시험문제.md",
