@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "마스터 정리.md",
+                "file": "알고리즘 설계 예상 시험문제.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "마스터 정리.md",
+                "file": "알고리즘 설계 예상 시험문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "마스터 정리.md",
+                "file": "알고리즘 설계 예상 시험문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "마스터 정리.md"
+                "file": "알고리즘 설계 예상 시험문제.md"
               }
             }
           }
@@ -208,8 +208,8 @@
   },
   "active": "01e01d9b44901077",
   "lastOpenFiles": [
-    "알고리즘 설계 예상 시험문제.md",
     "마스터 정리.md",
+    "알고리즘 설계 예상 시험문제.md",
     "1장 알고리즘과 문제해결.md",
     "2장 정렬.md",
     "Excalidraw/Drawing 2024-04-29 16.38.31.excalidraw.md",
