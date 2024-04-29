@@ -59,9 +59,11 @@
             "id": "7772d4ef7150d6fa",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-29 16.38.31.excalidraw.md"
+                "file": "알고리즘 설계 예상 시험문제.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -142,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-29 16.38.31.excalidraw.md",
+                "file": "알고리즘 설계 예상 시험문제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-29 16.38.31.excalidraw.md",
+                "file": "알고리즘 설계 예상 시험문제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-04-29 16.38.31.excalidraw.md"
+                "file": "알고리즘 설계 예상 시험문제.md"
               }
             }
           }
@@ -206,8 +208,8 @@
   },
   "active": "7772d4ef7150d6fa",
   "lastOpenFiles": [
-    "Untitled.md",
     "Excalidraw/Drawing 2024-04-29 16.38.31.excalidraw.md",
+    "Untitled.md",
     "전자기학 5장.md",
     "알고리즘 설계 예상 시험문제.md",
     "2장 정렬.md",
