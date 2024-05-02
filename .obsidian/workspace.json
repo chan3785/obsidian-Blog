@@ -68,6 +68,16 @@
             }
           },
           {
+            "id": "4a6b3457c1fa9315",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-02 13.32.52.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "96eafc3b01f5f3a9",
             "type": "leaf",
             "state": {
@@ -78,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -144,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "알고리즘 설계 예상 시험문제.md",
+                "file": "Excalidraw/Drawing 2024-05-02 13.32.52.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "알고리즘 설계 예상 시험문제.md",
+                "file": "Excalidraw/Drawing 2024-05-02 13.32.52.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -184,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "알고리즘 설계 예상 시험문제.md"
+                "file": "Excalidraw/Drawing 2024-05-02 13.32.52.excalidraw.md"
               }
             }
           }
@@ -206,10 +216,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7772d4ef7150d6fa",
+  "active": "4a6b3457c1fa9315",
   "lastOpenFiles": [
-    "마스터 정리.md",
     "알고리즘 설계 예상 시험문제.md",
+    "Excalidraw/Drawing 2024-05-02 13.32.52.excalidraw.md",
+    "마스터 정리.md",
     "1장 알고리즘과 문제해결.md",
     "2장 정렬.md",
     "Excalidraw/Drawing 2024-04-29 16.38.31.excalidraw.md",
