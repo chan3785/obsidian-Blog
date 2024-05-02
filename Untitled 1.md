@@ -7,7 +7,7 @@
 ### 메모: 
 $\Phi_{x(w)}= \int_{\infty}^{-\infty}$ 
 
-$E[g(x)] = $
+$E[g(x)] = \sum_{}g(x_k)P_x(x_k)$ 
 ### 출처(참고문헌)
 -
 
