@@ -5,7 +5,7 @@
 
 ---
 ### 메모: 
-$\Phi_{x(w)}= \integral{\infty}{-\infty}$ 
+$\Phi_{x(w)}= \int_{\infty}^{-\infty}$ 
 ### 출처(참고문헌)
 -
 

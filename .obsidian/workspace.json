@@ -81,9 +81,11 @@
             "id": "8f7a4d48ca1648ad",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-02 13.32.52.excalidraw.md"
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -164,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-02 13.32.52.excalidraw.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-02 13.32.52.excalidraw.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -204,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-02 13.32.52.excalidraw.md"
+                "file": "Untitled 1.md"
               }
             }
           }
@@ -228,8 +230,8 @@
   },
   "active": "8f7a4d48ca1648ad",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Excalidraw/Drawing 2024-05-02 13.32.52.excalidraw.md",
+    "Untitled 1.md",
     "Untitled.md",
     "알고리즘 설계 예상 시험문제.md",
     "마스터 정리.md",
