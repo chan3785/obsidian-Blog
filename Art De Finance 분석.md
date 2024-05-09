@@ -56,9 +56,10 @@
 	마켓플레이스로 이동(또는 판매하지 않는 상품입니다)
 	레드라벨 버튼(커밍쑨)
 	Details (metadata(URI 형식), IPFS 링크 (들어가면 이미지))  $\rightarrow$ onchain data
-	
+	![[Pasted image 20240509224750.png]]
+	카테고리
 
-1. 메인페이지
+3. 메인페이지
 	ARTIST가 업로드 한 건 Artwork 탭으로
 	非ARTIST가 업로드 한 건 Inspiration 탭으로
 	뉴스 2개 아마도 업데이터블(우리 소관 아닐 듯)
