@@ -81,6 +81,8 @@
 		inspiration들 보여주기
 		마우스 올리면 살짝 붕 뜨면서 Title, 공유, ==북마크, 박수== 상태 확인가능
 		프로필이미지, 유저네임, 박수 수, 뷰 수 (read only)
+	- Favorites tab
+		Artwork (갯수), 
 ### 출처(참고문헌)
 -
 
