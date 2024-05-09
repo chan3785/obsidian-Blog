@@ -33,7 +33,8 @@
 	무조건 지갑으로 로그인
 	sign in => 모달
 	sign up => 페이지
-5. Create 버튼 클릭시
+5. 
+1. Create 버튼 클릭시
 	 한 주 동안 투토리얼 2페이지 (모달) $\rightarrow$ hide for a week, start
 	 ![[Pasted image 20240509185452.png]]
 	 사진 파일 업로드, 타이틀, 디스크립션 $\rightarrow$ upload
@@ -70,7 +71,8 @@
 	작품 분류 기준 - Newest, Popular, Oldest
 	Inspiration 탭은 Newest 기준 밖에 없는 듯
 4. 유저페이지 (非 아티스트)
-	- 유저 프로필 이미지, 유저네임, 팔로워 팔로잉(클릭 가능),  (백엔드)
+	- 유저 프로필 이미지, 유저네임, 팔로워 팔로잉(클릭 가능), 포스트 (백엔드)
+	- 팔로우 버튼(본인 이외)
 ### 출처(참고문헌)
 -
 
