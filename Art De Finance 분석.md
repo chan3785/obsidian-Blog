@@ -88,10 +88,18 @@
 			- 유저네임, 
 			- 박수 수, 뷰 수 (read only)
 		  ![[Pasted image 20240510002525.png]]
-		 $\rightarrow$ 이 상태에서 프로필 영역에 마우스를 올리면 간소화된 프로필 
+		 $\rightarrow$ 이 상태에서 프로필 영역에 마우스를 올리면 간소화된 프로필
+		 ![[Pasted image 20240510002904.png]]
+			 
 		 - artwork 컨테이너 = 
 			 - 이미지
-			 - artist 프로필 -
+			 - artist 프로필 (owner)
+			 - 공유, 
+			 - ==북마크, 박수== 상태 확인가능, 
+			 - 타이틀 (공간이 더 있음)
+			 - artist 프로필 (+ @핸들)
+			- 박수 수, 뷰 수 (read only)
+		
 		 ![[Pasted image 20240510002458.png]]
 	- Favorites tab $\rightarrow$ 북마크
 		Artwork (갯수), Inspiration (갯수)
