@@ -17,9 +17,12 @@
 9. 밑에 기업 소개? 컨택? 
 
 ### ARTISIDE 
-1. 스폰서 사이트 링크 모음 (Art de finance, The flux, Adf partners)
-2. Tab 버튼 4개 (Creation (default), Feed, Seeding, Launchpad)
+1. 스폰서 사이트 링크 모음
+	(Art de finance, The flux, Adf partners)
+2. Tab 버튼 4개 
+	(Creation (default), Feed, Seeding, Launchpad)
 3. 검색창 
+	(Creators, artworks, inspiration 세 개의 항목에 대해서 다)
 4. 로그인 - 지갑
 	계정 없을 시 - 회원가입 페이지(모달)
 	유저네임 입력 ![[Pasted image 20240509183021.png]]
@@ -30,7 +33,7 @@
 	무조건 지갑으로 로그인
 	sign in => 모달
 	sign up => 페이지
-4. Create 버튼 클릭시
+5. Create 버튼 클릭시
 	 한 주 동안 투토리얼 2페이지 (모달) $\rightarrow$ hide for a week, start
 	 ![[Pasted image 20240509185452.png]]
 	 사진 파일 업로드, 타이틀, 디스크립션 $\rightarrow$ upload
