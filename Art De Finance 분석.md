@@ -106,7 +106,11 @@
 			- 박수 수, 뷰 수 (read only)
 		 ![[Pasted image 20240510002458.png]]
 		  ![[Pasted image 20240510003421.png]]
-			- 프로필 이밎
+			- 프로필 이미지, 아티스트 이름, 별
+			- art 수, insp 수, 팔로워 수
+			- 작품들 나열
+			- 팔로우 버튼 + seeding 버튼
+				$\rightarrow$ seeding 버튼 누르면 그대로 아티스트 프로필 페이지로 이동
 	- Favorites tab $\rightarrow$ 북마크
 		Artwork (갯수), Inspiration (갯수)
 		- 있다면, inspiration 항목과 동일
