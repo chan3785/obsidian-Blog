@@ -88,7 +88,8 @@
 		  ![[Pasted image 20240509233949.png]]
 		  creation 페이지 artwork tab으로 이동
 	- Owned tab
-	  클릭시 The flux로 
+	  클릭시 The flux 유저페이지 owned 탭으로 이동
+	  
 ### 출처(참고문헌)
 -
 
