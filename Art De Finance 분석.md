@@ -29,7 +29,7 @@
 	 다른 어떤 조건도 없이 업로드 가능
 	 업로드 시 작품페이지로 이동
 	 파일유형: jfjf, pjpeg, jpeg, pjp, jpg, png, heif, gif, svgz, svg
-
+	
 3. 
 #### ARTISIDE Creation Page
 1. 작품페이지 
