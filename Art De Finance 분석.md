@@ -43,7 +43,7 @@
 	
 
 #### ARTISIDE Creation Page
-1. 작품페이지 
+1. Inspiration 작품페이지 
 	타이틀, 박수 수, 뷰 수, 작성자, 작성자가 적은 작품 description, 몇분전 
 	업로드
 	작품에 대한 박수(취소가능), 작품 저장, 작품 공유 (link copy만)
