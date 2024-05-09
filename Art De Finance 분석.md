@@ -58,7 +58,11 @@
 	Details (metadata(URI 형식), IPFS 링크 (들어가면 이미지))  $\rightarrow$ onchain data
 	![[Pasted image 20240509224750.png]]
 	카테고리
-	해시태그 붙여서 $\rightarrow$ 
+	해시태그 붙여서 $\rightarrow$ 클릭 X, 검색 대상 X
+	그냥 작품 설명 용도인 듯 (프론트)
+	![[Pasted image 20240509225304.png]]
+	Artist의 또 다른 작품 나열 
+	more 누르면 
 
 3. 메인페이지
 	ARTIST가 업로드 한 건 Artwork 탭으로
