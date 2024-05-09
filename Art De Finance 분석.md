@@ -22,13 +22,15 @@
 	 사진 파일 업로드, 타이틀, 디스크립션 $\rightarrow$ upload
 	 다른 어떤 조건도 없이 업로드 가능
 	 업로드 시 작품페이지로 이동
-3. 작품페이지 
+	 파일유형: jfjf, pjpeg, jpeg, pjp, jpg, png, 
+1. 작품페이지 
 	타이틀, 박수 수, 뷰 수, 작성자, 작성자가 적은 작품 description, 몇분전 업로드
 	작품에 대한 박수(취소가능), 작품 저장, 작품 공유 (link copy만)
 	댓글: 유저, 댓글, 몇분전 시간, 대댓글(@유저네임 언급), 하트(취소가능), 삭제
 4. 메인페이지
 	ARTIST가 업로드 한 건 Artwork 탭으로
-	非ARTIST가 업로드 한 건 Inspirati
+	非ARTIST가 업로드 한 건 Inspiration 탭으로
+	gif형식도 가능
 ### 출처(참고문헌)
 -
 
