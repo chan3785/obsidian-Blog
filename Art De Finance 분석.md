@@ -88,7 +88,7 @@
 		  ![[Pasted image 20240509233949.png]]
 		  creation 페이지 artwork tab으로 이동
 		  - 본인이 아니면 
-		    Owned ta
+		    Owned tab 없음 나머진 동일
 	- Owned tab
 	  클릭시 The flux 유저페이지 owned 탭으로 이동
 	  
