@@ -104,8 +104,9 @@
 			 - 타이틀 (공간이 더 있음)
 			 - artist 프로필 (+ @핸들)
 			- 박수 수, 뷰 수 (read only)
-		
 		 ![[Pasted image 20240510002458.png]]
+		  ![[Pasted image 20240510003421.png]]
+			- 프로필 이밎
 	- Favorites tab $\rightarrow$ 북마크
 		Artwork (갯수), Inspiration (갯수)
 		- 있다면, inspiration 항목과 동일
