@@ -58,6 +58,7 @@
 	Details (metadata(URI 형식), IPFS 링크 (들어가면 이미지))  $\rightarrow$ onchain data
 	![[Pasted image 20240509224750.png]]
 	카테고리
+	해시태그 붙여서 $\rightarrow$ 
 
 3. 메인페이지
 	ARTIST가 업로드 한 건 Artwork 탭으로
