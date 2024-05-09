@@ -55,7 +55,8 @@
 	삭제(본인이면), 신고(본인 아니면)
 	마켓플레이스로 이동(또는 판매하지 않는 상품입니다)
 	레드라벨 버튼(커밍쑨)
-	Detail
+	Details (metadata(URI 형식), IPFS 링크 (들어가면 이미지))  $\rightarrow$ 온체인 데이터
+	creation year, contract 
 1. 메인페이지
 	ARTIST가 업로드 한 건 Artwork 탭으로
 	非ARTIST가 업로드 한 건 Inspiration 탭으로
