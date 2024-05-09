@@ -62,7 +62,7 @@
 	그냥 작품 설명 용도인 듯 (프론트)
 	![[Pasted image 20240509225304.png]]
 	Artist의 또 다른 작품 나열 
-	more 누르면 
+	more 누르면 Artist 페이지로
 
 3. 메인페이지
 	ARTIST가 업로드 한 건 Artwork 탭으로
