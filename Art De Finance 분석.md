@@ -8,6 +8,7 @@
 ### ARTDEFINANCE 
 1. 상단 우측 3개 버튼 $\rightarrow$ 각각 사이트로 이동 (프론트) 
 2. 화면 중앙 비디오 삽입
+3. 
 
 ### ARTISIDE
 1. 로그인 - 지갑
