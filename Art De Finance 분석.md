@@ -63,13 +63,13 @@
 	![[Pasted image 20240509225304.png]]
 	Artist의 또 다른 작품 나열 
 	more 누르면 Artist 페이지로
-
 3. 메인페이지
 	ARTIST가 업로드 한 건 Artwork 탭으로
 	非ARTIST가 업로드 한 건 Inspiration 탭으로
 	뉴스 2개 아마도 업데이터블(우리 소관 아닐 듯)
 	작품 분류 기준 - Newest, Popular, Oldest
 	Inspiration 탭은 Newest 기준 밖에 없는 듯
+4. 
 	
 ### 출처(참고문헌)
 -
