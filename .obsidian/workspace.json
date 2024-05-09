@@ -93,9 +93,11 @@
             "id": "b0b66075aeb4f5ad",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-02 13.32.52.excalidraw.md"
+                "file": "Git Library.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -176,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-02 13.32.52.excalidraw.md",
+                "file": "Git Library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-02 13.32.52.excalidraw.md",
+                "file": "Git Library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -216,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-02 13.32.52.excalidraw.md"
+                "file": "Git Library.md"
               }
             }
           }
@@ -240,10 +242,10 @@
   },
   "active": "b0b66075aeb4f5ad",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-05-02 13.32.52.excalidraw.md",
     "포인트 팀 업무분장.md",
     "Git Library.md",
     "전자기학 1.md",
-    "Excalidraw/Drawing 2024-05-02 13.32.52.excalidraw.md",
     "알고리즘 설계 예상 시험문제.md",
     "전자기학 5장.md",
     "2장 정렬.md",
