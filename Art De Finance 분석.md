@@ -79,9 +79,8 @@
 	팔로우 버튼(본인 이외) 업그레이드 투 파트너 버튼(본인) 
 	- Inspiration tab
 		inspiration들 보여주기
-		마우스 올리면 살짝 붕 뜨면서 Title, 공유, ==북마크, 박수== 상태 확인가능
-		프로필이미지, 유저네임, 박수 수, 뷰 수 (read only)
-		$\ri$
+		- 컨테이너=마우스 올리면 살짝 붕 뜨면서 Title, 공유, ==북마크, 박수== 상태 확인가능, 프로필이미지, 유저네임, 박수 수, 뷰 수 (read only)
+		 $\rightarrow$ 이 상태에서 프로필에 사진을 올리면 
 	- Favorites tab $\rightarrow$ 북마크
 		Artwork (갯수), Inspiration (갯수)
 		- 있다면, inspiration 항목과 동일
