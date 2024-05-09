@@ -90,7 +90,10 @@
 		  ![[Pasted image 20240510002525.png]]
 		 $\rightarrow$ 이 상태에서 프로필 영역에 마우스를 올리면 간소화된 프로필
 		 ![[Pasted image 20240510002904.png]]
-			 
+			 - 프로필 이미지, 유저 이름
+			 - insp 수, 팔로워 수
+			 - insp 항목 나열
+		 ![[Pasted image 20240510003113.png]]
 		 - artwork 컨테이너 = 
 			 - 이미지
 			 - artist 프로필 (owner)
