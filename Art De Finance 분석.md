@@ -17,7 +17,9 @@
 9. 밑에 기업 소개? 컨택? 
 
 ### ARTISIDE 
-1. 로그인 - 지갑
+1. 스폰서 사이트 링크 모음 (Art de finance, The flux, Adf partners)
+2. Tab 
+3. 로그인 - 지갑
 	계정 없을 시 - 회원가입 페이지(모달)
 	유저네임 입력 ![[Pasted image 20240509183021.png]]
 	![[Pasted image 20240509183051.png]]
@@ -28,7 +30,7 @@
 	sign in => 모달
 	sign up => 페이지
 	
-2. Create 버튼 클릭시
+4. Create 버튼 클릭시
 	 한 주 동안 투토리얼 2페이지 (모달) $\rightarrow$ hide for a week, start
 	 ![[Pasted image 20240509185452.png]]
 	 사진 파일 업로드, 타이틀, 디스크립션 $\rightarrow$ upload
@@ -36,7 +38,7 @@
 	 업로드 시 작품페이지로 이동
 	 파일유형: jfjf, pjpeg, jpeg, pjp, jpg, png, heif, gif, svgz, svg
 	
-3. 
+
 #### ARTISIDE Creation Page
 1. 작품페이지 
 	타이틀, 박수 수, 뷰 수, 작성자, 작성자가 적은 작품 description, 몇분전 
