@@ -16,8 +16,10 @@
 	![[Pasted image 20240509183051.png]]
 	완료되면 메인화면으로
 	지갑주소로 유저 구분 $\rightarrow$ 새 지갑으로 연결하니까 새로 회원가입
-	2.
-
+2. Create 버튼 클릭시
+	 한 주 동안 투토리얼 2페이지 (모달) $\rightarrow$ hide for a week, start
+	 ![[Pasted image 20240509185452.png]]
+	 
 ### 출처(참고문헌)
 -
 
