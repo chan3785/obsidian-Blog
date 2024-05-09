@@ -19,7 +19,10 @@
 2. Create 버튼 클릭시
 	 한 주 동안 투토리얼 2페이지 (모달) $\rightarrow$ hide for a week, start
 	 ![[Pasted image 20240509185452.png]]
-	 사진 파일 업로드, 타이틀, 디스크립션 $\rightarrow$ 배열
+	 사진 파일 업로드, 타이틀, 디스크립션 $\rightarrow$ upload
+	 다른 어떤 조건도 없이 업로드 가능
+	 업로드 시 작품페이지로 이동
+3. 
 ### 출처(참고문헌)
 -
 
