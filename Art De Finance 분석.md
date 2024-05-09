@@ -83,7 +83,7 @@
 		프로필이미지, 유저네임, 박수 수, 뷰 수 (read only)
 	- Favorites tab $\rightarrow$ 북마크
 		Artwork (갯수), Inspiration (갯수)
-		- 있다면 
+		- 있다면, 
 ### 출처(참고문헌)
 -
 
