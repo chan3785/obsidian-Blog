@@ -114,6 +114,18 @@
             }
           },
           {
+            "id": "2dcf9de6ba86dfa4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Art De Finance 개발 요구 초안.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "96eafc3b01f5f3a9",
             "type": "leaf",
             "state": {
@@ -124,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Art De Finance 분석.md",
+                "file": "Art De Finance 개발 요구 초안.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Art De Finance 분석.md",
+                "file": "Art De Finance 개발 요구 초안.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -230,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Art De Finance 분석.md"
+                "file": "Art De Finance 개발 요구 초안.md"
               }
             }
           }
@@ -252,10 +264,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "358f4ee0d26d6991",
+  "active": "2dcf9de6ba86dfa4",
   "lastOpenFiles": [
-    "Git Library.md",
     "Art De Finance 분석.md",
+    "Art De Finance 개발 요구 초안.md",
+    "Git Library.md",
     "Excalidraw/Drawing 2024-05-02 13.32.52.excalidraw.md",
     "포인트 팀 업무분장.md",
     "전자기학 1.md",
