@@ -93,7 +93,9 @@
 			 - 프로필 이미지, 유저 이름
 			 - insp 수, 팔로워 수
 			 - insp 항목 나열
+			 - 팔로우 버튼
 		 ![[Pasted image 20240510003113.png]]
+			 - 본인일 땐, 팔로우 버튼 X
 		 - artwork 컨테이너 = 
 			 - 이미지
 			 - artist 프로필 (owner)
