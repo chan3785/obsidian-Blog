@@ -126,6 +126,8 @@
 		- Total staked (ADF), ADF reward for the round, End Date(미국기준), ADF Price(coin market 사이트에서 정보 받아와야 하는 듯)
 		- My staking status => 백엔드? 컨트랙트? 둘 다?
 			![[Pasted image 20240510164110.png]]
+			버튼 클릭시 $\rightarrow$ 마이 페이지 reward 탭으로 이동
+			
 	- Voting tab
 		
 	- My launchpad
