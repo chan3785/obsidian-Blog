@@ -123,11 +123,14 @@
 	  클릭시 The flux 유저페이지 owned 탭으로 이동
 5. 런치패드 페이지
 	- Staking tab
-			Total staked (ADF), ADF reward for the round, End Date(미국기준), ADF Price(coin market 사이트에서 정보 받아와야 하는 듯)
+		- Total staked (ADF), ADF reward for the round, End Date(미국기준), ADF Price(coin market 사이트에서 정보 받아와야 하는 듯)
+		- My staking status => 백엔드? 컨트랙트? 둘 다?
+			![[Pasted image 20240510164110.png]]
 	- Voting tab
 		
 	- My launchpad
-	- 
+	- how to use launchpad 버튼 $\rightarrow$ https://artiside.artdefinance.io/launchpad/about 로 이동
+
 ### 출처(참고문헌)
 -
 
