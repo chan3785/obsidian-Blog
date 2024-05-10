@@ -123,9 +123,11 @@
 	  클릭시 The flux 유저페이지 owned 탭으로 이동
 5. 런치패드 페이지
 	- Staking tab
-		Total staked (ADF), ADF reward for the round, End Date
+			Total staked (ADF), ADF reward for the round, End Date(미국기준), ADF Price(coin market 사이트에서 정보 받아와야 하는 듯)
 	- Voting tab
+		
 	- My launchpad
+	- 
 ### 출처(참고문헌)
 -
 
