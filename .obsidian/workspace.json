@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Art De Finance 개발 요구 초안.md",
+                "file": "Art De Finance 분석.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Art De Finance 개발 요구 초안.md",
+                "file": "Art De Finance 분석.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Art De Finance 개발 요구 초안.md",
+                "file": "Art De Finance 분석.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Art De Finance 개발 요구 초안.md"
+                "file": "Art De Finance 분석.md"
               }
             }
           }
@@ -266,6 +266,7 @@
   },
   "active": "358f4ee0d26d6991",
   "lastOpenFiles": [
+    "Art De Finance 개발 요구 초안.md",
     "Art De Finance 분석.md",
     "Pasted image 20240510164110.png",
     "Pasted image 20240510003421.png",
@@ -287,7 +288,6 @@
     "Pasted image 20240509231214.png",
     "Untitled 1.md",
     "Untitled.md",
-    "Art De Finance 개발 요구 초안.md",
     "Git Library.md",
     "Excalidraw/Drawing 2024-05-02 13.32.52.excalidraw.md",
     "1장 알고리즘과 문제해결.md",
