@@ -127,7 +127,7 @@
 		- My staking status => 백엔드? 컨트랙트? 둘 다?
 			![[Pasted image 20240510164110.png]]
 			버튼 클릭시 $\rightarrow$ 마이 페이지 reward 탭으로 이동
-			
+		- 
 	- Voting tab
 		
 	- My launchpad
