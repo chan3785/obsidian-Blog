@@ -137,8 +137,8 @@
 ### 사용후기
 1. 폴리곤 MATIC을 polygon 네트워크 dex인 quickswap으로 가서 adf 토큰으로 스왑
 2. adf 토큰으로 seeding 페이지에서 artist에게 seeding을 한 후에 seeder가 되면 whitelist 획득
-   *주의* : 입력한 수량 만큼의 adf 토큰이 지갑에 있는지 approve
-3. 
+   *주의* : 입력한 수량 만큼의 adf 토큰이 지갑에 있는지 approve함 (가스비 사용) -> 그다음에 입력한 수량만큼 seeding (가스비 사용)
+3. seeder가 되어 whitelist를 획득하면 STAKING 가능
 ### 출처(참고문헌)
 -
 
