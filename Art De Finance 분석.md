@@ -141,10 +141,12 @@
    => seeder가 되어 whitelist를 획득, STAKING 가능
 3. Launchpad 탭으로 이동 $\rightarrow$ Staking 탭으로 이동
    ADF 토큰을 스테이킹 할 수 있게 됨. 스테이킹 하면 일정시간마다 VP (vote power)를 받음
+   언제든 추가로 stake, 또는 unstake 가능
 4. voting 탭으로 이동
    받은 VP를 이용해 artist에 투표를 할 수 있음.
    현재 투표 개설 안됨.
-5. 투표가 시작되면 
+5. 만약 투표가 시작되면 staking 보상으로 VP를 얻을 때마다 계속해서 투표를 진행할 수 있음. 
+6. 
 ### 출처(참고문헌)
 -
 
