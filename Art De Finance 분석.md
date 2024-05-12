@@ -140,8 +140,11 @@
    *주의* : 입력한 수량 만큼의 adf 토큰이 지갑에 있는지 approve함 (가스비 사용) $\rightarrow$ 그다음에 입력한 수량만큼 seeding (가스비 사용)
    => seeder가 되어 whitelist를 획득, STAKING 가능
 3. Launchpad 탭으로 이동 $\rightarrow$ Staking 탭으로 이동
-   
-4. 
+   ADF 토큰을 스테이킹 할 수 있게 됨. 스테이킹 하면 일정시간마다 VP (vote power)를 받음
+4. voting 탭으로 이동
+   받은 VP를 이용해 artist에 투표를 할 수 있음.
+   현재 투표 개설 안됨.
+5. 투표가 시작되면 
 ### 출처(참고문헌)
 -
 
