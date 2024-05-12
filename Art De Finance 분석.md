@@ -135,7 +135,9 @@
 
 
 ### 사용후기
-
+1. 폴리곤 MATIC을 polygon 네트워크 dex인 quickswap으로 가서 adf 토큰으로 스왑
+	개인적으로는 matic이나 usdt로 adf 토큰을 자체적으로 교환할 수 있었으면 좋겠음
+2. adf 토큰으로 seeding 페이지에서 
 ### 출처(참고문헌)
 -
 
