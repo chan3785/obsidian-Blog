@@ -37,8 +37,8 @@
 #### 2. Mission Tab 
 1. 미션 상태 tab
 	1. All (미완 / 전체)
-	2. Ongoing (??)
-	3. Done (??)
+	2. Ongoing (내가 진행 중 / 전체 진행 중) $\rightarrow$ 기간제로 ongoing 여부 판단
+	3. Done (유저가 클리어 한 것 /  기간이 끝난 것) $\rightarrow$ 
 	4. Next (예정) 시간 기준
 2. 
 
