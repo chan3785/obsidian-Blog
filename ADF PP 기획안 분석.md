@@ -24,7 +24,9 @@
 
 ###  Sign Up 페이지
 1. Go to Artiside button $\rightarrow$ Artiside Sign up 페이지로 이동
-2. Sign Up with Wallet connect $\rightarrow$ wallet connect (월렛 커넥트 버튼 )
+2. Sign Up with Wallet connect $\rightarrow$ wallet connect (월렛 커넥트 버튼 복제)
+
+- 
 ### 출처(참고문헌)
 -
 
