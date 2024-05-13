@@ -5,7 +5,7 @@
 
 ---
 ### 메모: 
-### 홈페이지
+### 시작 페이지
 1. connect wallet button
 2. sign up button
 3. Find your mission $\rightarrow$ 계정 확인 
