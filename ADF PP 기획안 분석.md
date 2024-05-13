@@ -30,7 +30,7 @@
 - artiside에서 connect 하면 넘어와도 유지되게 만드는 건지,
 - artiside에서 wallet connect 하지 않고 sign in 한 뒤에 여기 와서 connect 하는 건지 (소셜 로그인)
 - 기존의 계정을 가지고 있던 유저는 어떻게 처리하는 건지
-  (非 sei wallet 유저들)
+  (非 sei wallet 유저들, )
 
 ### Mission Menu 페이지
 1. 
