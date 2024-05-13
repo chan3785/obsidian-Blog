@@ -14,10 +14,12 @@
 	  계정 확인 false $\rightarrow$ sign up 페이지로 이동 
 	  계정 확인 true $\rightarrow$ wallet logo + 지갑주소 6자리 + 프로필 이미지
    => 상단 바 메뉴
+   
 ### 시작 페이지
-
 1. Find your mission $\rightarrow$ mission menu 페이지로 이동
-2. 하단바 
+2. 하단바 (여타 adf 서비스와 같음) 
+	컴포넌트로 제공 가능 ?
+	
 - Find your mission 버튼을 눌렀을 때 계정 확인을 해서 없으면 navigate 되는 페이지랑 sign up 버튼 누르고 navigate 되는 페이지랑 같은가?
 
 ###  Sign Up 페이지
