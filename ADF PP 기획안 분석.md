@@ -30,7 +30,8 @@
 - artiside에서 connect 하면 넘어와도 유지되게 만드는 건지,
 - artiside에서 wallet connect 하지 않고 sign in 한 뒤에 여기 와서 connect 하는 건지
 
-### 
+### Mission Menu 페이지
+1. 
 ### 출처(참고문헌)
 -
 
