@@ -34,7 +34,8 @@
 
 ### Mission Menu 페이지
 1. Referral Code $\rightarrow$ (미정) 팝업에 유저정보로 만든 or 유저에게 저장된 Referral code 보여주고 클립보드 복사 버튼도 옆에 (모달)
-2. 
+#### 2. Mission Tab 
+
 ### 출처(참고문헌)
 -
 
