@@ -34,7 +34,11 @@
 
 ### Mission Menu 페이지
 1. Referral Code $\rightarrow$ (미정) 팝업에 유저정보로 만든 or 유저에게 저장된 Referral code 보여주고 클립보드 복사 버튼도 옆에 (모달)
-2. . 
+2. . Referral Link $\rightarrow$ (미정)
+
+- Referral link 버튼을 누르면 링크만 보여줄 것인가?
+- link 버튼을 눌렀을 때, 복사 가능한 링크랑 sns 공유 버튼을 보여줄 것인가?
+- 
 #### 2. Mission Tab 
 1. 미션 상태 tab
 	1. All (미완 / 전체)
