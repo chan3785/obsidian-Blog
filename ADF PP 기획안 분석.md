@@ -5,10 +5,13 @@
 
 ---
 ### 메모: 
-### 시작 페이지
+### 공통 요소
 1. ==Logo $\rightarrow$ 시작 페이지로 이동==
-2. ==connect wallet button== 
-3. ==sign up button $\rightarrow$ sign up 페이지로 이동== => 상단 바 메뉴
+2. ==connect wallet button== $\rightarrow$ 연결 시 지갑주소 6자리까지만 노출 + 프로필 이미지 (원형)
+3. ==sign up button $\rightarrow$ sign up 페이지로 이동== 
+   => 상단 바 메뉴
+### 시작 페이지
+
 4. Find your mission $\rightarrow$ mission menu 페이지로 이동
 
 - Find your mission 버튼을 눌렀을 때 계정 확인을 해서 없으면 navigate 되는 페이지랑 sign up 버튼 누르고 navigate 되는 페이지랑 같은가?
