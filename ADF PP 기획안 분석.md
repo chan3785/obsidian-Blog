@@ -5,7 +5,11 @@
 
 ---
 ### 메모: 
-### 1. 
+### 홈페이지
+1. connect wallet button
+2. sign up button
+3. Find your mission $\rightarrow$ 계정 확인 
+   Yes $\rightarrow$ 
 ### 출처(참고문헌)
 -
 
