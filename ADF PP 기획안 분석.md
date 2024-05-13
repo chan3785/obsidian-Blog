@@ -6,9 +6,9 @@
 ---
 ### 메모: 
 ### 시작 페이지
-1. connect wallet button
-2. sign up button
-3. Find your mission $\rightarrow$ 계정 확인 
+1. connect wallet button 
+2. sign up button $\rightarrow$ sign up 페이지로 이동
+3. Find your mission $\rightarrow$ a
    Yes $\rightarrow$ 
 ### 출처(참고문헌)
 -
