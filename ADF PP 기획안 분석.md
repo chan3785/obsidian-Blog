@@ -18,12 +18,14 @@
 ### 시작 페이지
 1. Find your mission $\rightarrow$ mission menu 페이지로 이동
 2. 하단바 (여타 adf 서비스와 같음) 
-	컴포넌트로 제공 가능 ?
+	컴포넌트로 제공 가능한가요 ?
 	
 - Find your mission 버튼을 눌렀을 때 계정 확인을 해서 없으면 navigate 되는 페이지랑 sign up 버튼 누르고 navigate 되는 페이지랑 같은가?
 
 ###  Sign Up 페이지
-1. 
+1. Go to Artiside button 
+	   
+2. 
 ### 출처(참고문헌)
 -
 
