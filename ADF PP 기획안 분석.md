@@ -23,7 +23,7 @@
 - Find your mission 버튼을 눌렀을 때 계정 확인을 해서 없으면 navigate 되는 페이지랑 sign up 버튼 누르고 navigate 되는 페이지랑 같은가?
 
 ###  Sign Up 페이지
-1. Go to Artiside button $\rightarrow$ Artiside
+1. Go to Artiside button $\rightarrow$ Artiside 
 	   
 2. 
 ### 출처(참고문헌)
