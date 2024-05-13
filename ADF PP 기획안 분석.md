@@ -6,9 +6,11 @@
 ---
 ### 메모: 
 ### 공통 요소
-1. ==Logo $\rightarrow$ 시작 페이지로 이동==
-2. ==connect wallet button== $\rightarrow$ 연결 시 지갑주소 6자리까지만 노출 + 프로필 이미지 (원형)
-3. ==sign up button $\rightarrow$ sign up 페이지로 이동== 
+1. ==Logo== $\rightarrow$ 시작 페이지로 이동
+2. ==connect wallet button== $\rightarrow$ 
+3. ==sign up button== 
+	  계정 확인 false $\rightarrow$ sign up 페이지로 이동 
+	  계정 확인 True 연결 시 wallet logo + 지갑주소 6자리까지만 노출 + 프로필 이미지
    => 상단 바 메뉴
 ### 시작 페이지
 
