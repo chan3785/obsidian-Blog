@@ -34,6 +34,7 @@
 
 ### Mission Menu 페이지
 1. Referral Code $\rightarrow$ (미정) 팝업에 유저정보로 만든 or 유저에게 저장된 Referral code 보여주고 클립보드 복사 버튼도 옆에 (모달)
+2. . 
 #### 2. Mission Tab 
 1. 미션 상태 tab
 	1. All (미완 / 전체)
@@ -42,6 +43,7 @@
 	4. Next (예정) 시간 기준
 2. 미션 카테고리 tab
 	1. Referral 
+		   
 	2. Social
 	3. Artiside
 	4. Seeding
