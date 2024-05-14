@@ -71,10 +71,8 @@
             "id": "4a6b3457c1fa9315",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-05-02 13.32.52.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -126,6 +124,16 @@
             }
           },
           {
+            "id": "c0c20e492890de0c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-14 13.31.13.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "2dcf9de6ba86dfa4",
             "type": "leaf",
             "state": {
@@ -148,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -214,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ADF PP 기획안 분석.md",
+                "file": "Excalidraw/Drawing 2024-05-14 13.31.13.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ADF PP 기획안 분석.md",
+                "file": "Excalidraw/Drawing 2024-05-14 13.31.13.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -254,7 +262,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ADF PP 기획안 분석.md"
+                "file": "Excalidraw/Drawing 2024-05-14 13.31.13.excalidraw.md"
               }
             }
           }
@@ -276,11 +284,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3bf3f53cf7110958",
+  "active": "c0c20e492890de0c",
   "lastOpenFiles": [
+    "ADF PP 기획안 분석.md",
+    "Excalidraw/Drawing 2024-05-14 13.31.13.excalidraw.md",
     "Art De Finance 분석.md",
     "Art De Finance 개발 요구 초안.md",
-    "ADF PP 기획안 분석.md",
     "Pasted image 20240513011543.png",
     "Pasted image 20240513011121.png",
     "Pasted image 20240510164110.png",
@@ -314,7 +323,6 @@
     "VDF (Verifiable Delay Function).md",
     "Welcome.md",
     "알고리즘 설계 2024 - 1학기/알고리즘 성능 분석.md",
-    "Template/Untitled.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "알고리즘 설계 2024 - 1학기",
