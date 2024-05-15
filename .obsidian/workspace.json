@@ -127,9 +127,11 @@
             "id": "c0c20e492890de0c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-14 13.31.13.excalidraw.md"
+                "file": "ADF PP 기획안 분석.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -222,7 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-14 13.31.13.excalidraw.md",
+                "file": "ADF PP 기획안 분석.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-14 13.31.13.excalidraw.md",
+                "file": "ADF PP 기획안 분석.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -262,7 +264,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-14 13.31.13.excalidraw.md"
+                "file": "ADF PP 기획안 분석.md"
               }
             }
           }
@@ -286,8 +288,8 @@
   },
   "active": "c0c20e492890de0c",
   "lastOpenFiles": [
-    "ADF PP 기획안 분석.md",
     "Excalidraw/Drawing 2024-05-14 13.31.13.excalidraw.md",
+    "ADF PP 기획안 분석.md",
     "Art De Finance 분석.md",
     "Art De Finance 개발 요구 초안.md",
     "Pasted image 20240513011543.png",
