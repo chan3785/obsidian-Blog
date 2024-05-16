@@ -218,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "467b628ed7694621",
@@ -296,7 +297,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8abdfe9109b7aea6",
+  "active": "e8c75a5340b6ce88",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-05-16 13.31.33.excalidraw.md",
     "ADF PP 기획안 분석.md",
