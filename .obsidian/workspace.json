@@ -139,9 +139,9 @@
             "id": "8abdfe9109b7aea6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-14 13.31.13.excalidraw.md"
+                "file": "첨부된 이미지/Pasted image 20240427095615.png"
               }
             }
           },
@@ -234,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-14 13.31.13.excalidraw.md",
+                "file": "첨부된 이미지/Pasted image 20240427095615.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-14 13.31.13.excalidraw.md",
+                "file": "첨부된 이미지/Pasted image 20240427095615.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -274,7 +274,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-05-14 13.31.13.excalidraw.md"
+                "file": "첨부된 이미지/Pasted image 20240427095615.png"
               }
             }
           }
@@ -296,23 +296,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8abdfe9109b7aea6",
+  "active": "e8c75a5340b6ce88",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-05-14 13.31.13.excalidraw.md",
     "Excalidraw/Drawing 2024-05-16 13.31.33.excalidraw.md",
     "ADF PP 기획안 분석.md",
-    "Excalidraw/Drawing 2024-05-14 13.31.13.excalidraw.md",
     "Art De Finance 분석.md",
     "Art De Finance 개발 요구 초안.md",
-    "Pasted image 20240513011543.png",
-    "Pasted image 20240513011121.png",
-    "Pasted image 20240510164110.png",
-    "Pasted image 20240510003421.png",
-    "Pasted image 20240510003113.png",
-    "Pasted image 20240510003108.png",
-    "Pasted image 20240510003104.png",
-    "Pasted image 20240510002904.png",
-    "Pasted image 20240510002525.png",
-    "Pasted image 20240510002458.png",
+    "첨부된 이미지/Pasted image 20240513011543.png",
+    "첨부된 이미지/Pasted image 20240513011121.png",
+    "첨부된 이미지/Pasted image 20240510164110.png",
+    "첨부된 이미지/Pasted image 20240510003421.png",
+    "첨부된 이미지/Pasted image 20240510003113.png",
+    "첨부된 이미지/Pasted image 20240510003108.png",
+    "첨부된 이미지/Pasted image 20240510003104.png",
+    "첨부된 이미지/Pasted image 20240510002904.png",
+    "첨부된 이미지/Pasted image 20240510002525.png",
+    "첨부된 이미지/Pasted image 20240510002458.png",
     "2장 정렬.md",
     "마스터 정리.md",
     "알고리즘 설계.md",
