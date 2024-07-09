@@ -183,7 +183,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethereum Study/Mastering Ethereum/Chapter 1.md",
+                "file": "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
                 "mode": "source",
                 "source": false
               }
@@ -256,7 +256,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethereum Study/Mastering Ethereum/Chapter 1.md",
+                "file": "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ethereum Study/Mastering Ethereum/Chapter 1.md",
+                "file": "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -296,7 +296,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ethereum Study/Mastering Ethereum/Chapter 1.md"
+                "file": "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md"
               }
             }
           }
@@ -320,8 +320,9 @@
   },
   "active": "5993e121f45c8da5",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-05-14 13.31.13.excalidraw.md",
     "Ethereum Study/Mastering Ethereum/Chapter 1.md",
+    "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
+    "Excalidraw/Drawing 2024-05-14 13.31.13.excalidraw.md",
     "Ethereum Study/Mastering Ethereum",
     "Ethereum Study/Untitled.md",
     "Ethereum Study",
@@ -357,7 +358,6 @@
     "Untitled 1.md",
     "Untitled.md",
     "Git Library.md",
-    "Turbine.md",
     "첨부된 이미지",
     "Untitled 1.canvas",
     "Untitled.canvas",
