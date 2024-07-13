@@ -193,9 +193,11 @@
             "id": "15113e251d4df5f5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md"
+                "file": "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -250,8 +252,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "467b628ed7694621",
@@ -267,7 +268,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
+                "file": "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
+                "file": "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -307,7 +308,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md"
+                "file": "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md"
               }
             }
           }
@@ -331,8 +332,8 @@
   },
   "active": "15113e251d4df5f5",
   "lastOpenFiles": [
-    "Ethereum Study/이더리움 구조.md",
     "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
+    "Ethereum Study/이더리움 구조.md",
     "Ethereum Study/Mastering Ethereum/Chapter 1.md",
     "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
     "Output PDF/Chapter 6 트랜잭션.pdf",
