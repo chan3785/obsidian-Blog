@@ -73,6 +73,6 @@ Om:::Omega; $\Omega$
 -
 $\bar{A}$ 
 $\vec{A}$
-
+https://strikers01.tistory.com/445
 ### 연결문서
 -
