@@ -81,6 +81,15 @@ $\Rightarrow$ 가스비로 보상을 주기 때문에 더 높은 gasPrice를 블
 
 가스비 (gas Fee) = 가스 가격 (gasPrice) x 가스 양 (gasAmount)
 
+단순 EOA to EOA 이더 지급의 경우,
+가스 양 21000으로 고정.
+
+EOA to CA
+CA to CA 등등은
+가스 양 계산 필요.
+추정 가능, 정확하게는 불가.
+
+
 
 #### 트랜잭션 수신자
 #### 트랜잭션 값과 데이터
