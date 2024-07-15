@@ -79,6 +79,8 @@ gasPrice는 사용자가 조절 가능!
 높을 수록 더 빨리 컨펌될 확률 $\Uparrow$ 
 $\Rightarrow$ 가스비로 보상을 주기 때문에 더 높은 gasPrice를 블록에 포함시키려는 경향성이 있음
 
+가스비 (gas Fee) = 가스 가격 (gasPrice) x 가스 양 (gasAmount)
+
 
 #### 트랜잭션 수신자
 #### 트랜잭션 값과 데이터
