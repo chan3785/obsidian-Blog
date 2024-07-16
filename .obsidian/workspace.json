@@ -23,11 +23,9 @@
             "id": "15113e251d4df5f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md"
               }
             }
           }
@@ -82,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "467b628ed7694621",
@@ -99,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
+                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
+                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -139,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md"
+                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md"
               }
             }
           }
@@ -163,10 +160,10 @@
   },
   "active": "15113e251d4df5f5",
   "lastOpenFiles": [
+    "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
     "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
     "LaTex 기호 모음.md",
     "Untitled 1.md",
-    "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
     "Ethereum Study/이더리움 구조.md",
     "Excalidraw/Drawing 2024-05-28 13.31.57.excalidraw.md",
     "첨부된 이미지/Pasted image 20240411000545.png",
