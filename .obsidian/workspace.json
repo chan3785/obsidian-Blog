@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
+                "file": "Ethereum Study/Mastering Ethereum/Chapter 13 이더리움 가상머신.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
+                "file": "Ethereum Study/Mastering Ethereum/Chapter 13 이더리움 가상머신.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
+                "file": "Ethereum Study/Mastering Ethereum/Chapter 13 이더리움 가상머신.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md"
+                "file": "Ethereum Study/Mastering Ethereum/Chapter 13 이더리움 가상머신.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "15113e251d4df5f5",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
     "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
+    "Ethereum Study/Mastering Ethereum/Chapter 13 이더리움 가상머신.md",
+    "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
     "LaTex 기호 모음.md",
     "Untitled 1.md",
     "Ethereum Study/이더리움 구조.md",
@@ -202,7 +203,6 @@
     "마스터 정리.md",
     "알고리즘 설계.md",
     "인공지능 응용 04.05.md",
-    "전자기학 1.md",
     "첨부된 이미지",
     "Untitled 1.canvas",
     "Untitled.canvas",
