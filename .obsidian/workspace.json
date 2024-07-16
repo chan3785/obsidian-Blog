@@ -23,11 +23,9 @@
             "id": "15113e251d4df5f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "첨부된 이미지/Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "첨부된 이미지/Untitled.md",
+                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "첨부된 이미지/Untitled.md",
+                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "첨부된 이미지/Untitled.md"
+                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md"
               }
             }
           }
@@ -162,9 +160,9 @@
   },
   "active": "15113e251d4df5f5",
   "lastOpenFiles": [
-    "Pasted image 20240716182442.png",
-    "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
     "첨부된 이미지/Untitled.md",
+    "첨부된 이미지/Pasted image 20240716182442.png",
+    "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
     "Ethereum Study/Mastering Ethereum/Chapter 13 이더리움 가상머신.md",
     "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
     "LaTex 기호 모음.md",
@@ -201,7 +199,6 @@
     "첨부된 이미지/Pasted image 20240510003113.png",
     "첨부된 이미지/Pasted image 20240510003108.png",
     "첨부된 이미지/Pasted image 20240510003104.png",
-    "첨부된 이미지/Pasted image 20240510002904.png",
     "마스터 정리.md",
     "첨부된 이미지",
     "Untitled 1.canvas",
