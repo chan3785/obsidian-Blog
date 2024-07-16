@@ -11,11 +11,9 @@
             "id": "5993e121f45c8da5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Ethereum Study/이더리움 구조.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md"
               }
             }
           },
@@ -23,14 +21,15 @@
             "id": "15113e251d4df5f5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md"
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,16 +157,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "15113e251d4df5f5",
+  "active": "5993e121f45c8da5",
   "lastOpenFiles": [
+    "Ethereum Study/이더리움 구조.md",
+    "Welcome.md",
+    "첨부된 이미지/Pasted image 20240716184807.png",
+    "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
     "첨부된 이미지/Untitled.md",
     "첨부된 이미지/Pasted image 20240716182442.png",
-    "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
     "Ethereum Study/Mastering Ethereum/Chapter 13 이더리움 가상머신.md",
     "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
     "LaTex 기호 모음.md",
     "Untitled 1.md",
-    "Ethereum Study/이더리움 구조.md",
     "Excalidraw/Drawing 2024-05-28 13.31.57.excalidraw.md",
     "첨부된 이미지/Pasted image 20240411000545.png",
     "첨부된 이미지/Pasted image 20240427095615.png",
@@ -198,7 +199,6 @@
     "첨부된 이미지/Pasted image 20240510003421.png",
     "첨부된 이미지/Pasted image 20240510003113.png",
     "첨부된 이미지/Pasted image 20240510003108.png",
-    "첨부된 이미지/Pasted image 20240510003104.png",
     "마스터 정리.md",
     "첨부된 이미지",
     "Untitled 1.canvas",
