@@ -23,11 +23,9 @@
             "id": "15113e251d4df5f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Ethereum Study/Mastering Ethereum/Chapter 13 이더리움 가상머신.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethereum Study/Mastering Ethereum/Chapter 13 이더리움 가상머신.md",
+                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ethereum Study/Mastering Ethereum/Chapter 13 이더리움 가상머신.md",
+                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ethereum Study/Mastering Ethereum/Chapter 13 이더리움 가상머신.md"
+                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md"
               }
             }
           }
@@ -162,8 +160,8 @@
   },
   "active": "15113e251d4df5f5",
   "lastOpenFiles": [
-    "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
     "Ethereum Study/Mastering Ethereum/Chapter 13 이더리움 가상머신.md",
+    "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
     "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
     "LaTex 기호 모음.md",
     "Untitled 1.md",
