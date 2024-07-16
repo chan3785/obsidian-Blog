@@ -23,9 +23,11 @@
             "id": "15113e251d4df5f5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md"
+                "file": "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
+                "file": "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
+                "file": "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md"
+                "file": "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md"
               }
             }
           }
@@ -160,8 +162,8 @@
   },
   "active": "15113e251d4df5f5",
   "lastOpenFiles": [
-    "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
     "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
+    "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
     "LaTex 기호 모음.md",
     "Untitled 1.md",
     "Ethereum Study/이더리움 구조.md",
