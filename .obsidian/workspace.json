@@ -11,9 +11,11 @@
             "id": "5993e121f45c8da5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md"
+                "file": "Ethereum Study/7월23일 과제.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -95,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
+                "file": "Ethereum Study/7월23일 과제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
+                "file": "Ethereum Study/7월23일 과제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md"
+                "file": "Ethereum Study/7월23일 과제.md"
               }
             }
           }
@@ -159,10 +161,11 @@
   },
   "active": "5993e121f45c8da5",
   "lastOpenFiles": [
-    "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
-    "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
-    "Ethereum Study/Mastering Ethereum/Chapter 1.md",
     "Ethereum Study/이더리움 구조.md",
+    "Ethereum Study/7월23일 과제.md",
+    "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
+    "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
+    "Ethereum Study/Mastering Ethereum/Chapter 1.md",
     "Welcome.md",
     "첨부된 이미지/Pasted image 20240716184807.png",
     "첨부된 이미지/Untitled.md",
@@ -199,7 +202,6 @@
     "첨부된 이미지/Pasted image 20240510003421.png",
     "첨부된 이미지/Pasted image 20240510003113.png",
     "첨부된 이미지/Pasted image 20240510003108.png",
-    "마스터 정리.md",
     "첨부된 이미지",
     "Untitled 1.canvas",
     "Untitled.canvas",
