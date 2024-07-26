@@ -45,9 +45,13 @@ complex128: 2개의 float64 값 (실수, 허수)로 구성
 go에서 제공하는 complex 사용 내장함수
 ```
 complex(r,i): 실수 부분 r, 허수 부분 l 복소수 생성
-real(c)
-imag
+real(c): complex c의 실수부 return
+imag(c): complex c의 허수부 return
 ```
+실수(허수) 부분이 float32면 복소수는 complex64
+실수(허수) 부분이 float64면 복소수는 complex128
+
+
 ### 출처(참고문헌)
 -
 
