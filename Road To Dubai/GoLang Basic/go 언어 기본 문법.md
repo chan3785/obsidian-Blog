@@ -26,7 +26,9 @@ rune: int32의 별칭
 uintptr: //검색
 
 ### 2. float & complex
-go는 부동솟
+go는 부동소수점과 복소수를 지원한다. 
+
+##### float
 ### 출처(참고문헌)
 -
 
