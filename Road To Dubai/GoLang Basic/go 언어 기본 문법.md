@@ -20,7 +20,12 @@ int16: -32768 ~ 32767
 int32(=rune): 
 int64: 
 
-special
+##### special types
+byte: uint8의 별칭
+rune: int32의 별칭
+uintptr: //검색
+
+
 ### 출처(참고문헌)
 -
 
