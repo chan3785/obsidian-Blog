@@ -25,7 +25,8 @@ byte: uint8의 별칭
 rune: int32의 별칭
 uintptr: //검색
 
-
+### 2. float & complex
+go는 부동솟
 ### 출처(참고문헌)
 -
 
