@@ -15,7 +15,12 @@ uint: 양의 정수
 
 ##### specific types
 specific type은 비트 길이를 명시적으로 지정할 수 있다.
+int8: -128 ~ 127
+int16: -32768 ~ 32767
+int32(=rune): 
+int64: 
 
+special
 ### 출처(참고문헌)
 -
 
