@@ -48,6 +48,7 @@ complex(r,i): 실수 부분 r, 허수 부분 l 복소수 생성
 real(c): complex c의 실수부 return
 imag(c): complex c의 허수부 return
 ```
+
 실수(허수) 부분이 float32면 복소수는 complex64
 실수(허수) 부분이 float64면 복소수는 complex128
 
