@@ -5,8 +5,11 @@
 
 ---
 ### 메모: 
+## 0. Numerics
+integer, floating-point, complex, rune
 
-
+### 1. int
+##### gene
 ### 출처(참고문헌)
 -
 
