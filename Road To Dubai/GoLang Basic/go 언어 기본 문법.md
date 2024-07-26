@@ -42,7 +42,12 @@ float64: 64비트 부동 소수점 자리를 나타낸다.
 complex64: 2개의 float32 값 (실수, 허수)로 구성
 complex128: 2개의 float64 값 (실수, 허수)로 구성
 ```
-
+go에서 제공하는 complex 사용 내장함수
+```
+complex(r,i): 실수 부분 r, 허수 부분 l 복소수 생성
+real(c)
+imag
+```
 ### 출처(참고문헌)
 -
 
