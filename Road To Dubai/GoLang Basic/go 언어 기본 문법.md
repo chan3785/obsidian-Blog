@@ -9,7 +9,8 @@
 integer, floating-point, complex, rune
 
 ### 1. int
-##### gene
+##### general types
+int: 
 ### 출처(참고문헌)
 -
 
