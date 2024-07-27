@@ -97,18 +97,18 @@ fmt.Printf("문자 길이: %d\n", runeLength)
 ## Formatting
 ### 2. String Formatting
 
-| verb |           description           |
-| :--: | :-----------------------------: |
-|  %v  |     value (default format)      |
-|  %T  |         해당 value의 type          |
-|  %x  |      Hexadecimal encoding       |
-|  %d  |        Integer (base 10)        |
-|  %f  |      Floating-point number      |
-|  %e  | Scientific notation (lowercase) |
-|  %E  | Scientific notation (uppercase) |
-|  %p  |  Pointer가 가리키는 변수의 주소 (포인터의 값)  |
-|  %s  |             String              |
-|  %c  |     Unicode 코드 포인트로 표시되는 문자     |
+| format specifier |               description               |
+| :--------------: | :-------------------------------------: |
+|        %v        |         value (default format)          |
+|        %T        |             해당 value의 type              |
+|        %x        |          Hexadecimal encoding           |
+|        %d        |            Integer (base 10)            |
+|        %f        |          Floating-point number          |
+|        %e        |     Scientific notation (lowercase)     |
+|        %E        |     Scientific notation (uppercase)     |
+|        %p        |      Pointer가 가리키는 변수의 주소 (포인터의 값)      |
+|        %s        |                 String                  |
+|        %c        | Unicode 코드 포인트로 표시되는 문자 (유니코드에 해당하는 문자) |
 
 ### 출처(참고문헌)
 -
