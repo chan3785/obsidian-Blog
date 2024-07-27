@@ -8,7 +8,7 @@
 ## 0. Numerics
 integer, floating-point, complex, rune
 
-### 1. int
+## 1. int
 ##### general types
 int: OS에 따라 크기가 달라짐. 
 uint: 양의 정수
@@ -25,7 +25,7 @@ byte: uint8의 별칭
 rune: int32의 별칭
 uintptr: //검색
 
-### 2. float & complex
+## 2. float & complex
 go는 부동소수점과 복소수를 지원한다. 
 
 ##### float types
