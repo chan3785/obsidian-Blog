@@ -63,6 +63,8 @@ Go에서 ```string```은 UTF-8로 인코딩되는 읽기 전용 바이트 시퀀
 ```
 korean := "안녕하세요"
 
+fmt.Println("바이트 단위 접근:") for i := 0; i < len(s); i++ { fmt.Printf("%d ", s[i]) } fmt.Println() fmt.Println("문자 단위 접근:") for _, r := range s { fmt.Printf("%c ", r) } fmt.Println()
+
 // 문자열의 바이트 길이 
 byteLength := len(s) 
 fmt.Printf("바이트 길이: %d\n", byteLength) 
