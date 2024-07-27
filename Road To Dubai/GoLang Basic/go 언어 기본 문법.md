@@ -94,6 +94,9 @@ fmt.Printf("문자 길이: %d\n", runeLength)
 문자 길이: 5
 ```
 
+## Formatting
+### String Formatting
+
 | verb |      description       |
 | :--: | :--------------------: |
 |  %v  | value (default format) |
