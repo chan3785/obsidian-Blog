@@ -71,6 +71,12 @@ fmt.Printf("바이트 길이: %d\n", byteLength)
 runeLength := len([]rune(s)) 
 fmt.Printf("문자 길이: %d\n", runeLength)
 ```
+결과
+```
+바이트 길이: 15
+문자 길이: 5
+```
+
 
 ### 출처(참고문헌)
 -
