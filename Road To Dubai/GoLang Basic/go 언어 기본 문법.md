@@ -95,15 +95,15 @@ fmt.Printf("문자 길이: %d\n", runeLength)
 ```
 
 ## Formatting
-### String Formatting
+### 2. String Formatting
 
 | verb |      description       |
 | :--: | :--------------------: |
 |  %v  | value (default format) |
 |  %T  |     해당 value의 type     |
-|  %x  |                        |
-|  %d  |                        |
-|  %f  |                        |
+|  %x  |  Hexadecimal encoding  |
+|  %d  |   Integer (base 10)    |
+|  %f  | Floating-point number  |
 |  %e  |                        |
 |  %E  |                        |
 |  %p  |                        |
