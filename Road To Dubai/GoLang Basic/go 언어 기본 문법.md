@@ -63,7 +63,7 @@ Go에서 ```string```은 UTF-8로 인코딩되는 읽기 전용 바이트 시퀀
   
 - 예시
 ```
-s := "안녕하세요"
+var s string = "안녕하세요"
 
 fmt.Println("바이트 단위 접근:")
 for i := 0; i < len(s); i++ { 
