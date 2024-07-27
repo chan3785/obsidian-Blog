@@ -106,9 +106,9 @@ fmt.Printf("문자 길이: %d\n", runeLength)
 |  %f  |      Floating-point number      |
 |  %e  | Scientific notation (lowercase) |
 |  %E  | Scientific notation (uppercase) |
-|  %p  |  Pointer 자체값 (포인터가 가리키는 값의 주소)  |
+|  %p  |  Pointer가 가리키는 변수의 주소 (포인터의 값)  |
 |  %s  |             String              |
-|  %c  |                                 |
+|  %c  |     Unicode 코드 포인트로 표시되는 문자     |
 
 ### 출처(참고문헌)
 -
