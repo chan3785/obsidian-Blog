@@ -61,9 +61,17 @@ Go에서 ```string```은 UTF-8로 인코딩되는 읽기 전용 바이트 시퀀
 - 길이 및 인덱싱: go에서 문자열은 바이트로 계산된다. len함수는 문자열의 바이트 수를 반환한다. 문자열에 인덱스로 접근하면 그 위치의 문자를 반환하는 것이 아닌 그 문자의 바이트 정보를 반환한다. 
 예시
 ```
-korean := "안녕하세요"
+s := "안녕하세요"
 
-fmt.Println("바이트 단위 접근:") for i := 0; i < len(s); i++ { fmt.Printf("%d ", s[i]) } fmt.Println() fmt.Println("문자 단위 접근:") for _, r := range s { fmt.Printf("%c ", r) } fmt.Println()
+fmt.Println("바이트 단위 접근:")
+for i := 0; i < len(s); i++ { 
+	fmt.Printf("%d ", s[i]) 
+} 
+
+fmt.Println("문자 단위 접근:") 
+for _, r := range s { 
+	fmt.Printf("%c ", r) 
+} 
 
 // 문자열의 바이트 길이 
 byteLength := len(s) 
@@ -75,6 +83,11 @@ fmt.Printf("문자 길이: %d\n", runeLength)
 ```
 결과
 ```
+바이트 단위 접근:
+236 149 136 235 133 149 237 149 152 236 132 184 236 157 180 
+문자 단위 접근:
+안 녕 하 세 요 
+
 바이트 길이: 15
 문자 길이: 5
 ```
