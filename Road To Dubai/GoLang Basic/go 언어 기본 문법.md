@@ -96,6 +96,7 @@ fmt.Printf("문자 길이: %d\n", runeLength)
 
 ## Formatting
 ### 2. String Formatting
+fmt 에서는 형식을 지정해서 문자열을 출력할 수 있는 ```fmt.Printf```등의 함수를 제공한다. 
 
 | format specifier |               description               |
 | :--------------: | :-------------------------------------: |
