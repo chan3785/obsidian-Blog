@@ -164,7 +164,17 @@ func functionName(parameterName parameterType) returnType {
 ```
 
 ## 6. Struct
-구조체는 하나의 이름으로 '변수'를 
+구조체는 하나의 이름으로 '변수'를 그룹화하는 복합 데이터이다. 이런 변수를 필드라고 한다.
+구조체는 클래스와 유사하지만 상속을 지원하지 않는다.
+
+```
+type StructName struct {
+    field1 fieldType1
+    field2 fieldType2
+    // more fields...
+}
+```
+
 ### 출처(참고문헌)
 -
 
