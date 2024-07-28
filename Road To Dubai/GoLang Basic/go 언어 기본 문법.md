@@ -163,6 +163,8 @@ func functionName(parameterName parameterType) returnType {
 }
 ```
 
+## 6. Struct
+구조체는 하나의 이름으로 '변수'를 
 ### 출처(참고문헌)
 -
 
