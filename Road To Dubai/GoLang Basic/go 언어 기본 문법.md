@@ -153,6 +153,15 @@ const hello = "Hello, World!"
 ```
 
 ## 5. Function
+- 함수를 사용하면 캡슐화를 통해 코드의 재사용성을 높일 수 있다.
+- 함수는 0개 이상의 매개변수와 0개 이상의 반환값을 받을 수 있다.
+함수를 정의하고 사용하는 법은 다음과 같다.
+```
+func functionName(parameterName parameterType) returnType {
+    // function body
+    return value
+}
+```
 
 ### 출처(참고문헌)
 -
