@@ -94,8 +94,7 @@ fmt.Printf("문자 길이: %d\n", runeLength)
 문자 길이: 5
 ```
 
-## Formatting
-### 2. String Formatting
+## 2. String Formatting
 fmt 패키지는 형식을 지정해서 문자열을 출력할 수 있는 ```fmt.Printf```등의 함수를 제공한다. 
 
 | format specifier |               description               |
@@ -111,6 +110,7 @@ fmt 패키지는 형식을 지정해서 문자열을 출력할 수 있는 ```fmt
 |        %s        |                 String                  |
 |        %c        | Unicode 코드 포인트로 표시되는 문자 (유니코드에 해당하는 문자) |
 
+## 3. 
 ### 출처(참고문헌)
 -
 
