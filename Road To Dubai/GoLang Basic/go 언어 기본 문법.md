@@ -5,9 +5,11 @@
 
 ---
 ### 메모: 
-
-
-
+#### 짧은 변수 선언 연산자
+```
+변수명 := 값
+```
+이렇게 선언하면 
 ## 0. Numerics
 integer, floating-point, complex, rune
 
