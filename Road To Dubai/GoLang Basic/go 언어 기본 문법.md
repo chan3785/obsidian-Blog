@@ -110,7 +110,10 @@ fmt 패키지는 형식을 지정해서 문자열을 출력할 수 있는 ```fmt
 |        %s        |                 String                  |
 |        %c        | Unicode 코드 포인트로 표시되는 문자 (유니코드에 해당하는 문자) |
 
-## 3. 
+## 3. Boolean
+boolean은 true, false가 있다. go에서 boolean은 특징을 가진다.
+- 기본값: bool 타입 변수는 기본적으로 false이다.
+- 비교 연산자: 
 ### 출처(참고문헌)
 -
 
