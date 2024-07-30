@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5993e121f45c8da5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ethereum Study/7월23일 과제.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7321a22742f3cdb4",
             "type": "leaf",
             "state": {
@@ -41,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
