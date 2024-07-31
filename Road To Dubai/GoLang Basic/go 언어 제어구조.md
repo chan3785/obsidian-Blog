@@ -54,12 +54,15 @@ func main() {
 	if x < 3 {
 		fmt.Println("x is less than 3")
 	} else if x < 7 {
-		fmt.Println("x is less than 7 but greater than or equal to 3")
+		fmt.Println("x is less than 7 but greater than 3")
 	} else {
 		fmt.Println("x is greater than or equal to 7")
 	}
 }
 ```
+
+if 문 내에서 변수 선언도 가능하다.
+
 ### 출처(참고문헌)
 -
 
