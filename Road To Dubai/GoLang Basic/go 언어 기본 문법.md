@@ -201,7 +201,10 @@ func (receiver TypeName) methodName(parameters) returnType {
 - Pointer Receiver: 클래스에서 객체의 상태에 접근하는 것과 유사하게 포인터를 인자로 넘겨받아서 값을 직접 수정할 수 있다.
 
 ## 8. Pointer
+포인터는 다른 변수의 메모리 주소를 저장하는 변수이다.
+포인터를 사용해 실제 변수의 위치에 접근하고 값을 변경할 수 있다.
 
+- 주소 연산자 ()
 ### 출처(참고문헌)
 -
 
