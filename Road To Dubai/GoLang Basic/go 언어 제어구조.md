@@ -48,7 +48,18 @@ func main() {
 ```
 
 #### 3. if-else if-else 문
-
+```
+func main() {
+	x := 8
+	if x < 3 {
+		fmt.Println("x is less than 3")
+	} else if x < 7 {
+		fmt.Println("x is less than 7 but greater than or equal to 3")
+	} else {
+		fmt.Println("x is greater than or equal to 7")
+	}
+}
+```
 ### 출처(참고문헌)
 -
 
