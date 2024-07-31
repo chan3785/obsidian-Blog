@@ -24,7 +24,30 @@
     3. 조건식을 사용하는 switch 문
     4. fallthrough
 
-## 1. 조건문: 
+## 1. 조건문: if, else if, else
+#### 1. 기본 if 문
+```
+func main() {
+	x := 10
+	if x > 5 {
+		fmt.Println("x is greater than 5")
+	}
+}
+```
+괄호가 없이 사용하는 게 이색적이다
+#### 2. if - else 문
+```
+func main() {
+	x := 3
+	if x > 5 {
+		fmt.Println("x is greater than 5")
+	} else {
+		fmt.Println("x is not greater than 5")
+	}
+}
+```
+
+#### 3. if-else if-else 문
 
 ### 출처(참고문헌)
 -
