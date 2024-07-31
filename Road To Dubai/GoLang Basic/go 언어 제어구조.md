@@ -149,6 +149,26 @@ go에서 switch문은 하나 이상의 조건을 순서대로 판단해서 일�
 각 case 절에 해당하지 않으면 default 절을 실행한다.
 
 #### 기본 switch 문
+기본 switch 문은 하나의 변수 값을 여러 case와 비교해서 일치하는 경우에 해당 코드 블록을 실행한다.
+```
+func main() {
+	x := 2
+	switch x {
+	case 1:
+		fmt.Println("One")
+	case 2:
+		fmt.Println("Two")
+	case 3:
+		fmt.Println("Three")
+	default:
+		fmt.Println("Other")
+	}
+}
+```
+- `switch x`: x의 값을 평가한다.
+- `case 1`, `case 2`, `case 3`: x의 값이 각각 1, 2, 3과 일치할 때 실행할 코드 블록을 정의한다.
+- `default`: 어떤 case 절에도 해당하지 않을 때 실행할 코드 블록을 정의한다.
+
 
 ### 출처(참고문헌)
 -
