@@ -127,6 +127,22 @@ func main() {
 }
 ```
 
+#### 5. break, continue
+break는 반복문을 종료하고 continue는 다음 반복으로 건너뛴다.
+```
+func main() {
+	for i := 0; i < 10; i++ {
+		if i == 5 {
+			break
+		}
+		if i%2 == 0 {
+			continue
+		}
+		fmt.Println(i)
+	}
+}
+```
+
 
 ### 출처(참고문헌)
 -
