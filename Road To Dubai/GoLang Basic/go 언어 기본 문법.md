@@ -10,18 +10,18 @@
 integer, floating-point, complex, rune
 
 ### 1. int
-##### general types
+#### general types
 int: OS에 따라 크기가 달라짐. 
 uint: 양의 정수
 
-##### specific types
+#### specific types
 specific type은 비트 길이를 명시적으로 지정할 수 있다.
 int8: -128 ~ 127
 int16: -32768 ~ 32767
 int32(=rune): 
 int64: 
 
-##### special types
+#### special types
 byte: uint8의 별칭
 rune: int32의 별칭
 uintptr: //검색
@@ -29,7 +29,7 @@ uintptr: //검색
 ### 2. float & complex
 go는 부동소수점과 복소수를 지원한다. 
 
-##### float types
+#### float types
 go에서 제공하는 float type은 2가지이다.
 ```
 float32: 32비트 부동 소수점 자리를 나타낸다.
@@ -38,7 +38,7 @@ float64: 64비트 부동 소수점 자리를 나타낸다.
 
 *정밀도의 한계 때문에 float 타입은 실수의 대략적인 표현만 제공*
 
-##### complex types
+#### complex types
 ```
 complex64: 2개의 float32 값 (실수, 허수)로 구성
 complex128: 2개의 float64 값 (실수, 허수)로 구성
@@ -152,7 +152,7 @@ var c complex64
 const hello = "Hello, World!"
 ```
 
-## 5. Function
+### 5. Function
 - 함수를 사용하면 캡슐화를 통해 코드의 재사용성을 높일 수 있다.
 - 함수는 0개 이상의 매개변수와 0개 이상의 반환값을 받을 수 있다.
 함수를 정의하고 사용하는 법은 다음과 같다.
@@ -163,7 +163,7 @@ func functionName(parameterName parameterType) returnType {
 }
 ```
 
-## 6. Struct
+### 6. Struct
 구조체는 하나의 이름으로 '변수'를 그룹화하는 복합 데이터이다. 이런 변수를 필드라고 한다.
 구조체는 클래스와 유사하지만 상속을 지원하지 않는다.
 
@@ -179,7 +179,7 @@ Go는 다른 객체지향언어처럼 클래스를 지원하지 않는다. 다�
 - **상속 없음**: 상속 지원 X, 대신 컴포지션을 사용하여 코드 재사용
 - **캡슐화**: 접근 지시자 X, 대문자로 필드 이름 표기로 public을 나타냄
 - **메서드**: 구조체 내에 메서드 정의 X. 외부에서 구조체 타입과 연관
-## 7. Method
+### 7. Method
 메서드는 function과 유사하지만 특정 타입(일반적으로 구조체)과 연관되어 있다. 
 
 메서드는 타입의 동작을 정의한다. 그게 구조체든 뭐든
@@ -200,7 +200,7 @@ func (receiver TypeName) methodName(parameters) returnType {
 - this: go에는 암시적 this 키워드가 없다. 대신 명시적으로 receiver 이름을 사용한다.
 - Pointer Receiver: 클래스에서 객체의 상태에 접근하는 것과 유사하게 포인터를 인자로 넘겨받아서 값을 직접 수정할 수 있다.
 
-## 8. Pointer
+### 8. Pointer
 포인터는 다른 변수의 메모리 주소를 저장하는 변수이다.
 포인터를 사용해 실제 변수의 위치에 접근하고 값을 변경할 수 있다.
 
@@ -214,7 +214,7 @@ ptr = &variable
 ```*int```: 포인터의 타입. int 형 변수를 가리킨다는 뜻.
 ```&variable```: 변수의 메모리 주소를 반환한다.
 
-## 9. Closure
+### 9. Closure
 클로저는 함수가 자신이 정의된 환경을 캡처하고 기억하여, 함수가 그 **환경** 밖에서 호출 되더라도 그 환경에 접근할 수 있도록 한다.
 클로저는 함수 내에서 정의된 함수로, 클로저와 그 함수가 만들어질 때의 변수 범위를 함께 저장한다.
 

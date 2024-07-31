@@ -25,7 +25,7 @@
     4. fallthrough
 
 ### 1. 조건문: if, else if, else
-##### 1. 기본 if 문
+#### 1. 기본 if 문
 ```
 func main() {
 	x := 10
@@ -35,7 +35,7 @@ func main() {
 }
 ```
 괄호가 없이 사용하는 게 이색적이다
-##### 2. if - else 문
+#### 2. if - else 문
 ```
 func main() {
 	x := 3
@@ -47,7 +47,7 @@ func main() {
 }
 ```
 
-##### 3. if-else if-else 문
+#### 3. if-else if-else 문
 ```
 func main() {
 	x := 8
@@ -77,7 +77,8 @@ func main() {
 ### 반복문: for, break, continue
 go에서는 유일한 반복문으로 for문을 사용한다.
 다양한 방식으로 반복문을 사용할 수 있다.
-##### 1. 기본 for 문
+#### 1. 기본 for 문
+
 ### 출처(참고문헌)
 -
 
