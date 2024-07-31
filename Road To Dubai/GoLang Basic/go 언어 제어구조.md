@@ -172,6 +172,42 @@ func main() {
 #### 2. 여러 값을 검사하는 switch 문
 여러 값을 검사하는 switch 문에서는 각 case에 여러가지 값을 포함할 수 있다.
 이렇게 하면 동일한 수행을 여러 값에 대해서 해야 할 때 유용하다.
+```
+func main() {
+	x := 4
+	switch x {
+	case 1, 3, 5:
+		fmt.Println("Odd")
+	case 2, 4, 6:
+		fmt.Println("Even")
+	default:
+		fmt.Println("Other")
+	}
+}
+```
+
+- `case 1, 3, 5`: x의 값이 1, 3, 5 중 하나일 때 "Odd"를 출력한다.
+- `case 2, 4, 6`: x의 값이 2, 4, 6 중 하나일 때 "Even"을 출력한다.
+- `default`: x의 값이 나열된 값에 해당하지 않을 때 "Other"를 출력한다.
+
+#### 3. 조건식을 사용하는 switch 문
+조건식을 사용하는 switch 문에서는 각 case에 조건식을 사용할 수 있다.
+이 방식은 특정 값 뿐만 아니라 복잡한 조건을 처리할 때 유용하다.
+
+```
+func main() {
+	x := 10
+	switch {
+	case x < 5:
+		fmt.Println("x is less than 5")
+	case x < 10:
+		fmt.Println("x is less than 10 but greater than or equal to 5")
+	default:
+		fmt.Println("x is 10 or more")
+	}
+}
+```
+
 
 ### 출처(참고문헌)
 -
