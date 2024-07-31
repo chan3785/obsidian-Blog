@@ -184,6 +184,18 @@ Go는 다른 객체지향언어처럼 클래스를 지원하지 않는다. 다�
 
 메서드는 타입의 동작을 정의한다. 그게 구조체든 뭐든
 그리고 구조체의 필드에 접근하고 동작을 정의할 수 있다.
+그래서 흔히 구조체와 함께 사용된다.
+
+```
+type TypeName struct {
+    // fields
+}
+
+func (receiver TypeName) methodName(parameters) returnType {
+    // method body
+}
+```
+#### 객체지향의 Class와 Go의 method 비교
 
 ### 출처(참고문헌)
 -
