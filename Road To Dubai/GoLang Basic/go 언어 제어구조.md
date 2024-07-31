@@ -214,7 +214,34 @@ func main() {
 - `default`: x가 10 이상이면 "x is 10 or more"를 출력한다.
 
 #### 4. fallthrough
-fallthrough는 go의 switch문에서 사용되는 특별한 키워드로, 현재 
+fallthrough는 go의 switch문에서 사용되는 특별한 키워드로, 현재 case가 실행되면 다음 case를 강제로 실행하게 한다. 
+즉, fallthrough를 사용하면 조건을 검사하지 않고 다음 case를 실행한다.
+```
+func main() {
+	x := 1
+	switch x {
+	case 1:
+		fmt.Println("One")
+		fallthrough
+	case 2:
+		fmt.Println("Two")
+		fallthrough
+	case 3:
+		fmt.Println("Three")
+	default:
+		fmt.Println("Other")
+	}
+	// One 
+	// Two
+	// Three
+}
+```
+- `case 1`: x가 1인 경우 "One"을 출력한 후 fallthrough 키워드에 의해 다음 case 절(즉, case 2)을 실행한다.
+- `case 2`: 조건을 검사하지 않고 "Two"를 출력한 후 다시 fallthrough 키워드에 의해 다음 case 절(즉, case 3)을 실행한다.
+- `case 3`: 조건을 검사하지 않고 "Three"를 출력한다.
+- `default`: fallthrough에 의해 다음 case 절이 없을 때 실행된다. 위 코드에서는 실행되지 않는다.
+
+fallthrough는 오직
 ### 출처(참고문헌)
 -
 
