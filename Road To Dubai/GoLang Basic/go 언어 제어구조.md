@@ -61,7 +61,19 @@ func main() {
 }
 ```
 
+#### 4. 조건문 내 변수 선언
 if 문 내에서 변수 선언도 가능하다.
+단, 이 변수는 if문 scope 내에서만 유효하다.
+```
+func main() {
+	if x := 10; x > 5 {
+        // x 존재 
+		fmt.Println("x is greater than 5")
+	}
+    // x 존재하지 않음
+}
+```
+
 
 ### 출처(참고문헌)
 -
