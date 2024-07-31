@@ -111,7 +111,22 @@ func problematicFunction() {
 ```
 
 #### 4. range를 사용한 for 문
-배열, 슬라이스, 
+배열, 슬라이스, 맵, 채널 등을 순회할 때 사용한다. 다음은 `nums` 슬라이스의 각 요소에 대해 인덱스 i와 값 num을 반복하는 예시 코드이다
+```
+func main() {
+	nums := []int{2, 3, 4}
+	for i, num := range nums {
+		fmt.Printf("Index: %d, Value: %d\n", i, num)
+	}
+
+	m := map[string]string{"a": "apple", "b": "banana"}
+	for k, v := range m {
+		fmt.Printf("Key: %s, Value: %s\n", k, v)
+	}
+}
+```
+
+
 ### 출처(참고문헌)
 -
 
