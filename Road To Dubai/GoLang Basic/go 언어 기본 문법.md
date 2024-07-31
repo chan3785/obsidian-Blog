@@ -53,7 +53,7 @@ imag(c): complex c의 허수부 return
 실수(허수) 부분이 float32면 복소수는 complex64
 실수(허수) 부분이 float64면 복소수는 complex128
 
-## 1. String
+### 1. String
 Go에서 ```string```은 UTF-8로 인코딩되는 읽기 전용 바이트 시퀀스이며 불변이다.
 이게 무슨 뜻이면 문자열을 읽고 쓰는 건 가능하지만 string을 수정할 수는 없다.
 
@@ -95,7 +95,7 @@ fmt.Printf("문자 길이: %d\n", runeLength)
 문자 길이: 5
 ```
 
-## 2. String Formatting
+### 2. String Formatting
 fmt 패키지는 형식을 지정해서 문자열을 출력할 수 있는 ```fmt.Printf```등의 함수를 제공한다. 
 
 | format specifier |               description               |
@@ -111,7 +111,7 @@ fmt 패키지는 형식을 지정해서 문자열을 출력할 수 있는 ```fmt
 |        %s        |                 String                  |
 |        %c        | Unicode 코드 포인트로 표시되는 문자 (유니코드에 해당하는 문자) |
 
-## 3. Boolean
+### 3. Boolean
 boolean은 true, false가 있다. go에서 boolean은 특징을 가진다.
 - 기본값: bool 타입 변수는 기본적으로 false이다.
 - 비교 연산자: 여러 비교 연산자의 결과로 표현될 수 있다.
