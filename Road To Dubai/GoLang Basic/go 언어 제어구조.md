@@ -208,7 +208,13 @@ func main() {
 }
 ```
 
+- `switch`: switch 키워드 뒤에 아무것도 명시하지 않아도 된다. 각 case 절에서 직접 조건을 평가한다.
+- `case x < 5`: x가 5보다 작으면 "x is less than 5"를 출력한다.
+- `case x < 10`: x가 10보다 작고 5 이상이면 "x is less than 10 but greater than or equal to 5"를 출력한다.
+- `default`: x가 10 이상이면 "x is 10 or more"를 출력한다.
 
+#### 4. fallthrough
+fallthrough는 go의 switch문에서 사용되는 특별한 키워드로, 현재 
 ### 출처(참고문헌)
 -
 
