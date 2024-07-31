@@ -5,7 +5,7 @@
 
 ---
 ### 메모: 
-## 목차
+### 목차
 1. 조건문: if, else if, else
     1. 기본 if 문
     2. if-else 문
@@ -24,8 +24,8 @@
     3. 조건식을 사용하는 switch 문
     4. fallthrough
 
-## 1. 조건문: if, else if, else
-#### 1. 기본 if 문
+### 1. 조건문: if, else if, else
+##### 1. 기본 if 문
 ```
 func main() {
 	x := 10
@@ -35,7 +35,7 @@ func main() {
 }
 ```
 괄호가 없이 사용하는 게 이색적이다
-#### 2. if - else 문
+##### 2. if - else 문
 ```
 func main() {
 	x := 3
@@ -47,7 +47,7 @@ func main() {
 }
 ```
 
-#### 3. if-else if-else 문
+##### 3. if-else if-else 문
 ```
 func main() {
 	x := 8
@@ -61,7 +61,7 @@ func main() {
 }
 ```
 
-#### 4. 조건문 내 변수 선언
+##### 4. 조건문 내 변수 선언
 if 문 내에서 변수 선언도 가능하다.
 단, 이 변수는 if문 scope 내에서만 유효하다.
 ```
@@ -74,7 +74,7 @@ func main() {
 }
 ```
 
-
+### 반복문: for, break, continue
 ### 출처(참고문헌)
 -
 
