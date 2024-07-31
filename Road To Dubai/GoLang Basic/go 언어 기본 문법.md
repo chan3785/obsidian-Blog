@@ -211,7 +211,10 @@ func (receiver TypeName) methodName(parameters) returnType {
 var ptr *int
 ptr = &variable
 ```
-$*$ptr 
+```*int```: 포인터의 타입. int 형 변수를 가리킨다는 뜻.
+```&variable```: 변수의 메모리 주소를 반환한다.
+
+
 ### 출처(참고문헌)
 -
 
