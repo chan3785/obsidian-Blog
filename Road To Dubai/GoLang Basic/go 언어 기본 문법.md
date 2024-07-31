@@ -196,7 +196,7 @@ func (receiver TypeName) methodName(parameters) returnType {
 }
 ```
 #### 객체지향의 Class와 Go의 method 비교
-- Re
+- Receiver: 메서드가 특정 타입에 속하도록 만들어주는 특별한 인자
 ### 출처(참고문헌)
 -
 
