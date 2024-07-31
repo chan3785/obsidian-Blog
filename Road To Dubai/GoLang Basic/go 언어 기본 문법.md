@@ -198,7 +198,10 @@ func (receiver TypeName) methodName(parameters) returnType {
 #### 객체지향의 Class와 Go의 method 비교
 - Receiver: 클래스에서 메서드가 객체와 연관되는 것과 비슷하게 receiver라는 특정 타입에 속하도록 만들어주는 특별한 인자를 사용한다.
 - this: go에는 암시적 this 키워드가 없다. 대신 명시적으로 receiver 이름을 사용한다.
-- Pointer Receiver: 클래스에서 객체의 상태에 접근하는 것과 유사하게 포인터 수
+- Pointer Receiver: 클래스에서 객체의 상태에 접근하는 것과 유사하게 포인터를 인자로 넘겨받아서 값을 직접 수정할 수 있다.
+
+## 8. Pointer
+
 ### 출처(참고문헌)
 -
 
