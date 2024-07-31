@@ -99,7 +99,19 @@ func main() {
 }
 ```
 
+#### 3. 무한 루프
+반복문에 조건을 명시하지 않으면 무한히 반복되는 무한 루프를 만들 수 있다.
+```
+func problematicFunction() {
+	for {
+		// Infinite loop
+		fmt.Println("This function never halts.")
+	}
+}
+```
 
+#### 4. range를 사용한 for 문
+배열, 슬라이스, 
 ### 출처(참고문헌)
 -
 
