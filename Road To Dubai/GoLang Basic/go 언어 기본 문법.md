@@ -196,7 +196,7 @@ func (receiver TypeName) methodName(parameters) returnType {
 }
 ```
 #### 객체지향의 Class와 Go의 method 비교
-
+- Re
 ### 출처(참고문헌)
 -
 
