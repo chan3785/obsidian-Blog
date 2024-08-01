@@ -46,6 +46,13 @@ Queue는 FIFO (First-In-First-Out), Stack은 LIFO (Least-In-First-Out)을 따르
 
 ### 4. Tree
 트리는 hierachical 데이터 구조로, 노드로 구성되며 각 노드는 자식 노드를 가질 수 있다.
+Array, Slice와 같이 선형적이지 않고 자식-부모로 비선형적인 구조를 가진다.
+
+#### 1. 이진검색트리 Binary Search Tree
+이진 검색 트리는 각 노드가 최대 2개의 자식을 가지며, 
+왼쪽 자식 노드는 부모 노드보다 작고,
+오른쪽 자식 노드는 부모 노드보다 크다.
+
 ### 출처(참고문헌)
 -
 
