@@ -36,6 +36,10 @@ slice는 배열을 부분 참조할 수 있다.
 ### 2. Queue와 Stack
 Queue는 FIFO (First-In-First-Out), Stack은 LIFO (Least-In-First-Out)을 따르는 구조를 의미한다.
 
+### 3. Map
+맵은 Key-Value 쌍을 저장하는 데이터 구조이다. 파이썬의 Dictionary와 유사하다. 
+맵의 특징
+- 
 ### 출처(참고문헌)
 -
 
