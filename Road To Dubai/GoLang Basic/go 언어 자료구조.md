@@ -31,7 +31,10 @@ slice는 배열을 부분 참조할 수 있다.
 #### 3. Array와 Slice의 차이점
 - Array는 정적으로 할당하고 Slice는 동적으로 할당한다. Slice는 선언에 미리 크기를 선언하지 않아도 된다.
 - Slice는 배열의 부분 집합을 참조할 수 있다.
-- Slice는 Array보다 더 많은 기능을 제공하며 Array보다 더 자주 사용딘
+- Slice는 Array보다 더 많은 기능을 제공하며 Array보다 더 자주 사용된다.
+
+### 2. Queue와 Stack
+
 ### 출처(참고문헌)
 -
 
