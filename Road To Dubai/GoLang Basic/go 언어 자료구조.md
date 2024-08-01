@@ -43,6 +43,9 @@ Queue는 FIFO (First-In-First-Out), Stack은 LIFO (Least-In-First-Out)을 따르
 - Key와 Value의 타입은 같아야 한다.
 - 크기는 동적으로 할당된다.
 - Key를 통해 Map에 저장된 값에 빠르게 접근할 수 있다. O(1)
+
+### 4. Tree
+트리는 hierachical 데이터 구조로, 노드로 구성되며 각 노드는 자식 노드를 가질 수 있다.
 ### 출처(참고문헌)
 -
 
