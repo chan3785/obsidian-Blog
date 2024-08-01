@@ -34,6 +34,7 @@ slice는 배열을 부분 참조할 수 있다.
 - Slice는 Array보다 더 많은 기능을 제공하며 Array보다 더 자주 사용된다.
 
 ### 2. Queue와 Stack
+Queue는 FIFO (First-In-First-Out), Stack은 LIFO (Least-In-First-Out)을 따르는 구조를 의미한다.
 
 ### 출처(참고문헌)
 -
