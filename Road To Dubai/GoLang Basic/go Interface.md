@@ -29,7 +29,49 @@
 
 빈 인터페이스는 사용하는 곳에서의 해당 타입을 알 수는 없기 때문에 값을 사용할 때 ```type assertion```이나 ```type switch```를 통해 원래의 타입을 확인하고 사용해야 한다.
 
-예제
+- 예제
+```
+// 정의된 타입 구조체
+type Person struct {
+	Name string
+	Age  int
+}
+
+type Animal struct {
+	Species string
+	Age     int
+}
+
+// 입력된 값을 구조체와 비교하는 함수
+func compareStructs(i interface{}) {
+	switch v := i.(type) {
+	case Person:
+		fmt.Printf("Value is a Person: %+v\n", v)
+	case Animal:
+		fmt.Printf("Value is an Animal: %+v\n", v)
+	default:
+		fmt.Printf("Unknown type: %T\n", v)
+	}
+}
+
+func main() {
+	// 다양한 타입의 값을 담을 수 있는 빈 인터페이스 슬라이스
+	var i interface{}
+
+	// Person 구조체와 비교
+	i = Person{Name: "Alice", Age: 30}
+	compareStructs(i) // Value is a Person: {Name: Alice Age: 30}
+
+	// Animal 구조체와 비교
+	i = Animal{Species: "Dog", Age: 5}
+	compareStructs(i) // Value is an Animal: {Species: Dog Age: 5}
+
+	// 기타 타입과 비교
+	i = "Hello"
+	compareStructs(i) // Unknown type: string
+}
+```
+
 ### 출처(참고문헌)
 -
 
