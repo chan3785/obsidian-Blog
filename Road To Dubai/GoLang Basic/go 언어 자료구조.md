@@ -105,7 +105,8 @@ func main() {
 }
 ```
 
-
+#### 2. AVL Tree
+AVL Tree는 BBST의 일종으로, 
 ### 출처(참고문헌)
 -
 
