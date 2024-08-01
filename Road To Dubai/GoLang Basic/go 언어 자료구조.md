@@ -52,7 +52,60 @@ Array, Slice와 같이 선형적이지 않고 자식-부모로 비선형적인 �
 이진 검색 트리는 각 노드가 최대 2개의 자식을 가지며, 
 왼쪽 자식 노드는 부모 노드보다 작고,
 오른쪽 자식 노드는 부모 노드보다 크다.
+- 계층적 구조: 데이터의 계층적인 표현을 가능하게 한다.
+- 효율적인 구조: BST는 평균적으로 O(log n)의 검색 시간복잡도를 가진다.
 
+ #### go에서 BST를 구현한 코드는 다음과 같다.
+ 
+ ```
+type Node struct {
+	value int
+	left  *Node
+	right *Node
+}
+
+// 새로운 노드를 추가하는 함수
+func (n *Node) Insert(value int) {
+	if value < n.value {
+		if n.left == nil {
+			n.left = &Node{value: value}
+		} else {
+			n.left.Insert(value)
+		}
+	} else {
+		if n.right == nil {
+			n.right = &Node{value: value}
+		} else {
+			n.right.Insert(value)
+		}
+	}
+}
+
+// 트리에서 값을 찾는 함수
+func (n *Node) Search(value int) bool {
+	if n == nil {
+		return false
+	}
+	if value < n.value {
+		return n.left.Search(value)
+	} else if value > n.value {
+		return n.right.Search(value)
+	}
+	return true
+}
+
+func main() {
+	root := &Node{value: 10}
+	root.Insert(5)
+	root.Insert(15)
+	root.Insert(3)
+	root.Insert(7)
+
+	fmt.Println(root.Search(7))  // true
+    fmt.Println(root.Search(3))  // true
+	fmt.Println(root.Search(12)) // false
+}
+```
 ### 출처(참고문헌)
 -
 
