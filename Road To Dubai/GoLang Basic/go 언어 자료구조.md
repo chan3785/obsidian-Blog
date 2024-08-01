@@ -39,6 +39,9 @@ Queue는 FIFO (First-In-First-Out), Stack은 LIFO (Least-In-First-Out)을 따르
 ### 3. Map
 맵은 Key-Value 쌍을 저장하는 데이터 구조이다. 파이썬의 Dictionary와 유사하다. 
 맵의 특징
+- Key는 Unique해야 한다.
+- Key와 Value의 타입은 같아야 한다.
+- 크기는 동적으로 할당된다.
 - 
 ### 출처(참고문헌)
 -
