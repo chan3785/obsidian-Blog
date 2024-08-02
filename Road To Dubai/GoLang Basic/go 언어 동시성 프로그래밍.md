@@ -54,7 +54,9 @@ func main() {
 }
 ```
 
-#### 송신 전용
+#### 송신 전용 및 수신 전용 채널
+채널은 송신 전용, 또는 수신 전용으로 선언할 수 있다.
+
 ```
 func send(ch chan<- int, val int) {
 	ch <- val
