@@ -120,12 +120,16 @@ AVL 트리와 같은 균형 트리는 삽입, 삭제 연산 후에도 균형을 
 - BF = 0: 왼쪽 서브트리와 오른쪽 서브트리의 높이가 같다
 - BF = -1: 왼쪽 서브트리가 오른쪽 서브트리보다 1단계 낮다
 ![[Pasted image 20240802005222.png]]
-#### Left Left (LL) Case
-#### Right Right (RR) Case
 
-#### Right Left (RL) Case
+#### 균형이 깨졌을 때
+BF가 1, 0, -1을 벗어나는 노드 기준으로 어떤 Case인지 파악
 
-#### Left Right (LR) Case
+##### Left Left (LL) Case
+##### Right Right (RR) Case
+
+##### Right Left (RL) Case
+
+##### Left Right (LR) Case
 
 ### 출처(참고문헌)
 -
