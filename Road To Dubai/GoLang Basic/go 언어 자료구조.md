@@ -115,12 +115,17 @@ AVL 트리와 같은 균형 트리는 삽입, 삭제 연산 후에도 균형을 
 
 균형인수 (Balance Factor)
 임의의 노드 k에 대해 
-```Balance Factor (k) = height(subleft(k)) - height(subright(k))```
+```Balance Factor (k) = height(subLeft(k)) - height(subRight(k))```
 - BF = 1: 왼쪽 서브트리가  오른쪽 서브트리보다 1단계 높다
 - BF = 0: 왼쪽 서브트리와 오른쪽 서브트리의 높이가 같다
 - BF = -1: 왼쪽 서브트리가 오른쪽 서브트리보다 1단계 낮다
 ![[Pasted image 20240802005222.png]]
+#### Left Left (LL) Case
+#### Right Right (RR) Case
 
+#### Right Left (RL) Case
+
+#### Left Right (LR) Case
 
 ### 출처(참고문헌)
 -
