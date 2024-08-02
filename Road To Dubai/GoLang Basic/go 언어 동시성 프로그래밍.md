@@ -37,6 +37,41 @@
 ##### 채널 특징
 - 동기화: 채널을 통해 값을 주고 받을 때, 고루틴 간 동기화가 이루어진다.
 - 방향성: 채널은 양방향이거나 송신 전용, 수신 전용으로 선언할 수 있다.
+###### 예시 코드
+```
+func main() {
+	// 채널 생성
+	ch := make(chan int)
+
+	// 고루틴에서 채널에 값 보내기
+	go func() {
+		ch <- 42
+	}()
+
+	// 채널에서 값 받기
+	val := <-ch
+	fmt.Println(val) // 42
+}
+```
+
+#### 송신 전용
+```
+func send(ch chan<- int, val int) {
+	ch <- val
+}
+
+func receive(ch <-chan int) int {
+	return <-ch
+}
+
+func main() {
+	ch := make(chan int)
+
+	go send(ch, 42)
+	val := receive(ch)
+	fmt.Println(val) // 42
+}
+```
 
 ### 3. Channel을 이용한 동시성 제어
 #### 1. 버퍼링 된 channel
