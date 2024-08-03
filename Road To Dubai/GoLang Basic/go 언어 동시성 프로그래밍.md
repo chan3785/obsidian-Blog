@@ -126,7 +126,23 @@ func main() {
 ```
 
 #### 3. select 문
-select 문은 여러 채널 작업을 기다리고, 그 중 하나가 준비되면 해당 작업을 시
+select 문은 여러 채널 작업을 기다리고, 그 중 하나가 준비되면 해당 작업을 실행한다.
+이는 다중 채널 동작을 제어하는 데 유용하다.
+select 문에서 default 케이스를 사용하면 모든 채널이 준비되지 않은 경우에도 즉시 실행된다.
+###### 예시 코드
+```
+func main() {
+	ch := make(chan int, 1)
+	ch <- 1
+	select {
+	case val := <-ch:
+		fmt.Println("received", val)
+	default:
+		fmt.Println("no value received")
+	}
+}
+```
+
 
 ### 출처(참고문헌)
 -
