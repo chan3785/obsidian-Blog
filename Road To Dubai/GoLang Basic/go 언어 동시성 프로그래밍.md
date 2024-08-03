@@ -145,6 +145,8 @@ func main() {
 
 #### 4. sync 패키지 사용
 go의 sync 패키지는 동시성 프로그래밍을 위한 여러 도구를 제공한다. 여기에는 WaitGroup, Mutex, Once 등이 포함된다.
+WaitGroup은 여러 고루틴의 완료를 기다릴 때 사용한다.
+
 
 ### 출처(참고문헌)
 -
