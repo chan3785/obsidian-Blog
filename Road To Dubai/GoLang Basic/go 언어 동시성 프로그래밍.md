@@ -147,7 +147,12 @@ func main() {
 go의 sync 패키지는 동시성 프로그래밍을 위한 여러 도구를 제공한다. 여기에는 WaitGroup, Mutex, Once 등이 포함된다.
 WaitGroup은 여러 고루틴의 완료를 기다릴 때 사용한다.
 
+#### 5. Mutex
+mutex는 임계 구역을 보호하여 동시 접근을 제한한다.
+예) race condition 등
 
+#### 6. 클로저와 동시성
+클로저는 
 ### 출처(참고문헌)
 -
 
