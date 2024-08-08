@@ -134,6 +134,12 @@ seed phrase를 가진 사람이 증명을 할 수 있다. rt를 만들 수 있�
 
 zk-regex
 
+circom은 빠르게 circuit을 빠르게 설계하고 컴퓨터 설계 경험이 적으면 아주 굿
+좀 더 복잡하게나 설계를 더 해야 할 때 arkworks라는 툴 추천
+온체인 데이터 같은 큰 데이터를 처리하는 circuit을 define 해야 할 때 
+halo2 추천
+
+
 ### 출처(참고문헌)
 -
 
