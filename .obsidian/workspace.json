@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethereum Study/ZKP basic/블록체인과 암호학.md",
+                "file": "Ethereum Study/ZKP basic/ZKP.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethereum Study/ZKP basic/블록체인과 암호학.md",
+                "file": "Ethereum Study/ZKP basic/ZKP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ethereum Study/ZKP basic/블록체인과 암호학.md",
+                "file": "Ethereum Study/ZKP basic/ZKP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ethereum Study/ZKP basic/블록체인과 암호학.md"
+                "file": "Ethereum Study/ZKP basic/ZKP.md"
               }
             }
           }
@@ -175,6 +175,7 @@
   "active": "1f95d7475de93e81",
   "lastOpenFiles": [
     "Ethereum Study/7월23일 과제.md",
+    "Ethereum Study/ZKP basic/ZKP.md",
     "Ethereum Study/ZKP basic/블록체인과 암호학.md",
     "2장 정렬.md",
     "Road To Dubai/GoLang Basic/go 언어 동시성 프로그래밍.md",
@@ -210,7 +211,6 @@
     "ADF PP 기획안 분석.md",
     "Art De Finance 분석.md",
     "Git Library.md",
-    "알고리즘 설계 예상 시험문제.md",
     "Output PDF",
     "새 폴더",
     "Ethereum Study/Mastering Ethereum",
