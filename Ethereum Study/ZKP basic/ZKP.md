@@ -55,8 +55,9 @@ A: S
 B: C=P(S)
 
 B가 알파라는 값을 준다. evalutae 해봐라
-A는 P($\alpha$)를 계산. 했더니 a가 나왔다.
-P($\alpha$) - a / (S-$\alpha$)
+A는 P($\alpha$)를 계산했더니 a가 나왔다.
+P(x) - a / (x-$\alpha$) 했을 때 나뉘어져야 한다.
+
 ### 출처(참고문헌)
 -
 
