@@ -7,6 +7,7 @@
 ### 메모: 
 ### Verifiable computing
 computing(계산)이란? (C,S)
+프로그램 : 순서가 있는 명령어 벡터
 
 ### 출처(참고문헌)
 -
