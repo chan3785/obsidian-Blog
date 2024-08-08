@@ -55,7 +55,8 @@ A: S
 B: C=P(S)
 
 B가 알파라는 값을 준다. evalutae 해봐라
-A는 P($\alpha$)를 계산. 했더니 a
+A는 P($\alpha$)를 계산. 했더니 a가 나왔다.
+P($\alpha$) - a / (S-$\alpha$)
 ### 출처(참고문헌)
 -
 
