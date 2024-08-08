@@ -118,8 +118,10 @@ v1(x)를 구하고 싶다 정하고 싶다
 
 ### Zero-Knowledge Proof (verifiable computing)
 블록체인과의 접점이 어떻게 될 것인가
+1. privacy
+2. scalability
+이것 조차도 족쇄 상상하기 나름의 문제를 풀 수도 있을 것이다.
 
-ML model 
 ### 출처(참고문헌)
 -
 
