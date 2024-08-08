@@ -117,7 +117,9 @@ v1(x)를 구하고 싶다 정하고 싶다
 수많은 파라미터를 넣어서 연산을 한 것을 한번 내지 두 번의 연산으로 증명할 수 있게 된다.
 
 ### Zero-Knowledge Proof (verifiable computing)
+블록체인과의 접점이 어떻게 될 것인가
 
+ML model 
 ### 출처(참고문헌)
 -
 
