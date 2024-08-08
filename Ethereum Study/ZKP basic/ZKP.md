@@ -25,7 +25,11 @@ Cexe >> Cver 를 만들려고 하는 노력의 총칭을 Verifiable Computing이
 
 train(md,data) 하는 것도 comp다
 
-어떤 
+어떤 DataSet과 Model을 training 시켜달라고 외주를 줬는데 그 결과를 믿을 수 있느냐
+검증하려면 직접 해보는 건데 그럼 외주를 왜 맡기냐
+이걸 위해서 있는 게 V. C.
+
+
 ### 출처(참고문헌)
 -
 
