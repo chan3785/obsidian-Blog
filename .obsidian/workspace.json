@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "21e5cadb33e3fda8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C샵과 go 비교.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OOP vs PP vs FP.md",
+                "file": "C샵과 go 비교.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OOP vs PP vs FP.md",
+                "file": "C샵과 go 비교.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OOP vs PP vs FP.md"
+                "file": "C샵과 go 비교.md"
               }
             }
           }
@@ -184,11 +196,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d626cf82834d32ff",
+  "active": "21e5cadb33e3fda8",
   "lastOpenFiles": [
+    "OOP vs PP vs FP.md",
+    "C샵과 go 비교.md",
     "OOP vs PP vs FP.pdf",
     "Ethereum Study/ZKP basic/ZKP.md",
-    "OOP vs PP vs FP.md",
     "Ethereum Study/7월23일 과제.md",
     "Ethereum Study/ZKP basic/블록체인과 암호학.md",
     "2장 정렬.md",
@@ -232,7 +245,6 @@
     "첨부된 이미지/Pasted image 20240510164110.png",
     "첨부된 이미지",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "알고리즘 설계 2024 - 1학기"
+    "Untitled.canvas"
   ]
 }
