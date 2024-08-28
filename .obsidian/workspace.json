@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "전년도 수상작 리서치.md",
+                "file": "Ethereum Study/ZKP basic/ZKP.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "전년도 수상작 리서치.md",
+                "file": "Ethereum Study/ZKP basic/ZKP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "전년도 수상작 리서치.md",
+                "file": "Ethereum Study/ZKP basic/ZKP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "전년도 수상작 리서치.md"
+                "file": "Ethereum Study/ZKP basic/ZKP.md"
               }
             }
           }
@@ -210,11 +210,12 @@
   },
   "active": "5d843f67f59ee205",
   "lastOpenFiles": [
+    "Ethereum Study/ZKP basic/블록체인과 암호학.md",
+    "전년도 수상작 리서치.md",
     "전년도 수상작 리서치.pdf",
     "Pasted image 20240827210244.png",
     "Ethereum Study/Mastering Ethereum/Chapter 1.md",
     "Ethereum Study/이더리움 구조.md",
-    "전년도 수상작 리서치.md",
     "Pasted image 20240826225918.png",
     "Pasted image 20240826225317.png",
     "C샵과 go 비교.md",
@@ -223,7 +224,6 @@
     "OOP vs PP vs FP.pdf",
     "Ethereum Study/ZKP basic/ZKP.md",
     "Ethereum Study/7월23일 과제.md",
-    "Ethereum Study/ZKP basic/블록체인과 암호학.md",
     "2장 정렬.md",
     "Road To Dubai/GoLang Basic/go 언어 동시성 프로그래밍.md",
     "Ethereum Study/ZKP basic",
@@ -255,7 +255,6 @@
     "Output PDF",
     "새 폴더",
     "Ethereum Study/Mastering Ethereum",
-    "Ethereum Study",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
