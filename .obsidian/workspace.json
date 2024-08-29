@@ -78,9 +78,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c3b18f07fd0035d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-08-29 10.05.15.excalidraw.md"
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethereum Study/ZKP basic/ZKP.md",
+                "file": "Excalidraw/Drawing 2024-08-29 10.05.15.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ethereum Study/ZKP basic/ZKP.md",
+                "file": "Excalidraw/Drawing 2024-08-29 10.05.15.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -186,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ethereum Study/ZKP basic/ZKP.md"
+                "file": "Excalidraw/Drawing 2024-08-29 10.05.15.excalidraw.md"
               }
             }
           }
@@ -208,8 +218,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5d843f67f59ee205",
+  "active": "4c3b18f07fd0035d",
   "lastOpenFiles": [
+    "Ethereum Study/ZKP basic/ZKP.md",
+    "Excalidraw/Drawing 2024-08-29 10.05.15.excalidraw.md",
     "Ethereum Study/ZKP basic/블록체인과 암호학.md",
     "전년도 수상작 리서치.md",
     "전년도 수상작 리서치.pdf",
@@ -222,7 +234,6 @@
     "C샵과 go 비교.pdf",
     "OOP vs PP vs FP.md",
     "OOP vs PP vs FP.pdf",
-    "Ethereum Study/ZKP basic/ZKP.md",
     "Ethereum Study/7월23일 과제.md",
     "2장 정렬.md",
     "Road To Dubai/GoLang Basic/go 언어 동시성 프로그래밍.md",
