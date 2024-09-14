@@ -30,7 +30,9 @@ new Field(x);   // 정수를 받으며, Javascript에서 표현이 안되지만 
 new UInt64(x);  // Field를 받는다 - 64bit 내의 숫자로 제한할 때 유용하다.
 new UInt32(x);  // Field를 받는다 - 32bit 내의 숫자로 제한할 때 유용하다.
 PrivateKey, PublicKey, Signature;  // 계정 및 서명 작업에 유용
-new Group(x, y); // 타원 곡선의 한 점으로, 2 개의 Fie
+new Group(x, y); // 타원 곡선의 한 점으로, 2 개의 Field/numbers/strings를 허용한다.
+Scalar;  // 해당 스칼라 필드 (Field와는 다름)
+
 ```
 ### 출처(참고문헌)
 - https://docs.minaprotocol.com/zkapps/o1js/basic-concepts#field
