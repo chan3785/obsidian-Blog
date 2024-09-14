@@ -25,9 +25,9 @@ o1js에서는 이렇게 사용한다.
 ### Built-in data types
 아래는 흔히 사용되는 자료형이다.
 ```
-new Bool(x);    // 참, 거짓을 받는다
-new Field(x);   // 정수를 
-new UInt64(x);  // accepts a Field - 
+new Bool(x);    // 참, 거짓 값을 허용한다.
+new Field(x);   // 정수를 받으며, Javascript에서 표현이 안되지만 Field가 표현할 수 있는 범위 내의 큰 숫자를 문자열로 저장한다.
+new UInt64(x);  // 
 ```
 ### 출처(참고문헌)
 - https://docs.minaprotocol.com/zkapps/o1js/basic-concepts#field
