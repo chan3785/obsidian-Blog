@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-09-15.md",
+                "file": "2024-09-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-15.md",
+                "file": "2024-09-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-15.md",
+                "file": "2024-09-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-15.md"
+                "file": "2024-09-14.md"
               }
             }
           },
@@ -138,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -155,10 +155,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0336ec04a12462d6",
+  "active": "dbf38fe14031fa2e",
   "lastOpenFiles": [
-    "2024-09-14.md",
     "2024-09-15.md",
+    "2024-09-14.md",
     "To Do List.md",
     "2024-W37.md",
     "Ethereum Study/ZKP basic/ZKP.md",
