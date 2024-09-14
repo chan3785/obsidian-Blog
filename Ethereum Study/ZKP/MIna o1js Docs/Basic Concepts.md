@@ -67,9 +67,15 @@ function addOneAndDouble(x: Field): Field {
 자주 사용되는 몇가지 일반적인 메소드들은 다음과 같다.
 ```
 let x = new Field(4); // x = 4
-x = x.add(3);   
-x = x.sub(1);
+x = x.add(3);   // x = 7
+x = x.sub(1);   // x = 6
+x = x.mul(3);   // x = 18
+x = x.div(2);   // x = 9
+x = x.square(); // x = 81
+x = x.sqrt();   // x = -9
 ```
+
+
 ### 출처(참고문헌)
 - https://docs.minaprotocol.com/zkapps/o1js/basic-concepts#field
 
