@@ -58,8 +58,12 @@ const x = Circuit.if(new Bool(foo), a, b);  // foo ? a : b
 ### Functions
 function은 타입스크립트에서와 마찬가지로 작동합니다. 예를 들어,
 ```
-function add
+function addOneAndDouble(x: Field): Field {
+  return x.add(1).mul(2);
+}
 ```
+
+### Common methods
 
 ### 출처(참고문헌)
 - https://docs.minaprotocol.com/zkapps/o1js/basic-concepts#field
