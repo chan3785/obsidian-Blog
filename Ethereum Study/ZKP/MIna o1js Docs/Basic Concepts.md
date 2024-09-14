@@ -17,7 +17,12 @@ Solidity의 uint256로 생각하면 된다.
 o1js에서는 이렇게 사용한다.
 ```const sum = new Field(1).add(new Field(3))```
 
-다시 간단하게 
+다시 간단하게 만들면,
+```const sum = new Field(1).add(3)```
+
+3이 자동으로 필드 자료형으로 인식되어 더 깔끔하게 정리된다.
+
+### Built-in Data types
 ### 출처(참고문헌)
 - https://docs.minaprotocol.com/zkapps/o1js/basic-concepts#field
 
