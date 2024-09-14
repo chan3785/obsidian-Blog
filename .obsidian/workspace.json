@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-W37.md",
+                "file": "2024-09-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-W37.md",
+                "file": "2024-09-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-W37.md",
+                "file": "2024-09-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-W37.md"
+                "file": "2024-09-14.md"
               }
             }
           },
@@ -137,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,9 +157,9 @@
   },
   "active": "0336ec04a12462d6",
   "lastOpenFiles": [
-    "2024-W37.md",
-    "2024-09-14.md",
     "To Do List.md",
+    "2024-09-14.md",
+    "2024-W37.md",
     "Ethereum Study/ZKP basic/ZKP.md",
     "Excalidraw/Drawing 2024-08-29 10.05.15.excalidraw.md",
     "Ethereum Study/ZKP basic/블록체인과 암호학.md",
