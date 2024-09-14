@@ -25,9 +25,9 @@ o1js에서는 이렇게 사용한다.
 ### Built-in data types
 아래는 흔히 사용되는 자료형이다.
 ```
-new Bool(x);  // accepts true or false
-new Field(x); // accepts an integer, or a numeric string if you want to represent a number greater
-new Uint
+new Bool(x);    // 참, 거짓을 받는다
+new Field(x);   // 정수를 
+new UInt64(x);  // accepts a Field - 
 ```
 ### 출처(참고문헌)
 - https://docs.minaprotocol.com/zkapps/o1js/basic-concepts#field
