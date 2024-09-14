@@ -64,7 +64,12 @@ function addOneAndDouble(x: Field): Field {
 ```
 
 ### Common methods
-
+자주 사용되는 몇가지 일반적인 메소드들은 다음과 같다.
+```
+let x = new Field(4); // x = 4
+x = x.add(3);   
+x = x.sub(1);
+```
 ### 출처(참고문헌)
 - https://docs.minaprotocol.com/zkapps/o1js/basic-concepts#field
 
