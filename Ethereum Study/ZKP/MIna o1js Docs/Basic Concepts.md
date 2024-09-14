@@ -77,7 +77,15 @@ x = x.sqrt();   // x = -9
 let b = x.equals(8);   // b = Bool(false)
 b = x.greaterThan(8);  // b = Bool(true)
 b = b.not().or(b).and(b); // b = Bool(true)
-b.to
+b.toBoolean(); // true
+
+let hash = Poseidon.hash([x]); // Field
+  
+let privKey = PrivateKey.random(); // create a private key  
+let pubKey = PublicKey.fromPrivateKey(privKey); // derive public key  
+let msg = [hash];  
+let sig = Signature.create(privKey, msg); // sign a message  
+sig.verify(pubKey, msg); // Bool(true)
 ```
 
 
