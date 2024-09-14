@@ -50,8 +50,7 @@ if (foo) {
 }
 ```
 
-대신, o1js에 내장된 
-
+대신, o1js에 내장된 ```Circuit.if()``` 삼항연산자 함수를 사용한다.
 
 ### 출처(참고문헌)
 - https://docs.minaprotocol.com/zkapps/o1js/basic-concepts#field
