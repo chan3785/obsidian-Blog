@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "31efce9421e97312",
+        "id": "650b48df7bdeead0",
         "type": "tabs",
         "children": [
           {
-            "id": "530c16462d7c1ae8",
+            "id": "0336ec04a12462d6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do List.md",
+                "file": "2024-W37.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do List.md",
+                "file": "2024-W37.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do List.md",
+                "file": "2024-W37.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do List.md"
+                "file": "2024-W37.md"
               }
             }
           },
@@ -155,11 +155,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "530c16462d7c1ae8",
+  "active": "0336ec04a12462d6",
   "lastOpenFiles": [
-    "Ethereum Study/ZKP basic/ZKP.md",
+    "2024-W37.md",
     "2024-09-14.md",
     "To Do List.md",
+    "Ethereum Study/ZKP basic/ZKP.md",
     "Excalidraw/Drawing 2024-08-29 10.05.15.excalidraw.md",
     "Ethereum Study/ZKP basic/블록체인과 암호학.md",
     "전년도 수상작 리서치.md",
@@ -194,7 +195,6 @@
     "Road To Dubai",
     "Ethereum Study/Mastering Ethereum/Chapter 13 이더리움 가상머신.md",
     "Excalidraw/Drawing 2024-05-14 13.31.13.excalidraw.md",
-    "블록체인 칼리지.md",
     "Pasted image 20240723144256.png",
     "첨부된 이미지/Pasted image 20240716184807.png",
     "첨부된 이미지/Pasted image 20240716182442.png",
