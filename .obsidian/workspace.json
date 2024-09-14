@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-09-14.md",
+                "file": "Ethereum Study/ZKP/o1js/Feild.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-14.md",
+                "file": "Ethereum Study/ZKP/o1js/Feild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-14.md",
+                "file": "Ethereum Study/ZKP/o1js/Feild.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-14.md"
+                "file": "Ethereum Study/ZKP/o1js/Feild.md"
               }
             }
           },
@@ -155,15 +155,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dbf38fe14031fa2e",
+  "active": "0336ec04a12462d6",
   "lastOpenFiles": [
-    "2024-09-15.md",
     "2024-09-14.md",
+    "Ethereum Study/ZKP/o1js/Feild.md",
+    "Ethereum Study/ZKP/o1js",
+    "2024-09-15.md",
     "To Do List.md",
     "2024-W37.md",
-    "Ethereum Study/ZKP basic/ZKP.md",
+    "Ethereum Study/ZKP/ZKP.md",
     "Excalidraw/Drawing 2024-08-29 10.05.15.excalidraw.md",
-    "Ethereum Study/ZKP basic/블록체인과 암호학.md",
+    "Ethereum Study/ZKP/블록체인과 암호학.md",
     "전년도 수상작 리서치.md",
     "전년도 수상작 리서치.pdf",
     "Pasted image 20240827210244.png",
@@ -178,7 +180,7 @@
     "Ethereum Study/7월23일 과제.md",
     "2장 정렬.md",
     "Road To Dubai/GoLang Basic/go 언어 동시성 프로그래밍.md",
-    "Ethereum Study/ZKP basic",
+    "Ethereum Study/ZKP",
     "Road To Dubai/GoLang Basic/go 언어 기본 문법.md",
     "Road To Dubai/GoLang Basic/go 언어 자료구조.md",
     "Road To Dubai/GoLang Basic/go 언어 Interface.md",
@@ -194,7 +196,6 @@
     "07.26 블록체인 칼리지.md",
     "Road To Dubai/GoLang Basic",
     "Road To Dubai",
-    "Ethereum Study/Mastering Ethereum/Chapter 13 이더리움 가상머신.md",
     "Pasted image 20240723144256.png",
     "첨부된 이미지/Pasted image 20240716184807.png",
     "첨부된 이미지/Pasted image 20240716182442.png",
@@ -202,7 +203,6 @@
     "첨부된 이미지/Pasted image 20240427095615.png",
     "Output PDF",
     "새 폴더",
-    "Ethereum Study/Mastering Ethereum",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
