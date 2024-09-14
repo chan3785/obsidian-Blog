@@ -43,13 +43,16 @@ let b = Bool(true);
 
 ### Conditionals
 전통적인 조건문은 o1js에서는 지원되지 않는다.
-
 ```
 // 이 조건문은 작동하지 않을 것이다.
 if (foo) {
-
+  x.assertEquals(y);
 }
 ```
+
+대신, o1js에 내장된 
+
+
 ### 출처(참고문헌)
 - https://docs.minaprotocol.com/zkapps/o1js/basic-concepts#field
 
