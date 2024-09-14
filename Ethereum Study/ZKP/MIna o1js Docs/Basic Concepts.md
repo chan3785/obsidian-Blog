@@ -37,7 +37,18 @@ CircuitString.from('some string');  // 최대 128 길이의 문자열
 
 Bool과 Field는 new 대신에 생성자를 호출해서 사용할 수 있다.
 ```
-let x = Field
+let x = Field(10);
+let b = Bool(true);
+```
+
+### Conditionals
+전통적인 조건문은 o1js에서는 지원되지 않는다.
+
+```
+// 이 조건문은 작동하지 않을 것이다.
+if (foo) {
+
+}
 ```
 ### 출처(참고문헌)
 - https://docs.minaprotocol.com/zkapps/o1js/basic-concepts#field
