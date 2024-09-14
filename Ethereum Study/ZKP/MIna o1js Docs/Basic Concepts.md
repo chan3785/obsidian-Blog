@@ -73,6 +73,11 @@ x = x.mul(3);   // x = 18
 x = x.div(2);   // x = 9
 x = x.square(); // x = 81
 x = x.sqrt();   // x = -9
+
+let b = x.equals(8);   // b = Bool(false)
+b = x.greaterThan(8);  // b = Bool(true)
+b = b.not().or(b).and(b); // b = Bool(true)
+b.to
 ```
 
 
