@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-09-14.md",
+                "file": "2024-09-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-14.md",
+                "file": "2024-09-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-14.md",
+                "file": "2024-09-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-14.md"
+                "file": "2024-09-15.md"
               }
             }
           },
@@ -157,8 +157,9 @@
   },
   "active": "0336ec04a12462d6",
   "lastOpenFiles": [
-    "To Do List.md",
     "2024-09-14.md",
+    "2024-09-15.md",
+    "To Do List.md",
     "2024-W37.md",
     "Ethereum Study/ZKP basic/ZKP.md",
     "Excalidraw/Drawing 2024-08-29 10.05.15.excalidraw.md",
@@ -194,7 +195,6 @@
     "Road To Dubai/GoLang Basic",
     "Road To Dubai",
     "Ethereum Study/Mastering Ethereum/Chapter 13 이더리움 가상머신.md",
-    "Excalidraw/Drawing 2024-05-14 13.31.13.excalidraw.md",
     "Pasted image 20240723144256.png",
     "첨부된 이미지/Pasted image 20240716184807.png",
     "첨부된 이미지/Pasted image 20240716182442.png",
