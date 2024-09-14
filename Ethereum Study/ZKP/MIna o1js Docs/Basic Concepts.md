@@ -8,7 +8,13 @@
 
 ### Field
 Field는 영지식 프로그래밍에서 데이터의 기본 단위이다. 
-각 field 요소는 최대 256bit 
+각 field 요소는 최대 256bit 크기의 숫자를 저장할 수 있다.
+Solidity의 uint256로 생각하면 된다.
+
+예를 들어서 전형적인 프로그래밍에서는 이렇게 사용한다.
+`const sum = 1 + 3`.
+
+o1js에서는 이렇게 사용한다.
 
 ### 출처(참고문헌)
 - https://docs.minaprotocol.com/zkapps/o1js/basic-concepts#field
