@@ -23,7 +23,7 @@ o1js에서는 이렇게 사용한다.
 3이 자동으로 필드 자료형으로 인식되어 더 깔끔하게 정리된다.
 
 ### Built-in data types
-
+흔히 사용되는 
 ### 출처(참고문헌)
 - https://docs.minaprotocol.com/zkapps/o1js/basic-concepts#field
 
