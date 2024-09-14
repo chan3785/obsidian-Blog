@@ -32,8 +32,9 @@ new UInt32(x);  // Field를 받는다 - 32bit 내의 숫자로 제한할 때 유
 PrivateKey, PublicKey, Signature;  // 계정 및 서명 작업에 유용
 new Group(x, y); // 타원 곡선의 한 점으로, 2 개의 Field/numbers/strings를 허용한다.
 Scalar;  // 해당 스칼라 필드 (Field와는 다름)
-
+CircuitString.from('some string');  // 최대 128 길이의 문자열
 ```
+
 ### 출처(참고문헌)
 - https://docs.minaprotocol.com/zkapps/o1js/basic-concepts#field
 
