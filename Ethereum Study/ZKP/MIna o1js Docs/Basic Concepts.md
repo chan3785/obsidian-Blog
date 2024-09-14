@@ -35,6 +35,10 @@ Scalar;  // 해당 스칼라 필드 (Field와는 다름)
 CircuitString.from('some string');  // 최대 128 길이의 문자열
 ```
 
+Bool과 Field는 new 대신에 생성자를 호출해서 사용할 수 있다.
+```
+let x = Field
+```
 ### 출처(참고문헌)
 - https://docs.minaprotocol.com/zkapps/o1js/basic-concepts#field
 
