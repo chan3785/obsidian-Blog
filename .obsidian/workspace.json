@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethereum Study/ZKP/MIna o1js Docs/Basic Concepts.md",
+                "file": "Ethereum Study/ZKP/MIna o1js Docs/Recursion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethereum Study/ZKP/MIna o1js Docs/Basic Concepts.md",
+                "file": "Ethereum Study/ZKP/MIna o1js Docs/Recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ethereum Study/ZKP/MIna o1js Docs/Basic Concepts.md",
+                "file": "Ethereum Study/ZKP/MIna o1js Docs/Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ethereum Study/ZKP/MIna o1js Docs/Basic Concepts.md"
+                "file": "Ethereum Study/ZKP/MIna o1js Docs/Recursion.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "0336ec04a12462d6",
   "lastOpenFiles": [
-    "Ethereum Study/ZKP/MIna o1js Docs/Recursion.md",
     "Ethereum Study/ZKP/MIna o1js Docs/Basic Concepts.md",
+    "Ethereum Study/ZKP/MIna o1js Docs/Recursion.md",
     "2024-09-14.md",
     "Ethereum Study/ZKP/MIna o1js Docs",
     "2024-09-15.md",
