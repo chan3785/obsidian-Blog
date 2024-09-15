@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ethereum Study/ZKP/MIna o1js Docs/Basic Concepts.md",
+                "file": "Ethereum Study/ZKP/MIna o1js Docs/Recursion.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ethereum Study/ZKP/MIna o1js Docs/Basic Concepts.md",
+                "file": "Ethereum Study/ZKP/MIna o1js Docs/Recursion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ethereum Study/ZKP/MIna o1js Docs/Basic Concepts.md",
+                "file": "Ethereum Study/ZKP/MIna o1js Docs/Recursion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ethereum Study/ZKP/MIna o1js Docs/Basic Concepts.md"
+                "file": "Ethereum Study/ZKP/MIna o1js Docs/Recursion.md"
               }
             }
           },
@@ -155,10 +155,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8c75a5340b6ce88",
+  "active": "0336ec04a12462d6",
   "lastOpenFiles": [
-    "2024-09-14.md",
     "Ethereum Study/ZKP/MIna o1js Docs/Basic Concepts.md",
+    "Ethereum Study/ZKP/MIna o1js Docs/Recursion.md",
+    "2024-09-14.md",
     "Ethereum Study/ZKP/MIna o1js Docs",
     "2024-09-15.md",
     "To Do List.md",
@@ -193,7 +194,6 @@
     "이더리움 과제.md",
     "Ethereum Study/Mastering Ethereum/Chapter 6 트랜잭션.md",
     "Welcome.md",
-    "07.26 블록체인 칼리지.md",
     "Road To Dubai/GoLang Basic",
     "Road To Dubai",
     "Pasted image 20240723144256.png",
