@@ -31,7 +31,8 @@ o1js에서는, ```ZkProgram()```을 사용해 재귀 프로그램의 단계를 �
 스마트 컨트랙트 클래스 내의 메서드와 같이, ZkProgram에 대한 입력은 기본적으로 비공개이며 미나 네트워크에서 절대로 볼 수 없다.
 스마트 컨트랙트의 메서드와는 달리 zkApp 개발자는 zkProgram 내의 모든 메서드에 대한 공개 입력의 형식을 선택할 수 있다.
 
-### Example: Recursive
+### Example: Recursively verify a simple program in a zkApp
+
 
 ### 출처(참고문헌)
 -
