@@ -22,7 +22,9 @@ Mina protocol은 무한 재귀를 지원하는 유일한 블록체인이다.
 ### ZkProgram Overview
 
 > [!NOTE]
-> zkProgram은 최상위 수준 가져오기로 사용할 수 있다. Experimental.zkProgram은 더 이상 사용되지 않는다. 만약 zkProgrma
+> zkProgram은 최상위 수준 가져오기로 사용할 수 있다. ```Experimental.zkProgram``` 은 더 이상 사용되지 않는다. 만약 zkProgram 사용에 문제를 겪는다면 o1js를 최신 버전으로 업데이트 해 봐라.
+
+o1js에서, ```ZkProgram()```을 사용해 재귀 프로그램의 절차를 정의할 수 있다.
 
 ### 출처(참고문헌)
 -
