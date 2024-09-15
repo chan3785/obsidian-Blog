@@ -93,4 +93,4 @@ sig.verify(pubKey, msg); // Bool(true)
 - https://docs.minaprotocol.com/zkapps/o1js/basic-concepts#field
 
 ### 연결문서
--
+- https://docs.minaprotocol.com/zkapps/o1js-reference
