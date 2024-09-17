@@ -32,9 +32,7 @@ o1js에서는, ```ZkProgram()```을 사용해 재귀 프로그램의 단계를 �
 스마트 컨트랙트의 메서드와는 달리 zkApp 개발자는 zkProgram 내의 모든 메서드에 대한 공개 입력의 형식을 선택할 수 있다.
 
 ### Example: Recursively verify a simple program in a zkApp
-
-
-
+jhgjfuytbhgjhghk
 ### 출처(참고문헌)
 -
 
