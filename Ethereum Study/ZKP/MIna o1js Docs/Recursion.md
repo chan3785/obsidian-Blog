@@ -33,6 +33,8 @@ o1js에서는, ```ZkProgram()```을 사용해 재귀 프로그램의 단계를 �
 
 ### Example: Recursively verify a simple program in a zkApp
 jhgjfuytbhgjhghk
+
+여기는 맥북 옵시디언
 ### 출처(참고문헌)
 -
 
