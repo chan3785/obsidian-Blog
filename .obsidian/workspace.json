@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fa5d0636875dc517",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-19 13.32.22.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mac OS obsidian git plug-in.md",
+                "file": "Excalidraw/Drawing 2024-09-19 13.32.22.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mac OS obsidian git plug-in.md",
+                "file": "Excalidraw/Drawing 2024-09-19 13.32.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mac OS obsidian git plug-in.md"
+                "file": "Excalidraw/Drawing 2024-09-19 13.32.22.excalidraw.md"
               }
             }
           },
@@ -142,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,11 +167,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0336ec04a12462d6",
+  "active": "fa5d0636875dc517",
   "lastOpenFiles": [
+    "Mac OS obsidian git plug-in.md",
+    "Excalidraw/Drawing 2024-09-19 13.32.22.excalidraw.md",
     "Ethereum Study/ZKP/MIna o1js Docs/Recursion.md",
     "conflict-files-obsidian-git.md",
-    "Mac OS obsidian git plug-in.md",
     "스크린샷 2024-09-17 오후 7.00.03.png",
     "스크린샷 2024-09-17 오후 6.58.58.png",
     "스크린샷 2024-09-17 오후 6.56.56.png",
@@ -193,7 +206,6 @@
     "C샵과 go 비교.pdf",
     "OOP vs PP vs FP.md",
     "OOP vs PP vs FP.pdf",
-    "Ethereum Study/7월23일 과제.md",
     "Ethereum Study/ZKP",
     "Pasted image 20240802005222.png",
     "Pasted image 20240802005220.png",
