@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "467b628ed7694621",
@@ -167,7 +168,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fa5d0636875dc517",
+  "active": "e8c75a5340b6ce88",
   "lastOpenFiles": [
     "Mac OS obsidian git plug-in.md",
     "Excalidraw/Drawing 2024-09-19 13.32.22.excalidraw.md",
