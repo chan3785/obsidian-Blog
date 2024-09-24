@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "bf50f45c67c90fa4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-09-24 09.06.12.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "fa5d0636875dc517",
             "type": "leaf",
             "state": {
@@ -97,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-19 13.32.22.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-09-24 09.06.12.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-19 13.32.22.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-09-24 09.06.12.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-19 13.32.22.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-09-24 09.06.12.excalidraw.md"
               }
             }
           },
@@ -168,9 +178,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8c75a5340b6ce88",
+  "active": "bf50f45c67c90fa4",
   "lastOpenFiles": [
     "Mac OS obsidian git plug-in.md",
+    "Excalidraw/Drawing 2024-09-24 09.06.12.excalidraw.md",
     "Excalidraw/Drawing 2024-09-19 13.32.22.excalidraw.md",
     "Ethereum Study/ZKP/MIna o1js Docs/Recursion.md",
     "conflict-files-obsidian-git.md",
@@ -205,7 +216,6 @@
     "Pasted image 20240826225317.png",
     "C샵과 go 비교.md",
     "C샵과 go 비교.pdf",
-    "OOP vs PP vs FP.md",
     "OOP vs PP vs FP.pdf",
     "Ethereum Study/ZKP",
     "Pasted image 20240802005222.png",
