@@ -50,6 +50,16 @@
             }
           },
           {
+            "id": "5ccbca86d7841259",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-10-10 13.44.24.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "fa5d0636875dc517",
             "type": "leaf",
             "state": {
@@ -60,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -127,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-26 13.38.08.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-10-10 13.44.24.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-26 13.38.08.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-10-10 13.44.24.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -167,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-09-26 13.38.08.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-10-10 13.44.24.excalidraw.md"
               }
             }
           },
@@ -198,10 +208,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2742e2899a013384",
+  "active": "5ccbca86d7841259",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-24 13.39.26.excalidraw.md",
     "Excalidraw/Drawing 2024-09-26 13.38.08.excalidraw.md",
+    "Excalidraw/Drawing 2024-10-10 13.44.24.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-24 13.39.26.excalidraw.md",
     "Excalidraw/Drawing 2024-09-24 09.06.12.excalidraw.md",
     "Mac OS obsidian git plug-in.md",
     "Excalidraw/Drawing 2024-09-19 13.32.22.excalidraw.md",
@@ -232,7 +243,6 @@
     "전년도 수상작 리서치.md",
     "전년도 수상작 리서치.pdf",
     "Pasted image 20240827210244.png",
-    "Ethereum Study/Mastering Ethereum/Chapter 1.md",
     "Pasted image 20240826225918.png",
     "Pasted image 20240826225317.png",
     "C샵과 go 비교.pdf",
