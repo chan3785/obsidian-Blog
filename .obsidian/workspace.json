@@ -55,7 +55,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-10 13.44.24.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-09-19 13.32.22.excalidraw.md"
               }
             }
           },
@@ -120,8 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5,
-    "collapsed": true
+    "width": 227.5
   },
   "right": {
     "id": "467b628ed7694621",
@@ -137,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-10 13.44.24.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-09-19 13.32.22.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-10 13.44.24.excalidraw.md",
+                "file": "Excalidraw/Drawing 2024-09-19 13.32.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -177,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2024-10-10 13.44.24.excalidraw.md"
+                "file": "Excalidraw/Drawing 2024-09-19 13.32.22.excalidraw.md"
               }
             }
           },
@@ -210,10 +209,10 @@
   },
   "active": "5ccbca86d7841259",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-09-24 09.06.12.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-24 13.39.26.excalidraw.md",
     "Excalidraw/Drawing 2024-09-26 13.38.08.excalidraw.md",
     "Excalidraw/Drawing 2024-10-10 13.44.24.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-24 13.39.26.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-24 09.06.12.excalidraw.md",
     "Mac OS obsidian git plug-in.md",
     "Excalidraw/Drawing 2024-09-19 13.32.22.excalidraw.md",
     "Ethereum Study/ZKP/MIna o1js Docs/Recursion.md",
