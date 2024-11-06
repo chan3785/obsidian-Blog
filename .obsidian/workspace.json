@@ -96,6 +96,18 @@
             }
           },
           {
+            "id": "2e090ef028e3e20b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-06 15.04.23.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-06 15.04.23.excalidraw"
+            }
+          },
+          {
             "id": "fa5d0636875dc517",
             "type": "leaf",
             "state": {
@@ -108,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -164,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "467b628ed7694621",
@@ -261,10 +274,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c08cad9206b0424",
+  "active": "2e090ef028e3e20b",
   "lastOpenFiles": [
-    "Ethereum Study/ZKP/MIna o1js Docs/Basic Concepts.md",
     "Excalidraw/Drawing 2024-10-29 13.42.30.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-06 15.04.23.excalidraw.md",
+    "Ethereum Study/ZKP/MIna o1js Docs/Basic Concepts.md",
     "Excalidraw/Drawing 2024-09-19 13.32.22.excalidraw.md",
     "Excalidraw/Drawing 2024-09-24 09.06.12.excalidraw.md",
     "Excalidraw/Drawing 2024-09-24 13.39.26.excalidraw.md",
@@ -293,7 +307,6 @@
     "To Do List.md",
     "2024-W37.md",
     "Ethereum Study/ZKP/ZKP.md",
-    "Ethereum Study/ZKP/블록체인과 암호학.md",
     "전년도 수상작 리서치.pdf",
     "Pasted image 20240827210244.png",
     "Pasted image 20240826225918.png",
