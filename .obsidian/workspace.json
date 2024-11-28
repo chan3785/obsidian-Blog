@@ -156,6 +156,18 @@
             }
           },
           {
+            "id": "23c1104c2816aba8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-28 13.49.27.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-28 13.49.27.excalidraw"
+            }
+          },
+          {
             "id": "fa5d0636875dc517",
             "type": "leaf",
             "state": {
@@ -168,7 +180,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -322,9 +334,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e5a367849cbd263",
+  "active": "23c1104c2816aba8",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2024-11-26 13.32.47.excalidraw.md",
+    "Excalidraw/Drawing 2024-11-28 13.49.27.excalidraw.md",
     "Excalidraw/Drawing 2024-11-20 15.02.30.excalidraw.md",
     "Excalidraw/Drawing 2024-11-14 13.33.21.excalidraw.md",
     "Excalidraw/Drawing 2024-10-29 13.42.30.excalidraw.md",
@@ -354,7 +367,6 @@
     "Excalidraw/Drawing 2024-05-14 13.31.13.excalidraw.md",
     "2024-09-14.md",
     "Ethereum Study/ZKP/MIna o1js Docs",
-    "2024-09-15.md",
     "전년도 수상작 리서치.pdf",
     "Pasted image 20240827210244.png",
     "Pasted image 20240826225918.png",
