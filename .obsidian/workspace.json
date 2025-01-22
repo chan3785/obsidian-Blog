@@ -185,12 +185,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "전년도 수상작 리서치.md",
+                "file": "2장 정렬.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "전년도 수상작 리서치"
+              "title": "2장 정렬"
+            }
+          },
+          {
+            "id": "75e8beb774940172",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "이찬호 이력서.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "이찬호 이력서"
             }
           },
           {
@@ -206,7 +220,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -359,8 +373,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9239e6fbc0e62d3a",
+  "active": "75e8beb774940172",
   "lastOpenFiles": [
+    "2장 정렬.md",
+    "이찬호 이력서.md",
+    "전년도 수상작 리서치.md",
     "전년도 수상작 리서치.pdf",
     "이더리움 과제.md",
     "인공지능 응용.md",
@@ -385,8 +402,6 @@
     "Excalidraw/Drawing 2024-09-26 13.38.08.excalidraw.md",
     "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
     "Excalidraw/Drawing 2024-08-29 10.05.15.excalidraw.md",
-    "Mac OS obsidian git plug-in.md",
-    "Ethereum Study/ZKP/MIna o1js Docs/Recursion.md",
     "스크린샷 2024-09-17 오후 7.00.03.png",
     "스크린샷 2024-09-17 오후 6.58.58.png",
     "스크린샷 2024-09-17 오후 6.56.56.png",
