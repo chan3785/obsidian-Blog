@@ -31,7 +31,7 @@ An aspiring front-end developer with a strong passion for learning and excellent
 
 **Education**  
 **Inha University**  
-Bachelor’s Degree in Information and Communication Engineering (Expected Graduation: August 2027)  
+Information and Communication Engineering (Expected Graduation: August 2027)  
 GPA: 3.23 / 4.5
 
 ---
