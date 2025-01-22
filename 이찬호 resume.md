@@ -168,7 +168,7 @@ GPA: 3.23 / 4.5
 - **1st Place:** PYUSD Build On, Project: Data Discovery (2024)
 	
 - **1st Place:** Masa - Build AI Agent with FREE Masa Twitter Data 
-- Honorable Mention: Native Track
+- **Honorable Mention:** Native Track
 	project: Dead Project Snipper (2024)
 	
 - Honorable Mention: Blockchain ESG Hackathon (2024)
