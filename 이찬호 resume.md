@@ -166,7 +166,9 @@ GPA: 3.23 / 4.5
 - **3rd Place:** XRPL SEA Hackathon, Project: Ripple Market (2024)
     
 - **1st Place:** PYUSD Build On, Project: Data Discovery (2024)
-    
+	
+- **1st Place:** Honorable Mention: Blockchain ESG Hackathon (2024)
+	
 - Honorable Mention: Blockchain ESG Hackathon (2024)
     
 
