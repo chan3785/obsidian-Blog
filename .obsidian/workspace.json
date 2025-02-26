@@ -222,6 +222,18 @@
             }
           },
           {
+            "id": "929e489db3f0c583",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-26 13.16.28.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-26 13.16.28.excalidraw"
+            }
+          },
+          {
             "id": "fa5d0636875dc517",
             "type": "leaf",
             "state": {
@@ -234,7 +246,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -290,7 +302,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 227.5,
+    "collapsed": true
   },
   "right": {
     "id": "467b628ed7694621",
@@ -387,10 +400,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "57576fb443b2d577",
+  "active": "929e489db3f0c583",
   "lastOpenFiles": [
-    "이찬호 이력서.md",
     "이찬호 resume.md",
+    "Excalidraw/Drawing 2025-02-26 13.16.28.excalidraw.md",
+    "이찬호 이력서.md",
     "2장 정렬.md",
     "전년도 수상작 리서치.md",
     "전년도 수상작 리서치.pdf",
@@ -415,7 +429,6 @@
     "Excalidraw/Drawing 2024-09-24 09.06.12.excalidraw.md",
     "Excalidraw/Drawing 2024-09-24 13.39.26.excalidraw.md",
     "Excalidraw/Drawing 2024-09-26 13.38.08.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-13 21.33.12.excalidraw.md",
     "스크린샷 2024-09-17 오후 7.00.03.png",
     "스크린샷 2024-09-17 오후 6.58.58.png",
     "스크린샷 2024-09-17 오후 6.56.56.png",
