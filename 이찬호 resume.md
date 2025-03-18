@@ -47,6 +47,31 @@ Twitter: https://x.com/chan3785
 **개선점:**
 1. 컨트랙트 개발이 없이 pb로 로직 구현 및 escrow로 구현된 점이 아쉬웠음.
 2. xrpl side chain에서 solidity로 백엔드 구성하면 꽤 좋은 프로젝트가 될 것 같음.
-3. 리플의 트랜잭션 처리 방식상 송신자와 수신자가 sign해야 트랜잭션이 처리되는 롲
+3. 리플의 트랜잭션 처리 방식상 송신자와 수신자가 sign해야 트랜잭션이 처리되는 로직과 프로젝트의 방향성이 알맞아 컨트랙트 개발을 해서 만들고 싶음.
 
 **링크:** [Website](https://ripplemarket-chan3785s-projects.vercel.app/) | [GitHub](https://github.com/hackathemy/ripplemarket)
+
+---
+
+##### Ripple market 
+**역할:** Front-End Developer  
+**개요:** web3 second hand market
+**기술 스택:** Next.js, TypeScript, web3Auth
+
+**수행한 업무:**
+1. 로그인/회원가입: web3Auth SDK를 사용. 소셜 로그인 google auth를 통해 지갑 로그인 구현. getAccount()로 로그인 상태 예외처리 로직 강화.
+2. 게시글 생성/조회/수정/삭제: pocket base를 통해 CRUD 로직 연결
+
+**결과:**
+1. XRPL 2024 해커톤 3rd Place 수상 ($2000)
+2. web3Auth, 소셜 로그인 사용
+
+**개선점:**
+1. 컨트랙트 개발이 없이 pb로 로직 구현 및 escrow로 구현된 점이 아쉬웠음.
+2. xrpl side chain에서 solidity로 백엔드 구성하면 꽤 좋은 프로젝트가 될 것 같음.
+3. 리플의 트랜잭션 처리 방식상 송신자와 수신자가 sign해야 트랜잭션이 처리되는 로직과 프로젝트의 방향성이 알맞아 컨트랙트 개발을 해서 만들고 싶음.
+
+**링크:** [Website](https://ripplemarket-chan3785s-projects.vercel.app/) | [GitHub](https://github.com/hackathemy/ripplemarket)
+
+---
+
