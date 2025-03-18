@@ -38,7 +38,8 @@ Twitter: https://x.com/chan3785
 
 **수행한 업무:**
 1. 로그인/회원가입: web3Auth SDK를 사용. 소셜 로그인 google auth를 통해 지갑 로그인 구현. getAccount()로 로그인 상태 예외처리 로직 강화.
-2. 게시글 생성/조회: sendTX를 통해 게시글 생성, 
+2. 게시글 생성/조회/수정/삭제: pocket base를 통해 CRUD 로직 연결
+3. 
 
 - 결과
 1. 영어 커뮤니케이션 협업 능력 향상
