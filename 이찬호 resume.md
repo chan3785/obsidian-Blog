@@ -40,8 +40,8 @@ wagmi 라이브러리를 많이 사용하면서 evm 기반 체인은 어떤 것�
 **기술 스택:** Next.js, TypeScript, web3Auth
 
 **수행한 업무:**
-1. 로그인/회원가입: web3Auth SDK를 사용. 소셜 로그인 google auth를 통해 지갑 로그인 구현
-2. 게시글 생성/조회/삭제: writeContract(), readContract를 통해 게시글을 생성하고 리스트, 상세 조회
+1. 로그인/회원가입: web3Auth SDK를 사용. 소셜 로그인 google auth를 통해 지갑 로그인 구현. getAccount()로 로그인 상태 예외처리 로직 강화.
+2. 게시글 생성/조회/삭제: getAccount 통해 게시글을 생성하고 리스트, 상세 조회
 3. 
 
 - 결과
