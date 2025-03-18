@@ -46,6 +46,7 @@ Twitter: https://x.com/chan3785
 
 **개선점:**
 1. 컨트랙트 개발이 없이 pb로 로직 구현 및 escrow로 구현된 점이 아쉬웠음.
-2. xrpl side chain에서 
+2. xrpl side chain에서 solidity로 백엔드 구성하면 꽤 좋은 프로젝트가 될 것 같음.
+3. 리플의 트랜잭션 처리 방식상 송신자와 수신자가 sign해야 트랜잭션이 처리되는 롲
 
 **링크:** [Website](https://ripplemarket-chan3785s-projects.vercel.app/) | [GitHub](https://github.com/hackathemy/ripplemarket)
