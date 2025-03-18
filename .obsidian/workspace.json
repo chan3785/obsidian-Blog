@@ -237,12 +237,14 @@
             "id": "e42689c752f78036",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "이찬호 resume.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "이찬호 resume"
             }
           },
           {
@@ -412,7 +414,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8bb5274e1d52cdc3",
+  "active": "e42689c752f78036",
   "lastOpenFiles": [
     "이찬호 resume.md",
     "Excalidraw/Drawing 2025-02-26 13.16.28.excalidraw.md",

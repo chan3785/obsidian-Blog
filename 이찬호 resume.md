@@ -4,36 +4,6 @@
 Email: dirtyface1234@naver.com  
 Phone: +82 10-3029-3696
 
-**Professional Summary**  
-An aspiring front-end developer with a strong passion for learning and excellent communication skills. Experienced in collaborative projects, game development, and blockchain technology. Actively seeking opportunities to further hone my skills and contribute to innovative teams.
-
----
-
-**Career Objectives**
-
-- Front-End Developer
-    
-- Web Full-Stack Developer
-    
-- Game Client Developer
-    
-- Blockchain Specialist
-    
-
-**Technical Skills**
-
-- **Front-End:** Next.js, TypeScript, React, React Native
-    
-- **Back-End:** MySQL, Solidity, Python
-    
-- **Game Development:** Unity, Android Studio, Linux
-    
-
-**Education**  
-**Inha University**  
-Information and Communication Engineering (Expected Graduation: August 2027)  
-GPA: 3.23 / 4.5
-
 ---
 
 **Projects**
