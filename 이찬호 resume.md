@@ -26,7 +26,8 @@ Twitter: https://x.com/chan3785
 
 **개선점:**
 1. 모바일 UI가 개선이 되었으면 좋겠음.
-2. 단순한 가격 예측 모델이 아닌 dapp과 관련된 (e)
+2. 단순한 가격 예측 모델이 아닌 dapp과 관련된 (ex. 활성 사용자 수, TVL 등)에 대한 정보를 불러오는 api를 활용하면 더 재밌었을 것 같음.
+3. 커스텀 훅으로 반복되는 코드 
 **링크:** [Website](https://supertell.vercel.app) | [GitHub](https://github.com/chan3785/supertell.git)
 
 ---
