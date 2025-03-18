@@ -19,11 +19,7 @@ Twitter: https://x.com/chan3785
 1. 로그인: wagmi를 사용해 지갑 로그인 구현. context api와 provider로 로그인 상태를 전역적으로 관리, 브라우저 local storage에 토큰 저장으로 로그인 유지
 2. 게임 생성/조회/삭제: writeContract(), readContract를 통해 게임을 생성하고 게임 리스트, 게임 상세 조회 
 3. 반응형 웹 디자인: React context API를 사용해 사용자 기기의 스크린 크기를 전역 상태로 상태값에 따른 반응형 웹 디자인 구현.
-4. 텔레그램 웹 앱 배포: telegram bot api로 te
-
-5. 데모 녹화
-유저 플로우를 작성하고 화면 녹화
-텔레그램 모바일 앱 화면으로 녹화를 진행한 점이 독특했음.
+4. 텔레그램 웹 앱 배포: telegram bot api로 telegram bot 생성 -> TWA 배포
 
 - 결과
 1. 영어 커뮤니케이션 능력 향상
