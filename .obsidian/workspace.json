@@ -234,6 +234,18 @@
             }
           },
           {
+            "id": "e42689c752f78036",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
             "id": "fa5d0636875dc517",
             "type": "leaf",
             "state": {
@@ -246,7 +258,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -400,7 +412,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "929e489db3f0c583",
+  "active": "8bb5274e1d52cdc3",
   "lastOpenFiles": [
     "이찬호 resume.md",
     "Excalidraw/Drawing 2025-02-26 13.16.28.excalidraw.md",
