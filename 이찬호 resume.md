@@ -7,9 +7,7 @@ Github: https://github.com/chan3785
 Twitter: https://x.com/chan3785
 
 ---
-
-**Projects**
-
+## **Projects**
 #### SuperTell 
 **역할:** Front-End Developer  
 **개요:** A prediction market platform built on the NEO blockchain.  
@@ -28,15 +26,10 @@ Twitter: https://x.com/chan3785
 
 - 후기
 영어에 더 자신감을 갖게 되었습니다.
-외국 개발팀과 소통하며 오류를 해결하는 것과는 또 다른 경험이었습니다.
+외국 개발팀과 소통하며 오류를 해결하는 것과
+외국 개발자와 직접 함께 개발하는 것은 또 다른 경험이었습니다.
 영어로만 소통했지만 생각보다 협업을 위한 의사소통에 문제를 느끼진 않았고 자신감을 얻게 된 계기가 되었습니다. 
 
-React context api를 사용하는 방법을 배웠습니다.
-그 전에는 항상 모듈에 내장된 기능을 사용해서 직접 사용할 기회가 없었지만 이번에 사용해 보면서 provider로 감싸고 상태를 어디서든 참조하는 방법을 배웠습니다.
-그런만큼 다양한 보안 이슈나 버그가 발생할 수 있어서 조심해서 사용해야 하는 것도 배웠습니다.
-
-외국 개발자에게 함께 프로젝트를 진행하자고 연락하는 경험을 처음 해 봤습니다.
-생각했던 것보다 흔쾌히 받아들여주어서 좋은 경험이었습니다. 기회가 될 때 외국 개발자들과 일해보는 것도 재밌을 것 같습니다.
-
-wagmi 라이브러리를 많이 사용하면서 evm 기반 체인은 어떤 것이든 연결할 수 있을 것이라는 자신감을 가지게 되었습니다.
+wagmi 라이브러리를 많이 사용하면서 evm 기반 체인은 어떤 것이든 지갑 연결할 수 있을 것이라는 자신감을 가지게 되었습니다.
 **링크:** [Website](https://supertell.vercel.app) | [GitHub](https://github.com/chan3785/supertell.git)
+
