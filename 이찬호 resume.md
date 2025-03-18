@@ -34,10 +34,10 @@ wagmi 라이브러리를 많이 사용하면서 evm 기반 체인은 어떤 것�
 **링크:** [Website](https://supertell.vercel.app) | [GitHub](https://github.com/chan3785/supertell.git)
 
 ---
-##### SuperTell 
+##### Ripple market 
 **역할:** Front-End Developer  
-**개요:** A prediction market platform built on the NEO blockchain.  
-**기술 스택:** Next.js, TypeScript, Solidity, Telegram Bot API  
+**개요:** web3 second hand market
+**기술 스택:** Next.js, TypeScript, web3Auth
 
 **수행한 업무:**
 1. 로그인: wagmi를 사용해 지갑 로그인 구현. context api와 provider로 로그인 상태를 전역적으로 관리, 브라우저 local storage에 토큰 저장으로 로그인 유지
