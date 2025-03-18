@@ -225,18 +225,6 @@
             "id": "929e489db3f0c583",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-02-26 13.16.28.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-26 13.16.28.excalidraw"
-            }
-          },
-          {
-            "id": "e42689c752f78036",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "이찬호 프로젝트 저장소.md",
@@ -260,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -414,10 +402,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e42689c752f78036",
+  "active": "929e489db3f0c583",
   "lastOpenFiles": [
-    "이찬호 프로젝트 저장소.md",
     "Excalidraw/Drawing 2025-02-26 13.16.28.excalidraw.md",
+    "이찬호 프로젝트 저장소.md",
     "이찬호 이력서.md",
     "2장 정렬.md",
     "전년도 수상작 리서치.md",
