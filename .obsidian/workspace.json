@@ -227,12 +227,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "이찬호 프로젝트 저장소.md",
+                "file": "이찬호 프로젝트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "이찬호 프로젝트 저장소"
+              "title": "이찬호 프로젝트"
             }
           },
           {
@@ -405,7 +405,7 @@
   "active": "929e489db3f0c583",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-02-26 13.16.28.excalidraw.md",
-    "이찬호 프로젝트 저장소.md",
+    "이찬호 프로젝트.md",
     "이찬호 이력서.md",
     "2장 정렬.md",
     "전년도 수상작 리서치.md",
