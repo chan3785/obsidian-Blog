@@ -17,10 +17,9 @@ Twitter: https://x.com/chan3785
 
 **수행한 업무:**
 1. 프론트엔드 개발
-로그인: wagmi를 사용해 지갑 로그인 구현. context api와 provider로 로그인 상태 관리, 브라우저 local storage에 토큰 저장으로 로그인 유지 기능 구현
-neo X 체인이 EVM 기반이므로 wagmi 문서를 보며 chain custom configuration으로 neo 체인에 연결 구현.
+로그인: wagmi를 사용해 지갑 로그인 구현. context api와 provider로 로그인 상태를 전역적으로 관리, 브라우저 local storage에 토큰 저장으로 로그인 유지
 
-홈페이지: wagmi 모듈로 컨트랙트에서 get 함수 호출 -> 데이터 props로 받아와서 라운드 별 게임 순차적으로 홈페이지에 렌더링 구현
+홈페이지: 컨트랙트에서 게임 정보 GET -> 데이터 props로 받아와서 라운드 별 게임 렌더링 구현
 
 게임 제작 페이지: 유저 플로우와 프로젝트 컨셉을 고려하여 디자인 수정 및 컨트랙트로 데이터 전달 구현
 
