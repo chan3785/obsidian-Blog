@@ -6,4 +6,4 @@ Twitter: https://x.com/chan3785
 
 ---
 
-**Projects**
+**프로젝트**
