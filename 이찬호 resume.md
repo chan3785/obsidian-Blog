@@ -52,4 +52,4 @@ Twitter: https://x.com/chan3785
 영어로만 소통했지만 생각보다 협업을 위한 의사소통에 문제를 느끼진 않았고 자신감을 얻게 된 계기가 되었습니다. 
 
 wagmi 라이브러리를 많이 사용하면서 evm 기반 체인은 어떤 것이든 지갑 연결할 수 있을 것이라는 자신감을 가지게 되었습니다.
-**링크:** [Website](https://supertell.vercel.app) | [GitHub](https://github.com/chan3785/supertell.git)
+**링크:** [Website]([https://ripplemarket-chan3785s-projects.vercel.app/](https://ripplemarket-chan3785s-projects.vercel.app/)) | [GitHub](https://github.com/hackathemy/ripplemarket)
