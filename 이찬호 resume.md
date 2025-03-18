@@ -17,7 +17,7 @@ Twitter: https://x.com/chan3785
 
 **수행한 업무:**
 1. 프론트엔드 개발
-로그인: wagmi 모듈을 사용해 지갑 로그인 구현. 지갑 모듈 내 context api를 통해 전체 페이지를 wagmi provider로 감싸서 로그인 전역 상태 관리, 브라우저 local storage에 토큰 저장으로 로그인 유지 기능 구현
+로그인: wagmi를 사용해 지갑 로그인 구현. context api와 provider로 로그인 상태 관리, 브라우저 local storage에 토큰 저장으로 로그인 유지 기능 구현
 neo X 체인이 EVM 기반이므로 wagmi 문서를 보며 chain custom configuration으로 neo 체인에 연결 구현.
 
 홈페이지: wagmi 모듈로 컨트랙트에서 get 함수 호출 -> 데이터 props로 받아와서 라운드 별 게임 순차적으로 홈페이지에 렌더링 구현
@@ -58,4 +58,4 @@ React context api를 사용하는 방법을 배웠습니다.
 생각했던 것보다 흔쾌히 받아들여주어서 좋은 경험이었습니다. 기회가 될 때 외국 개발자들과 일해보는 것도 재밌을 것 같습니다.
 
 wagmi 라이브러리를 많이 사용하면서 evm 기반 체인은 어떤 것이든 연결할 수 있을 것이라는 자신감을 가지게 되었습니다.
-**Links:** [Website](https://supertell.vercel.app) | [GitHub](https://github.com/chan3785/supertell.git)
+**링크:** [Website](https://supertell.vercel.app) | [GitHub](https://github.com/chan3785/supertell.git)
