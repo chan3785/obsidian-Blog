@@ -40,7 +40,7 @@ wagmi 라이브러리를 많이 사용하면서 evm 기반 체인은 어떤 것�
 **기술 스택:** Next.js, TypeScript, web3Auth
 
 **수행한 업무:**
-1. 로그인/회원가입: web3Auth를 사용. 소셜 로그인 google auth를 통해 지갑 로그인 구현
+1. 로그인/회원가입: web3Auth SDK를 사용. 소셜 로그인 google auth를 통해 지갑 로그인 구현
 2. 게임 생성/조회/삭제: writeContract(), readContract를 통해 게임을 생성하고 게임 리스트, 게임 상세 조회 
 3. 반응형 웹 디자인: React context API를 사용해 사용자 기기의 스크린 크기를 전역 상태로 상태값에 따른 반응형 웹 디자인 구현.
 4. 텔레그램 웹 앱 배포: telegram bot api로 telegram bot 생성 -> TWA 배포
