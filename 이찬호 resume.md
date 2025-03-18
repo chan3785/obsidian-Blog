@@ -40,12 +40,12 @@ Twitter: https://x.com/chan3785
 1. 로그인/회원가입: web3Auth SDK를 사용. 소셜 로그인 google auth를 통해 지갑 로그인 구현. getAccount()로 로그인 상태 예외처리 로직 강화.
 2. 게시글 생성/조회/수정/삭제: pocket base를 통해 CRUD 로직 연결
 
-- 결과
+**결과:**
 1. XRPL 2024 해커톤 3rd Place 수상 ($2000)
 2. web3Auth, 소셜 로그인 사용
 
-- 후기
-non-evm 체인에 연결할 때는 web3auth 모듈을 사용할 수 있는 것을 배웠습니다.
-문서를 찾아보니 리플 뿐만 아니라 solana 등 다른 레이어 1 체인에도 연결할 수 있고 소셜 로그인 기능을 제공하므로 사용자 경험이 좋을 것 같습니다.
+**개선점:**
+1. 컨트랙트 개발이 없이 pb로 로직 구현 및 escrow로 구현된 점이 아쉬웠음.
+2. xrpl side chain에서 
 
 **링크:** [Website](https://ripplemarket-chan3785s-projects.vercel.app/) | [GitHub](https://github.com/hackathemy/ripplemarket)
