@@ -25,7 +25,8 @@ Twitter: https://x.com/chan3785
 3. 해외 개발자 협업 경험
 
 **개선점:**
-1. UI
+1. 모바일 UI가 개선이 되었으면 좋겠음.
+2. 단순한 가격 예측 모델이 아닌 dapp과 관련된 (e)
 **링크:** [Website](https://supertell.vercel.app) | [GitHub](https://github.com/chan3785/supertell.git)
 
 ---
