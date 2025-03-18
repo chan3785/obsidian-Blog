@@ -16,13 +16,10 @@ Twitter: https://x.com/chan3785
 **기술 스택:** Next.js, TypeScript, Solidity, Telegram Bot API  
 
 **수행한 업무:**
-1. 프론트엔드 개발
-로그인: wagmi를 사용해 지갑 로그인 구현. context api와 provider로 로그인 상태를 전역적으로 관리, 브라우저 local storage에 토큰 저장으로 로그인 유지
 
-홈페이지: 컨트랙트에서 게임 정보 GET -> 데이터 props로 받아와서 라운드 별 게임 렌더링 구현
+1. 로그인: wagmi를 사용해 지갑 로그인 구현. context api와 provider로 로그인 상태를 전역적으로 관리, 브라우저 local storage에 토큰 저장으로 로그인 유지
 
-게임 제작 페이지: 유저 플로우와 프로젝트 컨셉을 고려하여 디자인 수정 및 컨트랙트로 데이터 전달 구현
-
+게임 생성/조회/삭제 
 반응형 웹 디자인: 모바일과 데스크탑에 컴포넌트가 제대로 렌더링 되도록 React context API를 사용해 사용자 기기의 스크린 크기를 전역 상태값으로 관리.
 스크린 크기 상태값에 따른 반응형 웹 디자인 구현.
 
