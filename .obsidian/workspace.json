@@ -236,6 +236,18 @@
             }
           },
           {
+            "id": "79209025b1200545",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
+          },
+          {
             "id": "fa5d0636875dc517",
             "type": "leaf",
             "state": {
@@ -248,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -402,7 +414,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "929e489db3f0c583",
+  "active": "79209025b1200545",
   "lastOpenFiles": [
     "().md",
     "이찬호 프로젝트.md",
